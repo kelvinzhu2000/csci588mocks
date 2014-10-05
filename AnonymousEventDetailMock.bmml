@@ -42,11 +42,11 @@
         <text>Yes</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="122" y="403" w="-1" h="-1" measuredW="82" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="122" y="452" w="-1" h="-1" measuredW="82" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>AnonymousEventSubscribeMock%26bm%3BAnonymousEventSubscribeMock.bmml%26bm%3BAnonymousEventSubscribeMock.bmml%26bm%3BAnonymousEventSubscribeMock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22100%2C394%2C182%2C421%22%20href%3D%22AnonymousEventSubscribeMock.bmml%22%20alt%3D%22AnonymousEventSubscribeMock%22%20id%3D%2215%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22100%2C443%2C182%2C470%22%20href%3D%22AnonymousEventSubscribeMock.bmml%22%20alt%3D%22AnonymousEventSubscribeMock%22%20id%3D%2215%22/%3E</map>
         <text>Subscribe</text>
       </controlProperties>
     </control>
@@ -55,6 +55,11 @@
         <href>AnonymousEventMapMock%26bm%3BAnonymousEventMapMock.bmml%26bm%3BAnonymousEventMapMock.bmml%26bm%3BAnonymousEventMapMock.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2254%2C271%2C182%2C290%22%20href%3D%22AnonymousEventMapMock.bmml%22%20alt%3D%22AnonymousEventMapMock%22%20id%3D%2216%22/%3E</map>
         <text>%28Click%20to%20View%20in%20Map%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Image" x="68" y="367" w="193" h="70" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
       </controlProperties>
     </control>
   </controls>
