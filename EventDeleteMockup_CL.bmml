@@ -1,0 +1,119 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="449" measuredH="593" mockupW="389" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="60" y="20" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <bgTransparent>true</bgTransparent>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="87" y="178" w="34" h="-1" measuredW="31" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <size>8</size>
+        <text>8%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="87" y="218" w="34" h="-1" measuredW="34" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>10%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="87" y="258" w="34" h="-1" measuredW="34" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>12%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="87" y="298" w="34" h="-1" measuredW="34" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>14%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="86" y="338" w="34" h="-1" measuredW="34" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>16%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="87" y="378" w="34" h="-1" measuredW="34" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>18%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="87" y="418" w="34" h="-1" measuredW="36" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>20%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextInput" x="86" y="458" w="34" h="-1" measuredW="36" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>22%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextArea" x="200" y="400" w="40" h="58" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15843890</color>
+        <href>DayCalendarMock%26bm%3BDayCalendarMock.bmml%26bm%3BDayCalendarMock.bmml%26bm%3BDayCalendarMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22140%2C380%2C180%2C438%22%20href%3D%22DayCalendarMock.bmml%22%20alt%3D%22DayCalendarMock%22%20id%3D%229%22/%3E</map>
+        <size>8</size>
+        <text>586%0AUser%20Interface</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="279" y="280" w="38" h="31" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15843890</color>
+        <size>8</size>
+        <text>570-Dis</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextArea" x="199" y="200" w="40" h="120" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>0</borderColor>
+        <color>13576743</color>
+        <text>**%0ACareer%20Fair</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::ButtonBar" x="117" y="119" w="200" h="27" measuredW="179" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Mon%2C%20Tue%2C%20Wen%2CThu%2CFri</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="87" y="141" w="-1" h="-1" measuredW="31" measuredH="22" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>6%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::iPadPopover" x="231" y="212" w="86" h="68" measuredW="222" measuredH="187" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <popoverArrowSide>left</popoverArrowSide>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="250" y="212" w="67" h="-1" measuredW="215" measuredH="68" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>EventEditMockup%26bm%3BEventEditMockup.bmml%26bm%3BEventEditMockup.bmml%26bm%3BEventEditMockup.bmml%2CEventDeletedMockup%26bm%3BEventDeletedMockup.bmml%26bm%3BEventDeletedMockup.bmml%26bm%3BEventDeletedMockup.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22190%2C197%2C257%2C226%22%20href%3D%22EventEditMockup.bmml%22%20alt%3D%22EventEditMockup%22%20id%3D%2217%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22190%2C226%2C257%2C255%22%20href%3D%22EventDeletedMockup.bmml%22%20alt%3D%22EventDeletedMockup%22%20id%3D%2217%22/%3E</map>
+        <text>+%20Edit%20%2C%20%3E%0A-%20Del</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="386" y="124" w="63" h="16" measuredW="66" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>WeekCalendarMock%26bm%3BWeekCalendarMock.bmml%26bm%3BWeekCalendarMock.bmml%26bm%3BWeekCalendarMock.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22326%2C104%2C389%2C120%22%20href%3D%22WeekCalendarMock.bmml%22%20alt%3D%22WeekCalendarMock%22%20id%3D%2218%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

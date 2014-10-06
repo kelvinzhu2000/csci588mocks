@@ -1,0 +1,106 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="574" measuredH="593" mockupW="514" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="60" y="20" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgTransparent>true</bgTransparent>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="88" y="197" w="34" h="-1" measuredW="31" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <size>8</size>
+        <text>8%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="88" y="237" w="34" h="-1" measuredW="34" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>10%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="88" y="277" w="34" h="-1" measuredW="34" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>12%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="88" y="317" w="34" h="-1" measuredW="34" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>14%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="87" y="357" w="34" h="-1" measuredW="34" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>16%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="88" y="397" w="34" h="-1" measuredW="34" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>18%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextInput" x="88" y="437" w="34" h="-1" measuredW="36" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>20%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="87" y="477" w="34" h="-1" measuredW="36" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>22%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextInput" x="88" y="160" w="-1" h="-1" measuredW="31" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>6%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="122" y="134" w="179" h="-1" measuredW="169" measuredH="26" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <size>12</size>
+        <text>Wensday%20Octember%208%2C%202014</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextArea" x="137" y="401" w="164" h="58" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15843890</color>
+        <size>10</size>
+        <text>586%20User%20Interface%0AContent%3A%20Chapter%202%20-%20Chapter%203%20%0ALocation%20%3A%20SGM%20234</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextArea" x="137" y="197" w="164" h="80" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15843890</color>
+        <size>10</size>
+        <text>Go%20Rapha%20Shopping%0ABuying%20list%3A%0Atissue%20x%203%0Awine%20shtter%20home%20%0Aurl%3A%20goo.gl/zVg2rw</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="251" y="250" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>MAP</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="251" y="434" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>MAP</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="380" y="158" w="194" h="27" measuredW="94" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>WeekCalendarMock%26bm%3BWeekCalendarMock.bmml%26bm%3BWeekCalendarMock.bmml%26bm%3BWeekCalendarMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22320%2C138%2C514%2C165%22%20href%3D%22WeekCalendarMock.bmml%22%20alt%3D%22WeekCalendarMock%22%20id%3D%2219%22/%3E</map>
+        <text>Pinch%20Inside</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
