@@ -1,0 +1,128 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="401" measuredH="582" mockupW="379" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>AnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml</href>
+        <icon>LeftTriangleIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%221%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="69" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Buildings</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="__group__" x="52" y="151" w="221" h="347" measuredW="221" measuredH="347" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="16" controlTypeID="__group__" x="0" y="0" w="221" h="347" measuredW="221" measuredH="347" zOrder="0" locked="false" isInGroup="3">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="31" y="2" w="39" h="-1" measuredW="41" measuredH="21" zOrder="0" locked="false" isInGroup="16">
+              <controlProperties>
+                <text>Ronald</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="47" w="218" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="16">
+              <controlProperties>
+                <color>3355443</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="109" w="218" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="16">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="28" y="89" w="193" h="12" measuredW="275" measuredH="80" zOrder="3" locked="false" isInGroup="16">
+              <controlProperties>
+                <color>6710886</color>
+                <size>11</size>
+                <text>Ronald%20Tutor%20Hall%20%28RTH%29</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::SearchBox" x="11" y="0" w="201" h="-1" measuredW="120" measuredH="25" zOrder="4" locked="false" isInGroup="16">
+              <controlProperties>
+                <href>SearchBuildingsMock_1%26bm%3BSearchBuildingsMock_1.bmml%26bm%3BSearchBuildingsMock_1.bmml%26bm%3BSearchBuildingsMock_1.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C142%2C242%2C167%22%20href%3D%22SearchBuildingsMock_1.bmml%22%20alt%3D%22SearchBuildingsMock_1%22%20id%3D%224%22/%3E</map>
+                <text>search</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="3" y="36" w="218" h="-1" measuredW="94" measuredH="21" zOrder="5" locked="false" isInGroup="16">
+              <controlProperties>
+                <bold>true</bold>
+                <color>6710886</color>
+                <text>Search%20Results</text>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="78" w="218" h="-1" measuredW="100" measuredH="10" zOrder="6" locked="false" isInGroup="16">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="28" y="63" w="193" h="12" measuredW="275" measuredH="80" zOrder="7" locked="false" isInGroup="16">
+              <controlProperties>
+                <color>6710886</color>
+                <href>SearchBuildingsMock_5%26bm%3BSearchBuildingsMock_5.bmml%26bm%3BSearchBuildingsMock_5.bmml%26bm%3BSearchBuildingsMock_5.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2258%2C205%2C251%2C217%22%20href%3D%22SearchBuildingsMock_5.bmml%22%20alt%3D%22SearchBuildingsMock_5%22%20id%3D%227%22/%3E</map>
+                <size>11</size>
+                <text>Ronald%20Tutor%20Campus%20%28RTC%29</text>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="145" w="218" h="-1" measuredW="100" measuredH="10" zOrder="8" locked="false" isInGroup="16">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::HRule" x="2" y="173" w="218" h="-1" measuredW="100" measuredH="10" zOrder="9" locked="false" isInGroup="16">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="10" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="203" w="218" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="16">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="11" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="236" w="218" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="16">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="12" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="270" w="218" h="-1" measuredW="100" measuredH="10" zOrder="12" locked="false" isInGroup="16">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="13" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="303" w="218" h="-1" measuredW="100" measuredH="10" zOrder="13" locked="false" isInGroup="16">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="14" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="337" w="218" h="-1" measuredW="100" measuredH="10" zOrder="14" locked="false" isInGroup="16">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::StickyNote" x="273" y="57" w="128" h="144" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20link%20on%20the%20search%20bar%20refers%20to%20the%20state%20the%20screen%20%20takes%20when%20search%20text%20is%20cleared</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
