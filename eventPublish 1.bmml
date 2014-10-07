@@ -1,0 +1,45 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="304" measuredH="582" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>AnonymousEventDetailMock%26bm%3BAnonymousEventDetailMock.bmml%26bm%3BAnonymousEventDetailMock.bmml%26bm%3BAnonymousEventDetailMock.bmml</href>
+        <icon>LeftTriangleIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22AnonymousEventDetailMock.bmml%22%20alt%3D%22AnonymousEventDetailMock%22%20id%3D%221%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="102" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Event%20Publish</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="131" y="433" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <href>AnonymousEventSubscribeFailMock%26bm%3BAnonymousEventSubscribeFailMock.bmml%26bm%3BAnonymousEventSubscribeFailMock.bmml%26bm%3BAnonymousEventSubscribeFailMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C424%2C173%2C451%22%20href%3D%22AnonymousEventSubscribeFailMock.bmml%22%20alt%3D%22AnonymousEventSubscribeFailMock%22%20id%3D%224%22/%3E</map>
+        <text>Submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="45" y="143" w="231" h="-1" measuredW="215" measuredH="184" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>eventpublishfillintitle%26bm%3Beventpublishfillintitle.bmml%26bm%3Beventpublishfillintitle.bmml%26bm%3Beventpublishfillintitle.bmml%2Ceventpublishfillinplace%26bm%3Beventpublishfillinplace.bmml%26bm%3Beventpublishfillinplace.bmml%26bm%3Beventpublishfillinplace.bmml%2Ceventpublishdate%26bm%3Beventpublishdate.bmml%26bm%3Beventpublishdate.bmml%26bm%3Beventpublishdate.bmml%2Ceventpublishtime%26bm%3Beventpublishtime.bmml%26bm%3Beventpublishtime.bmml%26bm%3Beventpublishtime.bmml%2Ceventpublishcategory%26bm%3Beventpublishcategory.bmml%26bm%3Beventpublishcategory.bmml%26bm%3Beventpublishcategory.bmml%2Ceventpublishparticipant%26bm%3Beventpublishparticipant.bmml%26bm%3Beventpublishparticipant.bmml%26bm%3Beventpublishparticipant.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C139%2C254%2C168%22%20href%3D%22eventpublishfillintitle.bmml%22%20alt%3D%22eventpublishfillintitle%22%20id%3D%2214%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C168%2C254%2C197%22%20href%3D%22eventpublishfillinplace.bmml%22%20alt%3D%22eventpublishfillinplace%22%20id%3D%2214%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C197%2C254%2C226%22%20href%3D%22eventpublishdate.bmml%22%20alt%3D%22eventpublishdate%22%20id%3D%2214%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C226%2C254%2C255%22%20href%3D%22eventpublishtime.bmml%22%20alt%3D%22eventpublishtime%22%20id%3D%2214%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C255%2C254%2C284%22%20href%3D%22eventpublishcategory.bmml%22%20alt%3D%22eventpublishcategory%22%20id%3D%2214%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2223%2C284%2C254%2C313%22%20href%3D%22eventpublishparticipant.bmml%22%20alt%3D%22eventpublishparticipant%22%20id%3D%2214%22/%3E</map>
+        <text>Title%0APlace%0ADate%0ATime%0ACategory%0AParticipant</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,44 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="304" measuredH="582" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>AnonymousEventDetailMock%26bm%3BAnonymousEventDetailMock.bmml%26bm%3BAnonymousEventDetailMock.bmml%26bm%3BAnonymousEventDetailMock.bmml</href>
+        <icon>LeftTriangleIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22AnonymousEventDetailMock.bmml%22%20alt%3D%22AnonymousEventDetailMock%22%20id%3D%221%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="102" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Event%20Publish</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="131" y="433" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>AnonymousEventSubscribeFailMock%26bm%3BAnonymousEventSubscribeFailMock.bmml%26bm%3BAnonymousEventSubscribeFailMock.bmml%26bm%3BAnonymousEventSubscribeFailMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C424%2C173%2C451%22%20href%3D%22AnonymousEventSubscribeFailMock.bmml%22%20alt%3D%22AnonymousEventSubscribeFailMock%22%20id%3D%223%22/%3E</map>
+        <text>Submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="45" y="143" w="231" h="-1" measuredW="215" measuredH="184" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs/>
+        <text>Title%09%09%28Career%20Fair%29%0APlace%09%09%28Engineering%20Quad%29%0ADate%09%09%28October%208th%29%0ATime%09%09%289%20am%20to%205pm%29%0ACategory%09%28Career%20Academic%29%0AParticipant%09%28Technical%29</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
