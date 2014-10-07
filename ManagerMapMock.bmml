@@ -9,7 +9,7 @@
     <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="51" y="145" w="224" h="357" measuredW="1966" measuredH="1470" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>116%2C39%2C768%2C919</crop>
-        <src>./Routs/Screen%2520Shot%25202014-09-28%2520at%252010.19.11%2520AM.png</src>
+        <src>./assets/FullMap.png</src>
         <text/>
       </controlProperties>
     </control>

@@ -37,16 +37,16 @@
     <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="341" y="51" w="-1" h="-1" measuredW="114" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>StudentLoginSuccessfulMapMock%26bm%3BStudentLoginSuccessfulMapMock.bmml%26bm%3BStudentLoginSuccessfulMapMock.bmml%26bm%3BStudentLoginSuccessfulMapMock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22319%2C42%2C433%2C69%22%20href%3D%22StudentLoginSuccessfulMapMock.bmml%22%20alt%3D%22StudentLoginSuccessfulMapMock%22%20id%3D%2214%22/%3E</map>
+        <href>StudentLoginSuccessfulMock%26bm%3BStudentLoginSuccessfulMock.bmml%26bm%3BStudentLoginSuccessfulMock.bmml%26bm%3BStudentLoginSuccessfulMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22319%2C42%2C433%2C69%22%20href%3D%22StudentLoginSuccessfulMock.bmml%22%20alt%3D%22StudentLoginSuccessfulMock%22%20id%3D%2214%22/%3E</map>
         <text>Student%20Signup</text>
       </controlProperties>
     </control>
     <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="341" y="103" w="-1" h="-1" measuredW="120" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>ManagerLoginSuccessfulMapMock%26bm%3BManagerLoginSuccessfulMapMock.bmml%26bm%3BManagerLoginSuccessfulMapMock.bmml%26bm%3BManagerLoginSuccessfulMapMock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22319%2C94%2C439%2C121%22%20href%3D%22ManagerLoginSuccessfulMapMock.bmml%22%20alt%3D%22ManagerLoginSuccessfulMapMock%22%20id%3D%2215%22/%3E</map>
+        <href>ManagerLoginSuccessfulMock%26bm%3BManagerLoginSuccessfulMock.bmml%26bm%3BManagerLoginSuccessfulMock.bmml%26bm%3BManagerLoginSuccessfulMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22319%2C94%2C439%2C121%22%20href%3D%22ManagerLoginSuccessfulMock.bmml%22%20alt%3D%22ManagerLoginSuccessfulMock%22%20id%3D%2215%22/%3E</map>
         <text>Manager%20Signup</text>
       </controlProperties>
     </control>

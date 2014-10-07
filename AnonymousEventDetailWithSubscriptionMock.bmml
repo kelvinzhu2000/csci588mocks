@@ -26,35 +26,46 @@
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="107" y="183" w="112" h="-1" measuredW="105" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="115" y="462" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <href>AnonymousEventUnsubscribedMock%26bm%3BAnonymousEventUnsubscribedMock.bmml%26bm%3BAnonymousEventUnsubscribedMock.bmml%26bm%3BAnonymousEventUnsubscribedMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C453%2C190%2C480%22%20href%3D%22AnonymousEventUnsubscribedMock.bmml%22%20alt%3D%22AnonymousEventUnsubscribedMock%22%20id%3D%226%22/%3E</map>
+        <text>Unsubscribe</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="107" y="158" w="112" h="-1" measuredW="105" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
         <text>Career%20Fair</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::List" x="65" y="235" w="196" h="121" measuredW="100" measuredH="132" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::List" x="65" y="186" w="196" h="115" measuredW="100" measuredH="126" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Time%3A%20Oct.%208%20%0APlace%3A%20Engineering%20Quad%0A%20%0ACategory%3A%20Career%2C%20Academic%0AParticipant%3A%20Technical%20Companies%0ANeed%20Reservation%3A%20</text>
+        <text>Time%3A%20Oct.%208%20%0APlace%3A%20Engineering%20Quad%0ACategory%3A%20Career%2C%20Academic%0AParticipant%3A%20Technical%20Companies%0ANeed%20Reservation%3A%20</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="204" y="322" w="-1" h="-1" measuredW="22" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Link" x="204" y="273" w="-1" h="-1" measuredW="22" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Yes</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="115" y="403" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="51" y="307" w="224" h="149" measuredW="1966" measuredH="1470" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>16776960</color>
-        <href>AnonymousEventDetailUnsubscribedMock%26bm%3BAnonymousEventDetailUnsubscribedMock.bmml%26bm%3BAnonymousEventDetailUnsubscribedMock.bmml%26bm%3BAnonymousEventDetailUnsubscribedMock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C394%2C190%2C421%22%20href%3D%22AnonymousEventDetailUnsubscribedMock.bmml%22%20alt%3D%22AnonymousEventDetailUnsubscribedMock%22%20id%3D%226%22/%3E</map>
-        <text>Unsubscribe</text>
+        <crop>116%2C39%2C768%2C919</crop>
+        <href>AnonymousMapWithSubscribedEventMock%26bm%3BAnonymousMapWithSubscribedEventMock.bmml%26bm%3BAnonymousMapWithSubscribedEventMock.bmml%26bm%3BAnonymousMapWithSubscribedEventMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C298%2C253%2C447%22%20href%3D%22AnonymousMapWithSubscribedEventMock.bmml%22%20alt%3D%22AnonymousMapWithSubscribedEventMock%22%20id%3D%2211%22/%3E</map>
+        <src>./assets/FullMap.png</src>
+        <text/>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="76" y="280" w="-1" h="-1" measuredW="128" measuredH="19" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::IconLabel" x="141" y="374" w="-1" h="-1" measuredW="68" measuredH="47" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>AnonymousEventMapWithSubscriptionMock%26bm%3BAnonymousEventMapWithSubscriptionMock.bmml%26bm%3BAnonymousEventMapWithSubscriptionMock.bmml%26bm%3BAnonymousEventMapWithSubscriptionMock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2254%2C271%2C182%2C290%22%20href%3D%22AnonymousEventMapWithSubscriptionMock.bmml%22%20alt%3D%22AnonymousEventMapWithSubscriptionMock%22%20id%3D%227%22/%3E</map>
-        <text>%28Click%20to%20View%20in%20Map%29</text>
+        <color>10027008</color>
+        <href>AnonymousMapWithSubscribedEventMock%26bm%3BAnonymousMapWithSubscribedEventMock.bmml%26bm%3BAnonymousMapWithSubscribedEventMock.bmml%26bm%3BAnonymousMapWithSubscribedEventMock.bmml</href>
+        <icon>DownFillTriangleIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C365%2C187%2C412%22%20href%3D%22AnonymousMapWithSubscribedEventMock.bmml%22%20alt%3D%22AnonymousMapWithSubscribedEventMock%22%20id%3D%2212%22/%3E</map>
+        <text>Career%20Fair</text>
       </controlProperties>
     </control>
   </controls>

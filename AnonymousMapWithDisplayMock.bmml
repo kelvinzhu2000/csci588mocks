@@ -9,7 +9,7 @@
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="51" y="145" w="224" h="357" measuredW="1966" measuredH="1470" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>116%2C39%2C768%2C919</crop>
-        <src>./Routs/Screen%2520Shot%25202014-09-28%2520at%252010.19.11%2520AM.png</src>
+        <src>./assets/FullMap.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -44,8 +44,8 @@
     </control>
     <control controlID="5" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="138" y="145" w="137" h="-1" measuredW="215" measuredH="130" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>AnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%2CAnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%2CAnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%2CAnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C141%2C253%2C171%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C171%2C253%2C201%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C201%2C253%2C231%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C231%2C253%2C261%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%225%22/%3E</map>
+        <hrefs>AnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%2CAnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%2CAnonymousMapWithEventsMock%26bm%3BAnonymousMapWithEventsMock.bmml%26bm%3BAnonymousMapWithEventsMock.bmml%26bm%3BAnonymousMapWithEventsMock.bmml%2CAnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C141%2C253%2C171%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C171%2C253%2C201%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C201%2C253%2C231%22%20href%3D%22AnonymousMapWithEventsMock.bmml%22%20alt%3D%22AnonymousMapWithEventsMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C231%2C253%2C261%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%225%22/%3E</map>
         <text>Routes%2C%20OFF%0ABuildings%2C%20OFF%0AEvents%2C%20OFF%0AGeofences%2C%20OFF</text>
       </controlProperties>
     </control>

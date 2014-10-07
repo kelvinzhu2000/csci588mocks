@@ -1,0 +1,94 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="304" measuredH="582" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="51" y="145" w="224" h="357" measuredW="1966" measuredH="1470" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>116%2C39%2C768%2C919</crop>
+        <src>./assets/FullMap.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="147" y="116" w="-1" h="-1" measuredW="32" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Map</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="59" y="115" w="33" h="-1" measuredW="44" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>10027008</color>
+        <direction>center</direction>
+        <href>ManagerMapWithEventsMenuMock%26bm%3BManagerMapWithEventsMenuMock.bmml%26bm%3BManagerMapWithEventsMenuMock.bmml%26bm%3BManagerMapWithEventsMenuMock.bmml</href>
+        <icon>ListIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2237%2C106%2C70%2C133%22%20href%3D%22ManagerMapWithEventsMenuMock.bmml%22%20alt%3D%22ManagerMapWithEventsMenuMock%22%20id%3D%223%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="208" y="115" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>ManagerMapWithDisplayMock%26bm%3BManagerMapWithDisplayMock.bmml%26bm%3BManagerMapWithDisplayMock.bmml%26bm%3BManagerMapWithDisplayMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C106%2C251%2C133%22%20href%3D%22ManagerMapWithDisplayMock.bmml%22%20alt%3D%22ManagerMapWithDisplayMock%22%20id%3D%224%22/%3E</map>
+        <text>Display</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="208" y="115" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>ManagerMapWithEventsDisplayMock%26bm%3BManagerMapWithEventsDisplayMock.bmml%26bm%3BManagerMapWithEventsDisplayMock.bmml%26bm%3BManagerMapWithEventsDisplayMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C106%2C251%2C133%22%20href%3D%22ManagerMapWithEventsDisplayMock.bmml%22%20alt%3D%22ManagerMapWithEventsDisplayMock%22%20id%3D%225%22/%3E</map>
+        <text>Display</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="140" y="335" w="-1" h="-1" measuredW="68" measuredH="47" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>16776960</color>
+        <href>ManagerEventCreatorDetailMock%26bm%3BManagerEventCreatorDetailMock.bmml%26bm%3BManagerEventCreatorDetailMock.bmml%26bm%3BManagerEventCreatorDetailMock.bmml</href>
+        <icon>DownFillTriangleIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22118%2C326%2C186%2C373%22%20href%3D%22ManagerEventCreatorDetailMock.bmml%22%20alt%3D%22ManagerEventCreatorDetailMock%22%20id%3D%226%22/%3E</map>
+        <text>Career%20Fair</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="72" y="255" w="-1" h="-1" measuredW="62" measuredH="47" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16776960</color>
+        <href>ManagerEventDetailMock%26bm%3BManagerEventDetailMock.bmml%26bm%3BManagerEventDetailMock.bmml%26bm%3BManagerEventDetailMock.bmml</href>
+        <icon>DownFillTriangleIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2250%2C246%2C112%2C293%22%20href%3D%22ManagerEventDetailMock.bmml%22%20alt%3D%22ManagerEventDetailMock%22%20id%3D%227%22/%3E</map>
+        <text>Hackathon</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::IconLabel" x="85" y="407" w="-1" h="-1" measuredW="48" measuredH="47" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>10027008</color>
+        <href>ManagerEventDetailWithSubscriptionMock%26bm%3BManagerEventDetailWithSubscriptionMock.bmml%26bm%3BManagerEventDetailWithSubscriptionMock.bmml%26bm%3BManagerEventDetailWithSubscriptionMock.bmml</href>
+        <icon>DownFillTriangleIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C398%2C111%2C445%22%20href%3D%22ManagerEventDetailWithSubscriptionMock.bmml%22%20alt%3D%22ManagerEventDetailWithSubscriptionMock%22%20id%3D%228%22/%3E</map>
+        <text>Concert</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::IconLabel" x="85" y="179" w="-1" h="-1" measuredW="56" measuredH="47" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>10027008</color>
+        <href>ManagerEventCreatorDetailWithSubscriptionMock%26bm%3BManagerEventCreatorDetailWithSubscriptionMock.bmml%26bm%3BManagerEventCreatorDetailWithSubscriptionMock.bmml%26bm%3BManagerEventCreatorDetailWithSubscriptionMock.bmml</href>
+        <icon>DownFillTriangleIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C170%2C119%2C217%22%20href%3D%22ManagerEventCreatorDetailWithSubscriptionMock.bmml%22%20alt%3D%22ManagerEventCreatorDetailWithSubscriptionMock%22%20id%3D%229%22/%3E</map>
+        <text>Tech%20Talk</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

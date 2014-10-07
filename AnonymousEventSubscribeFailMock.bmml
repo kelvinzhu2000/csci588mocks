@@ -81,8 +81,8 @@
     <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="341" y="51" w="-1" h="-1" measuredW="166" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>AnonymousEventDetailWithSubscriptionSubscribeMock%26bm%3BAnonymousEventDetailWithSubscriptionSubscribeMock.bmml%26bm%3BAnonymousEventDetailWithSubscriptionSubscribeMock.bmml%26bm%3BAnonymousEventDetailWithSubscriptionSubscribeMock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22319%2C42%2C485%2C69%22%20href%3D%22AnonymousEventDetailWithSubscriptionSubscribeMock.bmml%22%20alt%3D%22AnonymousEventDetailWithSubscriptionSubscribeMock%22%20id%3D%2214%22/%3E</map>
+        <href>AnonymousEventSubscribedMock%26bm%3BAnonymousEventSubscribedMock.bmml%26bm%3BAnonymousEventSubscribedMock.bmml%26bm%3BAnonymousEventSubscribedMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22319%2C42%2C485%2C69%22%20href%3D%22AnonymousEventSubscribedMock.bmml%22%20alt%3D%22AnonymousEventSubscribedMock%22%20id%3D%2214%22/%3E</map>
         <text>Successful%20Subscription</text>
       </controlProperties>
     </control>
