@@ -46,7 +46,7 @@
       <controlProperties>
         <hrefs>AnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%2CAnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%2CAnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%2CAnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C141%2C253%2C171%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C171%2C253%2C201%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C201%2C253%2C231%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C231%2C253%2C261%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%225%22/%3E</map>
-        <text>Routes%2C%20OFF%0ABuildings%2C%20OFF%0AEvents%2C%20ON%0AGeofences%2C%20OFF</text>
+        <text>Routes%2C%20OFF%0ABuildings%2C%20OFF%0AEvents%2C%20ON%0ALocations%2C%20OFF</text>
       </controlProperties>
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="72" y="255" w="-1" h="-1" measuredW="62" measuredH="47" zOrder="6" locked="false" isInGroup="-1">
@@ -57,16 +57,6 @@
         <icon>DownFillTriangleIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2250%2C246%2C112%2C293%22%20href%3D%22AnonymousEventDetailMock.bmml%22%20alt%3D%22AnonymousEventDetailMock%22%20id%3D%226%22/%3E</map>
         <text>Hackathon</text>
-      </controlProperties>
-    </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="85" y="407" w="-1" h="-1" measuredW="48" measuredH="47" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>10027008</color>
-        <href>AnonymousEventDetailWithSubscriptionMock%26bm%3BAnonymousEventDetailWithSubscriptionMock.bmml%26bm%3BAnonymousEventDetailWithSubscriptionMock.bmml%26bm%3BAnonymousEventDetailWithSubscriptionMock.bmml</href>
-        <icon>DownFillTriangleIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C398%2C111%2C445%22%20href%3D%22AnonymousEventDetailWithSubscriptionMock.bmml%22%20alt%3D%22AnonymousEventDetailWithSubscriptionMock%22%20id%3D%227%22/%3E</map>
-        <text>Concert</text>
       </controlProperties>
     </control>
   </controls>

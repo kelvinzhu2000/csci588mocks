@@ -35,15 +35,15 @@
         <text>search</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Menu" x="48" y="146" w="120" h="-1" measuredW="150" measuredH="109" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Menu" x="48" y="146" w="120" h="-1" measuredW="150" measuredH="135" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>LoginMock%26bm%3BLoginMock.bmml%26bm%3BLoginMock.bmml%26bm%3BLoginMock.bmml%2C%2C%2C%2CAnonymousEventMainPageMock%26bm%3BAnonymousEventMainPageMock.bmml%26bm%3BAnonymousEventMainPageMock.bmml%26bm%3BAnonymousEventMainPageMock.bmml%2C%2C%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C142%2C146%2C163%22%20href%3D%22LoginMock.bmml%22%20alt%3D%22LoginMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C194%2C146%2C215%22%20href%3D%22AnonymousEventMainPageMock.bmml%22%20alt%3D%22AnonymousEventMainPageMock%22%20id%3D%225%22/%3E</map>
+        <hrefs>LoginMock%26bm%3BLoginMock.bmml%26bm%3BLoginMock.bmml%26bm%3BLoginMock.bmml%2C%2C%2C%2C%2C%2CAnonymousEventMainPageMock%26bm%3BAnonymousEventMainPageMock.bmml%26bm%3BAnonymousEventMainPageMock.bmml%26bm%3BAnonymousEventMainPageMock.bmml%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C142%2C146%2C163%22%20href%3D%22LoginMock.bmml%22%20alt%3D%22LoginMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C220%2C146%2C241%22%20href%3D%22AnonymousEventMainPageMock.bmml%22%20alt%3D%22AnonymousEventMainPageMock%22%20id%3D%225%22/%3E</map>
         <selectedIndex>-1</selectedIndex>
-        <text>Sign%20In%0A---%0ABuildings%0A---%0AEvents%0A---%0ARoutes</text>
+        <text>Sign%20In%0A---%0ABuildings%0A---%0ALocations%0A---%0AEvents%0A---%0ARoutes</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::PointyButton" x="179" y="114" w="33" h="-1" measuredW="44" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::PointyButton" x="179" y="114" w="33" h="-1" measuredW="44" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <color>10027008</color>
@@ -55,7 +55,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="72" y="255" w="-1" h="-1" measuredW="62" measuredH="47" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="72" y="255" w="-1" h="-1" measuredW="62" measuredH="47" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
         <color>16776960</color>
@@ -63,16 +63,6 @@
         <icon>DownFillTriangleIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2250%2C246%2C112%2C293%22%20href%3D%22AnonymousEventDetailMock.bmml%22%20alt%3D%22AnonymousEventDetailMock%22%20id%3D%227%22/%3E</map>
         <text>Hackathon</text>
-      </controlProperties>
-    </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::IconLabel" x="85" y="407" w="-1" h="-1" measuredW="48" measuredH="47" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>10027008</color>
-        <href>AnonymousEventDetailWithSubscriptionMock%26bm%3BAnonymousEventDetailWithSubscriptionMock.bmml%26bm%3BAnonymousEventDetailWithSubscriptionMock.bmml%26bm%3BAnonymousEventDetailWithSubscriptionMock.bmml</href>
-        <icon>DownFillTriangleIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C398%2C111%2C445%22%20href%3D%22AnonymousEventDetailWithSubscriptionMock.bmml%22%20alt%3D%22AnonymousEventDetailWithSubscriptionMock%22%20id%3D%228%22/%3E</map>
-        <text>Concert</text>
       </controlProperties>
     </control>
   </controls>

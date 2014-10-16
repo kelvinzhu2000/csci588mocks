@@ -28,9 +28,9 @@
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Accordion" x="44" y="143" w="238" h="360" measuredW="218" measuredH="294" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>%2CAnonymousEventDetailWithSubscriptionMock%26bm%3BAnonymousEventDetailWithSubscriptionMock.bmml%26bm%3BAnonymousEventDetailWithSubscriptionMock.bmml%26bm%3BAnonymousEventDetailWithSubscriptionMock.bmml%2C%2CAnonymousEventDetailMock%26bm%3BAnonymousEventDetailMock.bmml%26bm%3BAnonymousEventDetailMock.bmml%26bm%3BAnonymousEventDetailMock.bmml%2C%2C%2C%2C%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C164%2C260%2C188%22%20href%3D%22AnonymousEventDetailWithSubscriptionMock.bmml%22%20alt%3D%22AnonymousEventDetailWithSubscriptionMock%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C218%2C260%2C242%22%20href%3D%22AnonymousEventDetailMock.bmml%22%20alt%3D%22AnonymousEventDetailMock%22%20id%3D%223%22/%3E</map>
-        <text>Engineering%20Quad%0A-%20Movie%20Audition%20%3E%20%28Subscribed%29%0A-%20Library%20Tour%20%3E%0A-%20Career%20Fair%20%3E%0ASeely%20Mudd%20Hall%20%28SMH%29%0AScience%20Engineering%20%28SSL%29%0AElectrical%20Enginrring%20Building%20%28EEB%29%0ARonald%20Tutor%20Hall%20%28RTH%29</text>
+        <hrefs>%2C%2C%2CAnonymousEventDetailMock%26bm%3BAnonymousEventDetailMock.bmml%26bm%3BAnonymousEventDetailMock.bmml%26bm%3BAnonymousEventDetailMock.bmml%2C%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C218%2C260%2C242%22%20href%3D%22AnonymousEventDetailMock.bmml%22%20alt%3D%22AnonymousEventDetailMock%22%20id%3D%223%22/%3E</map>
+        <text>Engineering%20Quad%0A-%20Movie%20Audition%20%3E%0A-%20Library%20Tour%20%3E%0A-%20Career%20Fair%20%3E%0ASeely%20Mudd%20Hall%20%28SMH%29%0AScience%20Engineering%20%28SSL%29%0AElectrical%20Enginrring%20Building%20%28EEB%29%0ARonald%20Tutor%20Hall%20%28RTH%29</text>
       </controlProperties>
     </control>
   </controls>

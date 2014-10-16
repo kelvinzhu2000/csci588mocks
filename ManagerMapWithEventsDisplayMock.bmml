@@ -46,7 +46,7 @@
       <controlProperties>
         <hrefs>ManagerMapMock%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%2CManagerMapMock%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%2CManagerMapMock%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%2CManagerMapMock%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C141%2C253%2C171%22%20href%3D%22ManagerMapMock.bmml%22%20alt%3D%22ManagerMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C171%2C253%2C201%22%20href%3D%22ManagerMapMock.bmml%22%20alt%3D%22ManagerMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C201%2C253%2C231%22%20href%3D%22ManagerMapMock.bmml%22%20alt%3D%22ManagerMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C231%2C253%2C261%22%20href%3D%22ManagerMapMock.bmml%22%20alt%3D%22ManagerMapMock%22%20id%3D%225%22/%3E</map>
-        <text>Routes%2C%20OFF%0ABuildings%2C%20OFF%0AEvents%2C%20ON%0AGeofences%2C%20OFF</text>
+        <text>Routes%2C%20OFF%0ABuildings%2C%20OFF%0AEvents%2C%20ON%0ALocations%2C%20OFF</text>
       </controlProperties>
     </control>
     <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="140" y="335" w="-1" h="-1" measuredW="68" measuredH="47" zOrder="6" locked="false" isInGroup="-1">

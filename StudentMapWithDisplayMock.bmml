@@ -46,7 +46,7 @@
       <controlProperties>
         <hrefs>StudentMapMock%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%2CStudentMapMock%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%2CStudentMapMock%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%2CStudentMapMock%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C141%2C253%2C171%22%20href%3D%22StudentMapMock.bmml%22%20alt%3D%22StudentMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C171%2C253%2C201%22%20href%3D%22StudentMapMock.bmml%22%20alt%3D%22StudentMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C201%2C253%2C231%22%20href%3D%22StudentMapMock.bmml%22%20alt%3D%22StudentMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C231%2C253%2C261%22%20href%3D%22StudentMapMock.bmml%22%20alt%3D%22StudentMapMock%22%20id%3D%225%22/%3E</map>
-        <text>Routes%2C%20OFF%0ABuildings%2C%20OFF%0AEvents%2C%20OFF%0AGeofences%2C%20OFF</text>
+        <text>Routes%2C%20OFF%0ABuildings%2C%20OFF%0AEvents%2C%20OFF%0ALocations%2C%20OFF</text>
       </controlProperties>
     </control>
   </controls>
