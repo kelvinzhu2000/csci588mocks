@@ -9,9 +9,9 @@
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="36" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>ManagerMapMock%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml</href>
+        <href>GeoSubscribeMain%26bm%3BGeoSubscribeMain.bmml%26bm%3BGeoSubscribeMain.bmml%26bm%3BGeoSubscribeMain.bmml</href>
         <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C105%2C109%2C133%22%20href%3D%22ManagerMapMock.bmml%22%20alt%3D%22ManagerMapMock%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C105%2C109%2C133%22%20href%3D%22GeoSubscribeMain.bmml%22%20alt%3D%22GeoSubscribeMain%22%20id%3D%221%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>

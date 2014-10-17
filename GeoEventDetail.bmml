@@ -32,17 +32,12 @@
         <text>Career%20Fair</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::List" x="65" y="235" w="196" h="121" measuredW="100" measuredH="132" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::List" x="46" y="235" w="229" h="121" measuredW="100" measuredH="132" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Time%3A%20Oct.%208%20%0APlace%3A%20Engineering%20Quad%0A%20%0ACategory%3A%20Career%2C%20Academic%0AParticipant%3A%20Technical%20Companies%0ANeed%20Reservation%3A%20</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="204" y="322" w="-1" h="-1" measuredW="22" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Yes</text>
-      </controlProperties>
-    </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="115" y="403" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="115" y="403" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16776960</color>
         <href>GeoUnsubSuccess%26bm%3BGeoUnsubSuccess.bmml%26bm%3BGeoUnsubSuccess.bmml%26bm%3BGeoUnsubSuccess.bmml</href>
@@ -50,7 +45,7 @@
         <text>Unsubscribe</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="76" y="280" w="-1" h="-1" measuredW="166" measuredH="19" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="76" y="280" w="-1" h="-1" measuredW="166" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <href>GeoModifyNotification%26bm%3BGeoModifyNotification.bmml%26bm%3BGeoModifyNotification.bmml%26bm%3BGeoModifyNotification.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2254%2C271%2C220%2C290%22%20href%3D%22GeoModifyNotification.bmml%22%20alt%3D%22GeoModifyNotification%22%20id%3D%227%22/%3E</map>

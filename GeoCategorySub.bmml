@@ -26,10 +26,10 @@
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="142" y="181" w="42" h="-1" measuredW="39" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="131" y="185" w="64" h="-1" measuredW="61" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
-        <text>SAL</text>
+        <text>Sports</text>
       </controlProperties>
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="83" y="400" w="-1" h="-1" measuredW="164" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
@@ -40,18 +40,19 @@
         <text>View%20Other%20Notifications</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="60" y="260" w="-1" h="-1" measuredW="207" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>16</size>
-        <text>You%20hava%20subscribed%20to%20SAL%21</text>
-      </controlProperties>
-    </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="83" y="358" w="-1" h="-1" measuredW="164" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="83" y="358" w="-1" h="-1" measuredW="164" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16776960</color>
         <href>GeoUnsubscribe%26bm%3BGeoUnsubscribe.bmml%26bm%3BGeoUnsubscribe.bmml%26bm%3BGeoUnsubscribe.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2261%2C349%2C225%2C376%22%20href%3D%22GeoUnsubscribe.bmml%22%20alt%3D%22GeoUnsubscribe%22%20id%3D%229%22/%3E</map>
         <text>Back%20to%20My%20Notifications</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="63" y="213" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <size>16</size>
+        <text>You%20have%20subscribed%20to%20Sports%20notifications%21</text>
       </controlProperties>
     </control>
   </controls>
