@@ -1,6 +1,6 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="294" measuredH="582" mockupW="287" mockupH="573">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="287" measuredH="573" mockupW="287" mockupH="573">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="7" y="9" w="287" h="573" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="287" h="573" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <bgPattern>topOnly</bgPattern>
         <model>IPhone5</model>
@@ -9,9 +9,9 @@
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="36" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>ManagerMapMock%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml</href>
+        <href>GeoSubscribeMain%26bm%3BGeoSubscribeMain.bmml%26bm%3BGeoSubscribeMain.bmml%26bm%3BGeoSubscribeMain.bmml</href>
         <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C106%2C102%2C134%22%20href%3D%22ManagerMapMock.bmml%22%20alt%3D%22ManagerMapMock%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C115%2C109%2C143%22%20href%3D%22GeoSubscribeMain.bmml%22%20alt%3D%22GeoSubscribeMain%22%20id%3D%221%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
@@ -31,44 +31,23 @@
         <text>Category</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="36" y="204" w="229" h="182" measuredW="200" measuredH="182" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Academic%0ACareer%0AEntertainment%0AMiscellaneous</text>
-        <verticalScrollbar>true</verticalScrollbar>
-      </controlProperties>
-    </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::CheckBox" x="143" y="219" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Games</text>
-      </controlProperties>
-    </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::CheckBox" x="143" y="241" w="-1" h="-1" measuredW="56" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Social</text>
-      </controlProperties>
-    </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::CheckBox" x="143" y="263" w="-1" h="-1" measuredW="60" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Sports</text>
-      </controlProperties>
-    </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::CheckBox" x="143" y="285" w="-1" h="-1" measuredW="94" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Info%20Session</text>
-      </controlProperties>
-    </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="92" y="438" w="114" h="27" measuredW="109" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="92" y="438" w="114" h="27" measuredW="109" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CheckMarkIcon%7Csmall</icon>
         <text>Subscribe</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="79" y="409" w="-1" h="-1" measuredW="143" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="79" y="409" w="-1" h="-1" measuredW="143" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <href>GeoUnsubscribe%26bm%3BGeoUnsubscribe.bmml%26bm%3BGeoUnsubscribe.bmml%26bm%3BGeoUnsubscribe.bmml</href>
         <icon>EmailIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2272%2C400%2C215%2C427%22%20href%3D%22GeoUnsubscribe.bmml%22%20alt%3D%22GeoUnsubscribe%22%20id%3D%2218%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2279%2C409%2C222%2C436%22%20href%3D%22GeoUnsubscribe.bmml%22%20alt%3D%22GeoUnsubscribe%22%20id%3D%2218%22/%3E</map>
         <text>My%20Notifications</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Accordion" x="27" y="195" w="232" h="186" measuredW="150" measuredH="240" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Entertainment%0A-%20Games%0A-%20Sports%0ACareer%0AAcademic%0AMiscellaneous</text>
       </controlProperties>
     </control>
   </controls>
