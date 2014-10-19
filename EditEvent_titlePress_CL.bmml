@@ -1,0 +1,50 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="337" measuredH="599" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="55" y="26" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <bgTransparent>true</bgTransparent>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="84" y="132" w="60" h="28" measuredW="54" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>WeekCalendarMock_CL%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C106%2C89%2C134%22%20href%3D%22WeekCalendarMock_CL.bmml%22%20alt%3D%22WeekCalendarMock_CL%22%20id%3D%221%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>10</size>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="172" y="136" w="49" h="-1" measuredW="23" measuredH="20" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>12</size>
+        <text>Edit</text>
+        <textOrientation>right</textOrientation>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="252" y="133" w="50" h="28" measuredW="41" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>WeekCalendarMock_Added_CL%26bm%3BWeekCalendarMock_Added_CL.bmml%26bm%3BWeekCalendarMock_Added_CL.bmml%26bm%3BWeekCalendarMock_Added_CL.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22197%2C107%2C247%2C135%22%20href%3D%22WeekCalendarMock_Added_CL.bmml%22%20alt%3D%22WeekCalendarMock_Added_CL%22%20id%3D%223%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <rotation>90</rotation>
+        <size>11</size>
+        <text>Add</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="88" y="174" w="-1" h="-1" measuredW="215" measuredH="331" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>NewEvent_titlePress_CL%26bm%3BNewEvent_titlePress_CL.bmml%26bm%3BNewEvent_titlePress_CL.bmml%26bm%3BNewEvent_titlePress_CL.bmml%2CNewEvent_locationPress_CL%26bm%3BNewEvent_locationPress_CL.bmml%26bm%3BNewEvent_locationPress_CL.bmml%26bm%3BNewEvent_locationPress_CL.bmml%2CNewEvent_allDayOn_CL%26bm%3BNewEvent_allDayOn_CL.bmml%26bm%3BNewEvent_allDayOn_CL.bmml%26bm%3BNewEvent_allDayOn_CL.bmml%2CNewEvent_dateChoose_CL%26bm%3BNewEvent_dateChoose_CL.bmml%26bm%3BNewEvent_dateChoose_CL.bmml%26bm%3BNewEvent_dateChoose_CL.bmml%2C%2C%2C%2C%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C153%2C248%2C182%22%20href%3D%22NewEvent_titlePress_CL.bmml%22%20alt%3D%22NewEvent_titlePress_CL%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C182%2C248%2C211%22%20href%3D%22NewEvent_locationPress_CL.bmml%22%20alt%3D%22NewEvent_locationPress_CL%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C211%2C248%2C241%22%20href%3D%22NewEvent_allDayOn_CL.bmml%22%20alt%3D%22NewEvent_allDayOn_CL%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C241%2C248%2C270%22%20href%3D%22NewEvent_dateChoose_CL.bmml%22%20alt%3D%22NewEvent_dateChoose_CL%22%20id%3D%224%22/%3E</map>
+        <text>Title%3A%20Meetin%0A+%20Choose%20Location%2C%20%3E%0AAll-day%2C%20OFF%0AOct%2017%2C%202014%209%3A00-10%3A00%0ARepeat%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Never%2C%3E%0AAlarm%2C%20ON%0A+%20Choose%20Icon%2C%20%3E%0A+%20Choose%20Category%2C%20%3E%0A%20%0AURL%3A%0ANote%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="84" y="352" w="-1" h="-1" measuredW="226" measuredH="160" zOrder="5" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
