@@ -1,19 +1,19 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="370" measuredH="612" mockupW="282" mockupH="573">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="651" measuredH="604" mockupW="602" mockupH="573">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="88" y="39" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="49" y="31" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <bgPattern>topBlueBottom</bgPattern>
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="115" y="234" w="225" h="260" measuredW="1795" measuredH="968" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="76" y="229" w="225" h="287" measuredW="1795" measuredH="968" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>128%2C297%2C701%2C605</crop>
-        <src>./Screen%2520Shot%25202014-09-28%2520at%25209.41.34%2520PM.png</src>
+        <src>./Screen%2520Shot%25202014-09-28%2520at%252010.19.11%2520AM.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="209" y="148" w="102" h="-1" measuredW="69" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="170" y="140" w="102" h="-1" measuredW="69" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <bold>true</bold>
@@ -22,7 +22,7 @@
         <text>Direction</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="117" y="146" w="73" h="26" measuredW="74" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="78" y="138" w="73" h="26" measuredW="74" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>Routs%26bm%3BRouts.bmml%26bm%3BRouts.bmml%26bm%3BRouts.bmml</href>
@@ -33,70 +33,74 @@
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="__group__" x="289" y="279" w="10" h="10" measuredW="10" measuredH="10" zOrder="4" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="10" h="10" measuredW="10" measuredH="10" zOrder="0" locked="false" isInGroup="4">
-          <groupChildrenDescriptors>
-            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="10" h="10" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
-              <controlProperties>
-                <backgroundAlpha>1</backgroundAlpha>
-                <borderColor>10027008</borderColor>
-                <color>10027008</color>
-                <shape>circle</shape>
-                <size>8</size>
-                <text/>
-              </controlProperties>
-            </control>
-          </groupChildrenDescriptors>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="149" y="352" w="10" h="10" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="81" y="175" w="23" h="-1" measuredW="10" measuredH="20" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <borderColor>10027008</borderColor>
+        <align>center</align>
+        <bold>true</bold>
         <color>10027008</color>
+        <size>12</size>
+        <text>0</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="82" y="201" w="23" h="-1" measuredW="10" measuredH="20" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>12</size>
+        <text>V</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="82" y="186" w="23" h="-1" measuredW="10" measuredH="20" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>12</size>
+        <text>%3A</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::StickyNote" x="346" y="264" w="252" h="135" measuredW="109" measuredH="123" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>all%20buildings%20or%20places%20in%20usc%20automatically%20appear%20accourding%20to%20what%20will%20be%20typed%20%0Aor%20user%20can%20click%20on%20the%20map%20to%20choose%20start%20point%0Asame%20thing%20for%20destination%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Arrow" x="295" y="201" w="150" h="78" measuredW="150" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="120" y="183" w="45" h="-1" measuredW="29" measuredH="20" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::SearchBox" x="104" y="173" w="168" h="-1" measuredW="251" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <align>left</align>
-        <bold>true</bold>
-        <color>10027008</color>
-        <size>12</size>
-        <text>From</text>
+        <text>Choose%20start%20point%20or%20click%20on%20the%20map</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="121" y="209" w="45" h="-1" measuredW="14" measuredH="20" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::SearchBox" x="104" y="199" w="168" h="-1" measuredW="254" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <align>left</align>
-        <bold>true</bold>
-        <color>10027008</color>
-        <size>12</size>
-        <text>To</text>
+        <text>Choose%20destination%20or%20click%20on%20the%20map</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::ComboBox" x="162" y="181" w="172" h="-1" measuredW="99" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="__group__" x="272" y="175" w="33" h="50" measuredW="33" measuredH="50" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
-        <bold>false</bold>
-        <color>0</color>
-        <size>11</size>
-        <text>Leavy%20Library</text>
+        <crop>130%2C158%2C775%2C719</crop>
       </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="43" h="70" measuredW="46" measuredH="27" zOrder="0" locked="false" isInGroup="32">
+          <controlProperties>
+            <icon>RepeatIcon%7Csmall</icon>
+            <menuIcon>false</menuIcon>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::ComboBox" x="162" y="208" w="172" h="-1" measuredW="175" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>false</bold>
-        <color>0</color>
-        <size>11</size>
-        <text>Viterbi%20School%20of%20Engineering</text>
-      </controlProperties>
-    </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Link" x="209" y="260" w="-1" h="-1" measuredW="74" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Link" x="404" y="186" w="-1" h="-1" measuredW="247" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Direction2%26bm%3BDirection2.bmml%26bm%3BDirection2.bmml%26bm%3BDirection2.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22121%2C221%2C195%2C240%22%20href%3D%22Direction2.bmml%22%20alt%3D%22Direction2%22%20id%3D%2210%22/%3E</map>
-        <text>10.0%20minutes</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22355%2C155%2C602%2C174%22%20href%3D%22Direction2.bmml%22%20alt%3D%22Direction2%22%20id%3D%2241%22/%3E</map>
+        <text>next%20step%20after%20add%20start%20and%20destenation</text>
       </controlProperties>
     </control>
   </controls>

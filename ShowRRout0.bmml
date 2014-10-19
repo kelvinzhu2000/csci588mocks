@@ -48,13 +48,13 @@
         <text>My%20Routs%3A</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="131" y="196" w="216" h="-1" measuredW="67" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="131" y="196" w="216" h="-1" measuredW="96" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>false</bold>
         <color>0</color>
         <size>12</size>
         <state>up</state>
-        <text>Rout%203</text>
+        <text>My%20cool%20way</text>
       </controlProperties>
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="219" y="137" w="125" h="-1" measuredW="124" measuredH="22" zOrder="6" locked="false" isInGroup="-1">

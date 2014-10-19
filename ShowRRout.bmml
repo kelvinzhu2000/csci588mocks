@@ -48,13 +48,13 @@
         <text>My%20Routs%3A</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="131" y="196" w="216" h="-1" measuredW="67" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="131" y="196" w="216" h="-1" measuredW="96" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>false</bold>
         <color>0</color>
         <size>12</size>
         <state>up</state>
-        <text>Rout%203</text>
+        <text>My%20cool%20way</text>
       </controlProperties>
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="219" y="137" w="125" h="-1" measuredW="124" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
@@ -91,9 +91,9 @@
     <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="125" y="483" w="114" h="26" measuredW="117" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <color>15658734</color>
-        <href>ShowRout%26bm%3BShowRout.bmml%26bm%3BShowRout.bmml%26bm%3BShowRout.bmml</href>
+        <href>ShowRoutPreviousBuilding%26bm%3BShowRoutPreviousBuilding.bmml%26bm%3BShowRoutPreviousBuilding.bmml%26bm%3BShowRoutPreviousBuilding.bmml</href>
         <icon>ImageIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2228%2C455%2C142%2C481%22%20href%3D%22ShowRout.bmml%22%20alt%3D%22ShowRout%22%20id%3D%229%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2228%2C455%2C142%2C481%22%20href%3D%22ShowRoutPreviousBuilding.bmml%22%20alt%3D%22ShowRoutPreviousBuilding%22%20id%3D%229%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>12</size>
         <text>Show%20Building</text>

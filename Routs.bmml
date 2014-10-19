@@ -6,24 +6,7 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="77" y="154" w="224" h="352" measuredW="1966" measuredH="1470" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <crop>116%2C39%2C768%2C919</crop>
-        <src>./Screen%2520Shot%25202014-09-28%2520at%252010.19.11%2520AM.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Accordion" x="77" y="154" w="108" h="84" measuredW="150" measuredH="159" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <hrefs>%2CMyRouts1%26bm%3BMyRouts1.bmml%26bm%3BMyRouts1.bmml%26bm%3BMyRouts1.bmml%2CRecentRouts%26bm%3BRecentRouts.bmml%26bm%3BRecentRouts.bmml%26bm%3BRecentRouts.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C165%2C135%2C195%22%20href%3D%22MyRouts1.bmml%22%20alt%3D%22MyRouts1%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C192%2C135%2C222%22%20href%3D%22RecentRouts.bmml%22%20alt%3D%22RecentRouts%22%20id%3D%225%22/%3E</map>
-        <selectedIndex>0</selectedIndex>
-        <text>Find%20Rout%20%20%20%20%3E%0AMy%20Routs%0ARecent%20Routs</text>
-        <value>81</value>
-        <verticalScrollbar>false</verticalScrollbar>
-      </controlProperties>
-    </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="77" y="121" w="73" h="28" measuredW="74" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="77" y="121" w="73" h="28" measuredW="74" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>USCsee-start%26bm%3BUSCsee-start.bmml%26bm%3BUSCsee-start.bmml%26bm%3BUSCsee-start.bmml</href>
@@ -34,24 +17,61 @@
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="185" y="134" w="79" h="77" measuredW="200" measuredH="122" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>10027008</color>
-        <hrefs>MyLocation%26bm%3BMyLocation.bmml%26bm%3BMyLocation.bmml%26bm%3BMyLocation.bmml%2CDirection%26bm%3BDirection.bmml%26bm%3BDirection.bmml%26bm%3BDirection.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22133%2C138%2C214%2C168%22%20href%3D%22MyLocation.bmml%22%20alt%3D%22MyLocation%22%20id%3D%2210%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22133%2C166%2C214%2C196%22%20href%3D%22Direction.bmml%22%20alt%3D%22Direction%22%20id%3D%2210%22/%3E</map>
-        <position>right</position>
-        <selectedIndex>0</selectedIndex>
-        <text>My%20Location%0ADirection</text>
-      </controlProperties>
-    </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="159" y="125" w="102" h="-1" measuredW="45" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="159" y="125" w="102" h="-1" measuredW="45" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
         <text>Routs</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="140" y="355" w="80" h="37" measuredW="75" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>Direction%26bm%3BDirection.bmml%26bm%3BDirection.bmml%26bm%3BDirection.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2290%2C339%2C170%2C376%22%20href%3D%22Direction.bmml%22%20alt%3D%22Direction%22%20id%3D%2212%22/%3E</map>
+        <text>Direction</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="140" y="407" w="79" h="36" measuredW="78" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>MyRouts%26bm%3BMyRouts.bmml%26bm%3BMyRouts.bmml%26bm%3BMyRouts.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2290%2C391%2C169%2C427%22%20href%3D%22MyRouts.bmml%22%20alt%3D%22MyRouts%22%20id%3D%2213%22/%3E</map>
+        <text>My%20Routs</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="140" y="458" w="82" h="36" measuredW="72" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>USCBus%26bm%3BUSCBus.bmml%26bm%3BUSCBus.bmml%26bm%3BUSCBus.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2290%2C442%2C172%2C478%22%20href%3D%22USCBus.bmml%22%20alt%3D%22USCBus%22%20id%3D%2214%22/%3E</map>
+        <text>USCBus</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::List" x="93" y="164" w="196" h="97" measuredW="100" measuredH="126" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15594478</alternateRowColor>
+        <bold>false</bold>
+        <color>15594478</color>
+        <hasHeader>true</hasHeader>
+        <hrefs>RecentRouts%26bm%3BRecentRouts.bmml%26bm%3BRecentRouts.bmml%26bm%3BRecentRouts.bmml%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2243%2C148%2C239%2C169%22%20href%3D%22RecentRouts.bmml%22%20alt%3D%22RecentRouts%22%20id%3D%2217%22/%3E</map>
+        <rowHeight>19</rowHeight>
+        <size>12</size>
+        <text>Recent%20Routs%0ALVL%20to%20SAL%0Amy%20Cool%20Rout</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Image" x="77" y="155" w="227" h="353" measuredW="275" measuredH="184" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <filter>true</filter>
+        <href>MyLocation%26bm%3BMyLocation.bmml%26bm%3BMyLocation.bmml%26bm%3BMyLocation.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C139%2C254%2C492%22%20href%3D%22MyLocation.bmml%22%20alt%3D%22MyLocation%22%20id%3D%2218%22/%3E</map>
+        <rotation>0</rotation>
+        <src>./Viterbi.jpg</src>
       </controlProperties>
     </control>
   </controls>

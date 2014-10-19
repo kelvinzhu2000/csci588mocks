@@ -1,0 +1,77 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="323" measuredH="613" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="41" y="40" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="68" y="145" w="73" h="28" measuredW="74" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>USCBusAllRouts%26bm%3BUSCBusAllRouts.bmml%26bm%3BUSCBusAllRouts.bmml%26bm%3BUSCBusAllRouts.bmml</href>
+        <icon>LeftTriangleIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C105%2C100%2C133%22%20href%3D%22USCBusAllRouts.bmml%22%20alt%3D%22USCBusAllRouts%22%20id%3D%221%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="150" y="149" w="102" h="-1" measuredW="63" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>USCBus</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Tree" x="68" y="179" w="225" h="51" measuredW="300" measuredH="225" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>square</borderStyle>
+        <color>10027008</color>
+        <selectedIndex>1</selectedIndex>
+        <size>13</size>
+        <state>up</state>
+        <text>v%20Choose%20one%20USC%20BUS%20Rout%0A..%5Bx%5D%20A%20Rout%20Fall14%0A..%5B%20%5D%20B%20Rout%20Fall14%0A..%5B%20%5D%20C%20Rout%20Fall14%0A..%5B%20%5D%20Cruiser%20Express%0A..%5B%20%5D%20Parcking%20Center</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="192" y="495" w="101" h="34" measuredW="101" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>USCBus-ARoutStops%26bm%3BUSCBus-ARoutStops.bmml%26bm%3BUSCBus-ARoutStops.bmml%26bm%3BUSCBus-ARoutStops.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22151%2C455%2C252%2C489%22%20href%3D%22USCBus-ARoutStops.bmml%22%20alt%3D%22USCBus-ARoutStops%22%20id%3D%224%22/%3E</map>
+        <state>up</state>
+        <text>A%20Rout%20Stops</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="68" y="230" w="124" h="265" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>USCBus-ARoutStop%26bm%3BUSCBus-ARoutStop.bmml%26bm%3BUSCBus-ARoutStop.bmml%26bm%3BUSCBus-ARoutStop.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C190%2C151%2C455%22%20href%3D%22USCBus-ARoutStop.bmml%22%20alt%3D%22USCBus-ARoutStop%22%20id%3D%225%22/%3E</map>
+        <size>12</size>
+        <state>focused</state>
+        <text>Service%20from%207%3A35%20AM%20to%2011%3A05%20PM%2C%20Monday-Friday.%0AShuttles%20leave%20Leavey%20Library%20every%2030%20minutes.%0A7%3A35%20AM%0A8%3A05%20AM%0A8%3A35%20AM%0A9%3A05%20AM%0A9%3A35%20AM%0A10%3A05%20AM%0A10%3A35%20AM%0A11%3A05%20AM%0A11%3A35%20AM%0A12%3A05%20PM%0A12%3A35%20PM%0A1%3A05%20PM%0A1%3A35%20PM%0A2%3A05%20PM%0A2%3A35%20PM%0A3%3A05%20PM%0A3%3A35%20PM%0A4%3A05%20PM%0A4%3A35%20PM%0A5%3A05%20PM%0A5%3A35%20PM%0A6%3A05%20PM%0A6%3A35%20PM%0A7%3A05%20PM%0A7%3A35%20PM%0A8%3A05%20PM%0A8%3A35%20PM%0A9%3A05%20PM%0A9%3A35%20PM%0A10%3A05%20PM%0A10%3A35%20PM%0A11%3A05%20PM</text>
+        <value>4</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="68" y="495" w="116" h="34" measuredW="113" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>USCBus-ARoutSchedule%26bm%3BUSCBus-ARoutSchedule.bmml%26bm%3BUSCBus-ARoutSchedule.bmml%26bm%3BUSCBus-ARoutSchedule.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C455%2C143%2C489%22%20href%3D%22USCBus-ARoutSchedule.bmml%22%20alt%3D%22USCBus-ARoutSchedule%22%20id%3D%226%22/%3E</map>
+        <size>12</size>
+        <state>selected</state>
+        <text>A%20Rout%20Schedule</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="68" y="233" w="225" h="259" measuredW="1180" measuredH="938" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>403%2C384%2C461%2C586</crop>
+        <src>./AROUT.png</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

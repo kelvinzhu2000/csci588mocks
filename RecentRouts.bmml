@@ -10,7 +10,7 @@
       <controlProperties>
         <borderStyle>square</borderStyle>
         <crop>116%2C39%2C768%2C919</crop>
-        <src>./Screen%2520Shot%25202014-09-28%2520at%252010.19.11%2520AM.png</src>
+        <src>./USCMAP.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -23,7 +23,7 @@
         <text>Recent%20Routs%3A</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="131" y="189" w="216" h="-1" measuredW="208" measuredH="59" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="131" y="189" w="216" h="-1" measuredW="96" measuredH="59" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>false</bold>
         <color>0</color>
@@ -31,7 +31,7 @@
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C161%2C250%2C220%22%20href%3D%22ShowRRout0.bmml%22%20alt%3D%22ShowRRout0%22%20id%3D%223%22/%3E</map>
         <size>12</size>
         <state>up</state>
-        <text>From%20Doheny%20Library%20to%20Olin%20Hall%20%0ARout%203%0AFrom%20Parking%20lot%233%20to%20Leavy%20Library</text>
+        <text>My%20cool%20way%0ARout%202%0AFrom%20Parking%20lot%233%20to%20Leavy%20Library</text>
       </controlProperties>
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="219" y="136" w="121" h="-1" measuredW="105" measuredH="24" zOrder="4" locked="false" isInGroup="-1">

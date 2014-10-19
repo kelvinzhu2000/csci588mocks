@@ -10,7 +10,7 @@
       <controlProperties>
         <borderStyle>square</borderStyle>
         <crop>128%2C297%2C701%2C605</crop>
-        <src>./Screen%2520Shot%25202014-09-28%2520at%252010.19.11%2520AM.png</src>
+        <src>./USCMAP.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -29,7 +29,7 @@
         <color>0</color>
         <size>12</size>
         <state>up</state>
-        <text>All%20My%20Routs%0ARout%201%0ARout%202%0ARout%203%0ARout%204</text>
+        <text>All%20My%20Routs%0AMy%20first%20way%0ARout%202%0AMy%20cool%20way%0ARout%201</text>
       </controlProperties>
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="264" y="163" w="102" h="-1" measuredW="71" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
@@ -65,9 +65,9 @@
     <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="172" y="509" w="73" h="26" measuredW="69" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>EditRout-Disc%26bm%3BEditRout-Disc.bmml%26bm%3BEditRout-Disc.bmml%26bm%3BEditRout-Disc.bmml</href>
+        <href>EditRout-msg%26bm%3BEditRout-msg.bmml%26bm%3BEditRout-msg.bmml%26bm%3BEditRout-msg.bmml</href>
         <icon>AIMIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C455%2C107%2C481%22%20href%3D%22EditRout-Disc.bmml%22%20alt%3D%22EditRout-Disc%22%20id%3D%229%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C455%2C107%2C481%22%20href%3D%22EditRout-msg.bmml%22%20alt%3D%22EditRout-msg%22%20id%3D%229%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Edit</text>

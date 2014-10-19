@@ -15,15 +15,15 @@
         <text>My%20Routs%3A</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="131" y="189" w="216" h="-1" measuredW="99" measuredH="73" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="131" y="189" w="216" h="-1" measuredW="99" measuredH="88" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>false</bold>
         <color>0</color>
         <href>RecentRout1%26bm%3BRecentRout1.bmml%26bm%3BRecentRout1.bmml%26bm%3BRecentRout1.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C161%2C250%2C234%22%20href%3D%22RecentRout1.bmml%22%20alt%3D%22RecentRout1%22%20id%3D%225%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C161%2C250%2C249%22%20href%3D%22RecentRout1.bmml%22%20alt%3D%22RecentRout1%22%20id%3D%225%22/%3E</map>
         <size>12</size>
         <state>up</state>
-        <text>All%20My%20Routs%0ARout%201%0ARout%202%0ARout%203</text>
+        <text>All%20My%20Routs%0ARout%201%0AMy%20First%20way%0ARout%202%0AMy%20cool%20way</text>
       </controlProperties>
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="223" y="137" w="102" h="-1" measuredW="81" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
@@ -52,6 +52,7 @@
         <icon>ImageIcon%7Cxsmall</icon>
         <menuIcon>false</menuIcon>
         <size>12</size>
+        <state>disabled</state>
         <text>Show%20Building</text>
       </controlProperties>
     </control>
@@ -59,8 +60,18 @@
       <controlProperties>
         <borderStyle>square</borderStyle>
         <crop>116%2C39%2C768%2C919</crop>
-        <src>./Screen%2520Shot%25202014-09-28%2520at%252010.19.11%2520AM.png</src>
+        <src>./USCMAP.png</src>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="244" y="483" w="105" h="26" measuredW="106" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <icon>SpinningIcon%7Csmall</icon>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <state>disabled</state>
+        <text>Discreption</text>
       </controlProperties>
     </control>
   </controls>
