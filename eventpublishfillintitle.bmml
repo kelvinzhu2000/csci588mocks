@@ -9,20 +9,20 @@
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>eventPublish%201%26bm%3BeventPublish%201.bmml%26bm%3BeventPublish%201.bmml%26bm%3BeventPublish%201.bmml</href>
+        <href>eventPublish%26bm%3BeventPublish.bmml%26bm%3BeventPublish.bmml%26bm%3BeventPublish.bmml</href>
         <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22eventPublish%25201.bmml%22%20alt%3D%22eventPublish%201%22%20id%3D%226%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22eventPublish.bmml%22%20alt%3D%22eventPublish%22%20id%3D%226%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="102" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="35" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
-        <text>Event%20Publish</text>
+        <text>Title</text>
         <underline>false</underline>
       </controlProperties>
     </control>
@@ -33,5 +33,13 @@
       </controlProperties>
     </control>
     <control controlID="17" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="49" y="343" w="-1" h="-1" measuredW="226" measuredH="160" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="131" y="282" w="75" h="27" measuredW="75" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <href>eventPublish%26bm%3BeventPublish.bmml%26bm%3BeventPublish.bmml%26bm%3BeventPublish.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C273%2C184%2C300%22%20href%3D%22eventPublish.bmml%22%20alt%3D%22eventPublish%22%20id%3D%2218%22/%3E</map>
+        <text>Continue</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

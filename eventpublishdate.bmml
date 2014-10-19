@@ -9,20 +9,20 @@
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>eventPublish%201%26bm%3BeventPublish%201.bmml%26bm%3BeventPublish%201.bmml%26bm%3BeventPublish%201.bmml</href>
+        <href>eventPublish%26bm%3BeventPublish.bmml%26bm%3BeventPublish.bmml%26bm%3BeventPublish.bmml</href>
         <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22eventPublish%25201.bmml%22%20alt%3D%22eventPublish%201%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22eventPublish.bmml%22%20alt%3D%22eventPublish%22%20id%3D%221%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="102" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="38" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
-        <text>Event%20Publish</text>
+        <text>Time</text>
         <underline>false</underline>
       </controlProperties>
     </control>
@@ -34,8 +34,8 @@
     <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="131" y="433" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
-        <href>eventpublishafterfillin%26bm%3Beventpublishafterfillin.bmml%26bm%3Beventpublishafterfillin.bmml%26bm%3Beventpublishafterfillin.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C424%2C184%2C451%22%20href%3D%22eventpublishafterfillin.bmml%22%20alt%3D%22eventpublishafterfillin%22%20id%3D%2216%22/%3E</map>
+        <href>eventPublish%26bm%3BeventPublish.bmml%26bm%3BeventPublish.bmml%26bm%3BeventPublish.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C424%2C184%2C451%22%20href%3D%22eventPublish.bmml%22%20alt%3D%22eventPublish%22%20id%3D%2216%22/%3E</map>
         <text>Continue</text>
       </controlProperties>
     </control>
