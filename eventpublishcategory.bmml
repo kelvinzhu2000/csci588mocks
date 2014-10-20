@@ -28,7 +28,7 @@
     </control>
     <control controlID="16" controlTypeID="com.balsamiq.mockups::iPhonePicker" x="53" y="203" w="-1" h="-1" measuredW="214" measuredH="160" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>career%0Aeducation%0Aseminar%0Atailgate%0Agame%0Afood%0Afestival</text>
+        <text>tailgate%0Aeducation%0Aseminar%0Acareeer%0Agame%0Afood%0Afestival</text>
       </controlProperties>
     </control>
     <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="131" y="433" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="4" locked="false" isInGroup="-1">

@@ -17,26 +17,27 @@
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="38" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="43" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
-        <text>Time</text>
+        <text>Place</text>
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::iPhonePicker" x="55" y="160" w="-1" h="-1" measuredW="214" measuredH="160" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="46" y="149" w="229" h="349" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%20%2C7%2C59%2C%20%2C7%2C59%0A%20%2C8%2C00%2C%20%2C8%2C59%0A%20%2C9%2C01%2C%20%2C9%2C59%0AFrom%2C10%2C02%2CTo%2C%2010%2C59%0A%20%2C11%2C03%2C%20%2C11%2C59%0A%20%2C12%2C04%2C%20%2C12%2C04%0A%20%2C13%2C05%2C%20%2C13%2C05</text>
+        <src>./assets/ss3.png</src>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="131" y="433" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="214" y="115" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
+        <align>center</align>
         <color>6710886</color>
-        <href>eventPublish%26bm%3BeventPublish.bmml%26bm%3BeventPublish.bmml%26bm%3BeventPublish.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C424%2C184%2C451%22%20href%3D%22eventPublish.bmml%22%20alt%3D%22eventPublish%22%20id%3D%2222%22/%3E</map>
-        <text>Continue</text>
+        <href>eventPublishlocationsuccess%26bm%3BeventPublishlocationsuccess.bmml%26bm%3BeventPublishlocationsuccess.bmml%26bm%3BeventPublishlocationsuccess.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C106%2C245%2C133%22%20href%3D%22eventPublishlocationsuccess.bmml%22%20alt%3D%22eventPublishlocationsuccess%22%20id%3D%2214%22/%3E</map>
+        <text>Done</text>
       </controlProperties>
     </control>
   </controls>

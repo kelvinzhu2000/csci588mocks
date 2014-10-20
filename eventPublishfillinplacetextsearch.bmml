@@ -26,11 +26,9 @@
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::SearchBox" x="52" y="152" w="219" h="-1" measuredW="120" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SearchBox" x="52" y="152" w="219" h="-1" measuredW="147" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>eventPublishfillinplacetextsearch%26bm%3BeventPublishfillinplacetextsearch.bmml%26bm%3BeventPublishfillinplacetextsearch.bmml%26bm%3BeventPublishfillinplacetextsearch.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C143%2C249%2C168%22%20href%3D%22eventPublishfillinplacetextsearch.bmml%22%20alt%3D%22eventPublishfillinplacetextsearch%22%20id%3D%229%22/%3E</map>
-        <text>search</text>
+        <text>Engineering%20Squad_</text>
       </controlProperties>
     </control>
     <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="63" y="202" w="200" h="58" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
@@ -46,8 +44,6 @@
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="56" y="316" w="217" h="109" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>eventPublishfillinPlacemapsearch%26bm%3BeventPublishfillinPlacemapsearch.bmml%26bm%3BeventPublishfillinPlacemapsearch.bmml%26bm%3BeventPublishfillinPlacemapsearch.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C307%2C251%2C416%22%20href%3D%22eventPublishfillinPlacemapsearch.bmml%22%20alt%3D%22eventPublishfillinPlacemapsearch%22%20id%3D%2212%22/%3E</map>
         <src>./assets/ss3.png</src>
       </controlProperties>
     </control>
@@ -64,5 +60,6 @@
         <text>Done</text>
       </controlProperties>
     </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="48" y="338" w="-1" h="-1" measuredW="226" measuredH="160" zOrder="9" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>
