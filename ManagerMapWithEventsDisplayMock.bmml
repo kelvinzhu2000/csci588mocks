@@ -69,24 +69,14 @@
         <text>Hackathon</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::IconLabel" x="85" y="407" w="-1" h="-1" measuredW="48" measuredH="47" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>10027008</color>
-        <href>ManagerEventDetailWithSubscriptionMock%26bm%3BManagerEventDetailWithSubscriptionMock.bmml%26bm%3BManagerEventDetailWithSubscriptionMock.bmml%26bm%3BManagerEventDetailWithSubscriptionMock.bmml</href>
-        <icon>DownFillTriangleIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C398%2C111%2C445%22%20href%3D%22ManagerEventDetailWithSubscriptionMock.bmml%22%20alt%3D%22ManagerEventDetailWithSubscriptionMock%22%20id%3D%229%22/%3E</map>
-        <text>Concert</text>
-      </controlProperties>
-    </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::IconLabel" x="85" y="179" w="-1" h="-1" measuredW="56" measuredH="47" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::IconLabel" x="67" y="180" w="-1" h="-1" measuredW="72" measuredH="47" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <color>10027008</color>
         <href>ManagerEventCreatorDetailWithSubscriptionMock%26bm%3BManagerEventCreatorDetailWithSubscriptionMock.bmml%26bm%3BManagerEventCreatorDetailWithSubscriptionMock.bmml%26bm%3BManagerEventCreatorDetailWithSubscriptionMock.bmml</href>
         <icon>DownFillTriangleIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C170%2C119%2C217%22%20href%3D%22ManagerEventCreatorDetailWithSubscriptionMock.bmml%22%20alt%3D%22ManagerEventCreatorDetailWithSubscriptionMock%22%20id%3D%2210%22/%3E</map>
-        <text>Tech%20Talk</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C171%2C117%2C218%22%20href%3D%22ManagerEventCreatorDetailWithSubscriptionMock.bmml%22%20alt%3D%22ManagerEventCreatorDetailWithSubscriptionMock%22%20id%3D%2210%22/%3E</map>
+        <text>Library%20Tour</text>
       </controlProperties>
     </control>
   </controls>

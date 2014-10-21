@@ -6,12 +6,12 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>AnonymousEventListMock%26bm%3BAnonymousEventListMock.bmml%26bm%3BAnonymousEventListMock.bmml%26bm%3BAnonymousEventListMock.bmml</href>
-        <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22AnonymousEventListMock.bmml%22%20alt%3D%22AnonymousEventListMock%22%20id%3D%221%22/%3E</map>
+        <href>AnonymousEventsByPopularityMock%26bm%3BAnonymousEventsByPopularityMock.bmml%26bm%3BAnonymousEventsByPopularityMock.bmml%26bm%3BAnonymousEventsByPopularityMock.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22AnonymousEventsByPopularityMock.bmml%22%20alt%3D%22AnonymousEventsByPopularityMock%22%20id%3D%221%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
@@ -34,15 +34,10 @@
     </control>
     <control controlID="18" controlTypeID="com.balsamiq.mockups::List" x="65" y="186" w="196" h="115" measuredW="100" measuredH="126" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Time%3A%20Oct.%208%20%0APlace%3A%20Engineering%20Quad%0ACategory%3A%20Career%2C%20Academic%0AParticipant%3A%20Technical%20Companies%0ANeed%20Reservation%3A%20</text>
+        <text>Time%3A%20Oct.%208%20%0APlace%3A%20Engineering%20Quad%0ACategory%3A%20Career%2C%20Academic%0AParticipant%3A%20Technical%20Companies</text>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Link" x="204" y="273" w="-1" h="-1" measuredW="22" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Yes</text>
-      </controlProperties>
-    </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::Image" x="51" y="307" w="224" h="189" measuredW="1966" measuredH="1470" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Image" x="51" y="307" w="224" h="189" measuredW="1966" measuredH="1470" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>116%2C39%2C768%2C919</crop>
         <href>AnonymousMapWithEventsMock%26bm%3BAnonymousMapWithEventsMock.bmml%26bm%3BAnonymousMapWithEventsMock.bmml%26bm%3BAnonymousMapWithEventsMock.bmml</href>
@@ -51,7 +46,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::IconLabel" x="141" y="374" w="-1" h="-1" measuredW="68" measuredH="47" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::IconLabel" x="141" y="374" w="-1" h="-1" measuredW="68" measuredH="47" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16776960</color>
         <href>AnonymousMapWithEventsMock%26bm%3BAnonymousMapWithEventsMock.bmml%26bm%3BAnonymousMapWithEventsMock.bmml%26bm%3BAnonymousMapWithEventsMock.bmml</href>

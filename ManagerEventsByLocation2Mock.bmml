@@ -1,0 +1,45 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="304" measuredH="582" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>ManagerEventMainPageMock%26bm%3BManagerEventMainPageMock.bmml%26bm%3BManagerEventMainPageMock.bmml%26bm%3BManagerEventMainPageMock.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22ManagerEventMainPageMock.bmml%22%20alt%3D%22ManagerEventMainPageMock%22%20id%3D%221%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="121" y="117" w="-1" h="-1" measuredW="86" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Events%20List</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Accordion" x="44" y="191" w="238" h="312" measuredW="228" measuredH="267" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>ManagerEventsByLocationMock%26bm%3BManagerEventsByLocationMock.bmml%26bm%3BManagerEventsByLocationMock.bmml%26bm%3BManagerEventsByLocationMock.bmml%2C%2C%2CManagerEventDetailMock%26bm%3BManagerEventDetailMock.bmml%26bm%3BManagerEventDetailMock.bmml%26bm%3BManagerEventDetailMock.bmml%2C%2C%2C%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C182%2C260%2C212%22%20href%3D%22ManagerEventsByLocationMock.bmml%22%20alt%3D%22ManagerEventsByLocationMock%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C182%2C22%2C182%22%20href%3D%22ManagerEventDetailMock.bmml%22%20alt%3D%22ManagerEventDetailMock%22%20id%3D%223%22/%3E</map>
+        <selectedIndex>4</selectedIndex>
+        <text>Engineering%20Quad%0A-%20Movie%20Audition%20%3E%0A-%20Library%20Tour%20%3E%20%28creator%29%0A-%20Career%20Fair%20%3E%20%28subscribed%29%0ASeely%20Mudd%20Hall%20%28SMH%29%0A-%20Art%20Exhibit%20%3E%0A-%20Concert%20%3E%20%28subscribed%29%0AScience%20Engineering%20%28SSL%29%0AElectrical%20Engineering%20Building%20%28EEB%29%0ARonald%20Tutor%20Hall%20%28RTH%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SearchBox" x="63" y="151" w="201" h="-1" measuredW="120" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ManagerEventSearchByLocationMock%26bm%3BManagerEventSearchByLocationMock.bmml%26bm%3BManagerEventSearchByLocationMock.bmml%26bm%3BManagerEventSearchByLocationMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C142%2C242%2C166%22%20href%3D%22ManagerEventSearchByLocationMock.bmml%22%20alt%3D%22ManagerEventSearchByLocationMock%22%20id%3D%224%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

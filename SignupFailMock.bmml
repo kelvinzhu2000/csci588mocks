@@ -65,12 +65,12 @@
         <text>Required%20fields%20not%20filled%20out</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>LoginMock%26bm%3BLoginMock.bmml%26bm%3BLoginMock.bmml%26bm%3BLoginMock.bmml</href>
-        <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22LoginMock.bmml%22%20alt%3D%22LoginMock%22%20id%3D%2214%22/%3E</map>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22LoginMock.bmml%22%20alt%3D%22LoginMock%22%20id%3D%2214%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>

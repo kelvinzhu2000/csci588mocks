@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="510" measuredH="582" mockupW="488" mockupH="573">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="451" measuredH="582" mockupW="429" mockupH="573">
   <controls>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="72" y="231" w="182" h="-1" measuredW="138" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
@@ -75,12 +75,12 @@
         <text>Bad%20Login</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>AnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml</href>
-        <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%2216%22/%3E</map>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%2216%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
@@ -102,15 +102,6 @@
         <size>16</size>
         <text>Signin</text>
         <underline>false</underline>
-      </controlProperties>
-    </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="483" y="393" w="27" h="24" measuredW="38" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10027008</color>
-        <icon>VolumeIcon%7Cxsmall</icon>
-        <menuIcon>false</menuIcon>
-        <size>11</size>
-        <text/>
       </controlProperties>
     </control>
   </controls>
