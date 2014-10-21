@@ -48,8 +48,8 @@
     <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="51" y="307" w="224" h="194" measuredW="1966" measuredH="1470" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>116%2C39%2C768%2C919</crop>
-        <href>ManagerMapWithCreatorSubscribedEventMock%26bm%3BManagerMapWithCreatorSubscribedEventMock.bmml%26bm%3BManagerMapWithCreatorSubscribedEventMock.bmml%26bm%3BManagerMapWithCreatorSubscribedEventMock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C298%2C253%2C492%22%20href%3D%22ManagerMapWithCreatorSubscribedEventMock.bmml%22%20alt%3D%22ManagerMapWithCreatorSubscribedEventMock%22%20id%3D%2212%22/%3E</map>
+        <href>ManagerMapWithCreatorEventMock%26bm%3BManagerMapWithCreatorEventMock.bmml%26bm%3BManagerMapWithCreatorEventMock.bmml%26bm%3BManagerMapWithCreatorEventMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C298%2C253%2C492%22%20href%3D%22ManagerMapWithCreatorEventMock.bmml%22%20alt%3D%22ManagerMapWithCreatorEventMock%22%20id%3D%2212%22/%3E</map>
         <src>./assets/FullMap.png</src>
         <text/>
       </controlProperties>
@@ -58,9 +58,9 @@
       <controlProperties>
         <borderStyle>square</borderStyle>
         <color>10027008</color>
-        <href>ManagerMapWithCreatorSubscribedEventMock%26bm%3BManagerMapWithCreatorSubscribedEventMock.bmml%26bm%3BManagerMapWithCreatorSubscribedEventMock.bmml%26bm%3BManagerMapWithCreatorSubscribedEventMock.bmml</href>
+        <href>ManagerMapWithCreatorEventMock%26bm%3BManagerMapWithCreatorEventMock.bmml%26bm%3BManagerMapWithCreatorEventMock.bmml%26bm%3BManagerMapWithCreatorEventMock.bmml</href>
         <icon>DownFillTriangleIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C365%2C187%2C412%22%20href%3D%22ManagerMapWithCreatorSubscribedEventMock.bmml%22%20alt%3D%22ManagerMapWithCreatorSubscribedEventMock%22%20id%3D%2213%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C365%2C187%2C412%22%20href%3D%22ManagerMapWithCreatorEventMock.bmml%22%20alt%3D%22ManagerMapWithCreatorEventMock%22%20id%3D%2213%22/%3E</map>
         <text>Career%20Fair</text>
       </controlProperties>
     </control>

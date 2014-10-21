@@ -79,9 +79,9 @@
       <controlProperties>
         <borderStyle>square</borderStyle>
         <color>10027008</color>
-        <href>ManagerEventCreatorDetailWithSubscriptionMock%26bm%3BManagerEventCreatorDetailWithSubscriptionMock.bmml%26bm%3BManagerEventCreatorDetailWithSubscriptionMock.bmml%26bm%3BManagerEventCreatorDetailWithSubscriptionMock.bmml</href>
+        <href>ManagerEventCreatorDetailMock%26bm%3BManagerEventCreatorDetailMock.bmml%26bm%3BManagerEventCreatorDetailMock.bmml%26bm%3BManagerEventCreatorDetailMock.bmml</href>
         <icon>DownFillTriangleIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C171%2C117%2C218%22%20href%3D%22ManagerEventCreatorDetailWithSubscriptionMock.bmml%22%20alt%3D%22ManagerEventCreatorDetailWithSubscriptionMock%22%20id%3D%2211%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C171%2C117%2C218%22%20href%3D%22ManagerEventCreatorDetailMock.bmml%22%20alt%3D%22ManagerEventCreatorDetailMock%22%20id%3D%2211%22/%3E</map>
         <text>Library%20Tour</text>
       </controlProperties>
     </control>
