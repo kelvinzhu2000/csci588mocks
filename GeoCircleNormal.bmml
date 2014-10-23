@@ -6,48 +6,35 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10027008</color>
-        <href>GeoEventDetail%26bm%3BGeoEventDetail.bmml%26bm%3BGeoEventDetail.bmml%26bm%3BGeoEventDetail.bmml</href>
-        <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22GeoEventDetail.bmml%22%20alt%3D%22GeoEventDetail%22%20id%3D%221%22/%3E</map>
-        <menuIcon>false</menuIcon>
-        <size>11</size>
-        <text>Back</text>
-      </controlProperties>
-    </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="80" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="103" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
-        <text>Event%20Map</text>
+        <text>Location%20Size</text>
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="51" y="194" w="224" h="308" measuredW="1966" measuredH="1470" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="50" y="149" w="224" h="292" measuredW="1966" measuredH="1470" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>116%2C39%2C768%2C919</crop>
         <src>./assets/FullMap.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::ColorPicker" x="140" y="350" w="-1" h="-1" measuredW="26" measuredH="28" zOrder="6" locked="false" isInGroup="-1"/>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="108" y="166" w="112" h="-1" measuredW="105" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ColorPicker" x="139" y="305" w="-1" h="-1" measuredW="26" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <size>20</size>
-        <text>Career%20Fair</text>
+        <color>10027008</color>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="107" y="317" w="95" h="95" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1"/>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::RoundButton" x="95" y="308" w="116" h="112" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="107" y="317" w="95" h="95" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::RoundButton" x="94" y="263" w="116" h="112" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0</backgroundAlpha>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="__group__" x="337" y="211" w="122" h="82" measuredW="122" measuredH="82" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="__group__" x="337" y="211" w="122" h="82" measuredW="122" measuredH="82" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>ga-gesture-pinchopen</controlName>
         <href>GeoCircleBig%26bm%3BGeoCircleBig.bmml%26bm%3BGeoCircleBig.bmml%26bm%3BGeoCircleBig.bmml</href>
@@ -89,7 +76,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="9" controlTypeID="__group__" x="366" y="319" w="128" h="91" measuredW="128" measuredH="91" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="__group__" x="366" y="319" w="128" h="91" measuredW="128" measuredH="91" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>ga-gesture-pinchclose</controlName>
         <href>GeoCircleSmall%26bm%3BGeoCircleSmall.bmml%26bm%3BGeoCircleSmall.bmml%26bm%3BGeoCircleSmall.bmml</href>
@@ -131,6 +118,25 @@
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="74" h="28" measuredW="77" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>ManagerGeoEdit%26bm%3BManagerGeoEdit.bmml%26bm%3BManagerGeoEdit.bmml%26bm%3BManagerGeoEdit.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C104%2C134%22%20href%3D%22ManagerGeoEdit.bmml%22%20alt%3D%22ManagerGeoEdit%22%20id%3D%2210%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="137" y="452" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>ManagerGeoEdit%26bm%3BManagerGeoEdit.bmml%26bm%3BManagerGeoEdit.bmml%26bm%3BManagerGeoEdit.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C443%2C167%2C470%22%20href%3D%22ManagerGeoEdit.bmml%22%20alt%3D%22ManagerGeoEdit%22%20id%3D%2211%22/%3E</map>
+        <text>Save</text>
+      </controlProperties>
     </control>
   </controls>
 </mockup>

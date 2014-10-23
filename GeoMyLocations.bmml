@@ -9,20 +9,20 @@
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="36" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>GeoSubscribeMain%26bm%3BGeoSubscribeMain.bmml%26bm%3BGeoSubscribeMain.bmml%26bm%3BGeoSubscribeMain.bmml</href>
+        <href>ManagerGeoMain%26bm%3BManagerGeoMain.bmml%26bm%3BManagerGeoMain.bmml%26bm%3BManagerGeoMain.bmml</href>
         <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C107%2C102%2C135%22%20href%3D%22GeoSubscribeMain.bmml%22%20alt%3D%22GeoSubscribeMain%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C107%2C102%2C135%22%20href%3D%22ManagerGeoMain.bmml%22%20alt%3D%22ManagerGeoMain%22%20id%3D%221%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="115" y="117" w="-1" h="-1" measuredW="98" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="115" y="117" w="-1" h="-1" measuredW="74" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
-        <text>Notifications</text>
+        <text>Locations</text>
         <underline>false</underline>
       </controlProperties>
     </control>

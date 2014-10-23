@@ -17,49 +17,49 @@
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="121" y="117" w="-1" h="-1" measuredW="86" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>10027008</color>
-        <size>16</size>
-        <text>Events%20List</text>
-        <underline>false</underline>
-      </controlProperties>
-    </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="83" y="153" w="39" h="-1" measuredW="41" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="83" y="153" w="39" h="-1" measuredW="41" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Ronald</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::HRule" x="55" y="198" w="218" h="-1" measuredW="100" measuredH="10" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::HRule" x="55" y="198" w="218" h="-1" measuredW="100" measuredH="10" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>3355443</color>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::SearchBox" x="63" y="151" w="201" h="-1" measuredW="120" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::SearchBox" x="63" y="151" w="201" h="-1" measuredW="120" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <href>AnonymousEventsByTimeMock%26bm%3BAnonymousEventsByTimeMock.bmml%26bm%3BAnonymousEventsByTimeMock.bmml%26bm%3BAnonymousEventsByTimeMock.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C142%2C242%2C167%22%20href%3D%22AnonymousEventsByTimeMock.bmml%22%20alt%3D%22AnonymousEventsByTimeMock%22%20id%3D%225%22/%3E</map>
         <text>Career</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="55" y="187" w="218" h="-1" measuredW="94" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="55" y="187" w="218" h="-1" measuredW="94" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>6710886</color>
         <text>Search%20Results</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::StickyNote" x="310" y="57" w="128" h="144" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::StickyNote" x="310" y="57" w="128" h="144" measuredW="109" measuredH="123" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>The%20link%20on%20the%20search%20bar%20refers%20to%20the%20state%20the%20screen%20%20takes%20when%20search%20text%20is%20cleared</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Accordion" x="44" y="208" w="238" h="295" measuredW="150" measuredH="186" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Accordion" x="44" y="208" w="238" h="295" measuredW="150" measuredH="186" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2CAnonymousEventDetailMock%26bm%3BAnonymousEventDetailMock.bmml%26bm%3BAnonymousEventDetailMock.bmml%26bm%3BAnonymousEventDetailMock.bmml%2C%2C</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C229%2C260%2C253%22%20href%3D%22AnonymousEventDetailMock.bmml%22%20alt%3D%22AnonymousEventDetailMock%22%20id%3D%228%22/%3E</map>
         <text>Today%0A-%20Career%20Fair%20%3E%0AThis%20Week%0ANext%20Week</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="53" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Events</text>
+        <underline>false</underline>
       </controlProperties>
     </control>
   </controls>

@@ -17,16 +17,7 @@
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="121" y="117" w="-1" h="-1" measuredW="86" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <color>10027008</color>
-        <size>16</size>
-        <text>Events%20List</text>
-        <underline>false</underline>
-      </controlProperties>
-    </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Accordion" x="44" y="191" w="238" h="312" measuredW="228" measuredH="267" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Accordion" x="44" y="191" w="238" h="312" measuredW="228" measuredH="267" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>AnonymousEventsByLocationMock%26bm%3BAnonymousEventsByLocationMock.bmml%26bm%3BAnonymousEventsByLocationMock.bmml%26bm%3BAnonymousEventsByLocationMock.bmml%2C%2C%2CAnonymousEventDetailMock%26bm%3BAnonymousEventDetailMock.bmml%26bm%3BAnonymousEventDetailMock.bmml%26bm%3BAnonymousEventDetailMock.bmml%2C%2C%2C%2C%2C%2C%2C</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C182%2C260%2C212%22%20href%3D%22AnonymousEventsByLocationMock.bmml%22%20alt%3D%22AnonymousEventsByLocationMock%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C182%2C22%2C182%22%20href%3D%22AnonymousEventDetailMock.bmml%22%20alt%3D%22AnonymousEventDetailMock%22%20id%3D%223%22/%3E</map>
@@ -34,11 +25,20 @@
         <text>Engineering%20Quad%0A-%20Movie%20Audition%20%3E%0A-%20Library%20Tour%20%3E%0A-%20Career%20Fair%20%3E%0ASeely%20Mudd%20Hall%20%28SMH%29%0A-%20Art%20Exhibit%20%3E%0A-%20Concert%20%3E%0AScience%20Engineering%20%28SSL%29%0AElectrical%20Engineering%20Building%20%28EEB%29%0ARonald%20Tutor%20Hall%20%28RTH%29</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::SearchBox" x="63" y="151" w="201" h="-1" measuredW="120" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SearchBox" x="63" y="151" w="201" h="-1" measuredW="120" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <href>AnonymousEventSearchByLocationMock%26bm%3BAnonymousEventSearchByLocationMock.bmml%26bm%3BAnonymousEventSearchByLocationMock.bmml%26bm%3BAnonymousEventSearchByLocationMock.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C142%2C242%2C166%22%20href%3D%22AnonymousEventSearchByLocationMock.bmml%22%20alt%3D%22AnonymousEventSearchByLocationMock%22%20id%3D%224%22/%3E</map>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="53" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Events</text>
+        <underline>false</underline>
       </controlProperties>
     </control>
   </controls>

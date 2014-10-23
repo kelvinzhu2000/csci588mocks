@@ -9,9 +9,9 @@
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>GeoSubscribeMain%26bm%3BGeoSubscribeMain.bmml%26bm%3BGeoSubscribeMain.bmml%26bm%3BGeoSubscribeMain.bmml</href>
+        <href>ManagerGeoMain%26bm%3BManagerGeoMain.bmml%26bm%3BManagerGeoMain.bmml%26bm%3BManagerGeoMain.bmml</href>
         <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22GeoSubscribeMain.bmml%22%20alt%3D%22GeoSubscribeMain%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22ManagerGeoMain.bmml%22%20alt%3D%22ManagerGeoMain%22%20id%3D%221%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
@@ -35,8 +35,8 @@
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="83" y="400" w="-1" h="-1" measuredW="164" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16776960</color>
-        <href>GeoSubscribeMain%26bm%3BGeoSubscribeMain.bmml%26bm%3BGeoSubscribeMain.bmml%26bm%3BGeoSubscribeMain.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2261%2C391%2C225%2C418%22%20href%3D%22GeoSubscribeMain.bmml%22%20alt%3D%22GeoSubscribeMain%22%20id%3D%226%22/%3E</map>
+        <href>ManagerGeoMain%26bm%3BManagerGeoMain.bmml%26bm%3BManagerGeoMain.bmml%26bm%3BManagerGeoMain.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2261%2C391%2C225%2C418%22%20href%3D%22ManagerGeoMain.bmml%22%20alt%3D%22ManagerGeoMain%22%20id%3D%226%22/%3E</map>
         <text>View%20Other%20Notifications</text>
       </controlProperties>
     </control>
@@ -49,8 +49,8 @@
     <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="83" y="358" w="-1" h="-1" measuredW="164" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16776960</color>
-        <href>GeoUnsubscribe%26bm%3BGeoUnsubscribe.bmml%26bm%3BGeoUnsubscribe.bmml%26bm%3BGeoUnsubscribe.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2261%2C349%2C225%2C376%22%20href%3D%22GeoUnsubscribe.bmml%22%20alt%3D%22GeoUnsubscribe%22%20id%3D%229%22/%3E</map>
+        <href>GeoMyLocations%26bm%3BGeoMyLocations.bmml%26bm%3BGeoMyLocations.bmml%26bm%3BGeoMyLocations.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2261%2C349%2C225%2C376%22%20href%3D%22GeoMyLocations.bmml%22%20alt%3D%22GeoMyLocations%22%20id%3D%229%22/%3E</map>
         <text>Back%20to%20My%20Notifications</text>
       </controlProperties>
     </control>

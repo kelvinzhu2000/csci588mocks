@@ -6,20 +6,20 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="117" y="117" w="-1" h="-1" measuredW="126" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="117" y="117" w="-1" h="-1" measuredW="148" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
-        <text>Event%20Subscribe</text>
+        <text>Location%20Subscribe</text>
         <underline>false</underline>
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="50" h="28" measuredW="48" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>ManagerEventDetailWithSubscriptionMock%26bm%3BManagerEventDetailWithSubscriptionMock.bmml%26bm%3BManagerEventDetailWithSubscriptionMock.bmml%26bm%3BManagerEventDetailWithSubscriptionMock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C80%2C134%22%20href%3D%22ManagerEventDetailWithSubscriptionMock.bmml%22%20alt%3D%22ManagerEventDetailWithSubscriptionMock%22%20id%3D%222%22/%3E</map>
+        <href>ManagerGeoDetailsWithSubscription%26bm%3BManagerGeoDetailsWithSubscription.bmml%26bm%3BManagerGeoDetailsWithSubscription.bmml%26bm%3BManagerGeoDetailsWithSubscription.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C80%2C134%22%20href%3D%22ManagerGeoDetailsWithSubscription.bmml%22%20alt%3D%22ManagerGeoDetailsWithSubscription%22%20id%3D%222%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Done</text>
@@ -32,11 +32,11 @@
         <text>You%20have%20been%20subscribed</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="82" y="306" w="-1" h="-1" measuredW="154" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="78" y="306" w="-1" h="-1" measuredW="166" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
-        <text>to%20the%20Career%20Fair%20event.</text>
+        <text>to%20the%20Food%20Court%20location.</text>
       </controlProperties>
     </control>
   </controls>

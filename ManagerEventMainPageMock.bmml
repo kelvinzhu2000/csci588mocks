@@ -78,7 +78,7 @@
       <controlProperties>
         <borderStyle>none</borderStyle>
         <href>ManagerEventsByLocationMock%26bm%3BManagerEventsByLocationMock.bmml%26bm%3BManagerEventsByLocationMock.bmml%26bm%3BManagerEventsByLocationMock.bmml</href>
-        <icon>PushPinIcon%7Clarge</icon>
+        <icon>ContactIcon%7Clarge</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C383%2C78%2C431%22%20href%3D%22ManagerEventsByLocationMock.bmml%22%20alt%3D%22ManagerEventsByLocationMock%22%20id%3D%2230%22/%3E</map>
       </controlProperties>
     </control>
