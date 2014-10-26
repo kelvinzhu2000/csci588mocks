@@ -117,5 +117,30 @@
         <text>Markers%20%28same%20color%20or%20icon...%29%20for%20all%20the%20buildings%20in%20the%20same%20category</text>
       </controlProperties>
     </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::RoundButton" x="110" y="212" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::RoundButton" x="167" y="317" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::RoundButton" x="236" y="256" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::RoundButton" x="104" y="396" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::RoundButton" x="251" y="421" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

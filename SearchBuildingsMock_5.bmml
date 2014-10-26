@@ -56,5 +56,10 @@
         </control>
       </groupChildrenDescriptors>
     </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::RoundButton" x="167" y="317" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
