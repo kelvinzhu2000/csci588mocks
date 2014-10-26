@@ -104,20 +104,7 @@
         <text>Play</text>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="214" y="115" w="56" h="28" measuredW="61" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>right</align>
-        <color>10027008</color>
-        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
-        <icon>LeftTriangleIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C106%2C248%2C134%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%2222%22/%3E</map>
-        <menuIcon>false</menuIcon>
-        <rotation>180</rotation>
-        <size>11</size>
-        <text>Day</text>
-      </controlProperties>
-    </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::TextArea" x="189" y="223" w="30" h="58" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::TextArea" x="189" y="223" w="30" h="58" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <href>EditEvent_Main_CL%26bm%3BEditEvent_Main_CL.bmml%26bm%3BEditEvent_Main_CL.bmml%26bm%3BEditEvent_Main_CL.bmml</href>
@@ -127,7 +114,7 @@
         <text>Meeting</text>
       </controlProperties>
     </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="71" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="71" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <align>right</align>
         <color>10027008</color>
@@ -139,7 +126,7 @@
         <text>Month</text>
       </controlProperties>
     </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="128" y="117" w="-1" h="-1" measuredW="70" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="128" y="117" w="-1" h="-1" measuredW="70" measuredH="24" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
@@ -148,7 +135,7 @@
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="79" y="148" w="30" h="22" measuredW="43" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="79" y="148" w="30" h="22" measuredW="43" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <color>16777215</color>
@@ -159,7 +146,7 @@
         <text>Mon</text>
       </controlProperties>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="106" y="149" w="30" h="22" measuredW="41" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="106" y="149" w="30" h="22" measuredW="41" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <color>16777215</color>
@@ -170,7 +157,7 @@
         <text>Tue</text>
       </controlProperties>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="134" y="149" w="30" h="22" measuredW="45" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="134" y="149" w="30" h="22" measuredW="45" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <color>16777215</color>
@@ -181,7 +168,7 @@
         <text>Wed</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="161" y="149" w="30" h="22" measuredW="41" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="161" y="149" w="30" h="22" measuredW="41" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <color>16777215</color>
@@ -192,7 +179,7 @@
         <text>Thu</text>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::Button" x="189" y="149" w="30" h="22" measuredW="35" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Button" x="189" y="149" w="30" h="22" measuredW="35" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <color>16777215</color>
@@ -203,7 +190,7 @@
         <text>Fri</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::Button" x="218" y="149" w="30" h="22" measuredW="39" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Button" x="218" y="149" w="30" h="22" measuredW="39" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <color>16777215</color>
@@ -214,7 +201,7 @@
         <text>Sat</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::Button" x="244" y="149" w="30" h="22" measuredW="42" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Button" x="244" y="149" w="30" h="22" measuredW="42" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <color>16777215</color>

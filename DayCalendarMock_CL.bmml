@@ -101,9 +101,9 @@
       <controlProperties>
         <align>right</align>
         <color>10027008</color>
-        <href>WeekCalendarMock_Added_CL%26bm%3BWeekCalendarMock_Added_CL.bmml%26bm%3BWeekCalendarMock_Added_CL.bmml%26bm%3BWeekCalendarMock_Added_CL.bmml</href>
+        <href>WeekCalendarMock_CL%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml</href>
         <icon>LeftTriangleIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C94%2C134%22%20href%3D%22WeekCalendarMock_Added_CL.bmml%22%20alt%3D%22WeekCalendarMock_Added_CL%22%20id%3D%2220%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C94%2C134%22%20href%3D%22WeekCalendarMock_CL.bmml%22%20alt%3D%22WeekCalendarMock_CL%22%20id%3D%2220%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Week</text>
