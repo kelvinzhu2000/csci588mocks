@@ -9,8 +9,8 @@
     <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="137" y="452" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>GeoCircleNormal%26bm%3BGeoCircleNormal.bmml%26bm%3BGeoCircleNormal.bmml%26bm%3BGeoCircleNormal.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C443%2C167%2C470%22%20href%3D%22GeoCircleNormal.bmml%22%20alt%3D%22GeoCircleNormal%22%20id%3D%225%22/%3E</map>
+        <href>ManagerGeoCreatorDetails%26bm%3BManagerGeoCreatorDetails.bmml%26bm%3BManagerGeoCreatorDetails.bmml%26bm%3BManagerGeoCreatorDetails.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C443%2C167%2C470%22%20href%3D%22ManagerGeoCreatorDetails.bmml%22%20alt%3D%22ManagerGeoCreatorDetails%22%20id%3D%225%22/%3E</map>
         <text>Save</text>
       </controlProperties>
     </control>
