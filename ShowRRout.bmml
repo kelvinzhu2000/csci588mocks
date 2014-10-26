@@ -15,6 +15,10 @@
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="__group__" x="299" y="268" w="10" h="10" measuredW="10" measuredH="10" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ShowRRout1%26bm%3BShowRRout1.bmml%26bm%3BShowRRout1.bmml%26bm%3BShowRRout1.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22202%2C240%2C212%2C250%22%20href%3D%22ShowRRout1.bmml%22%20alt%3D%22ShowRRout1%22%20id%3D%222%22/%3E</map>
+      </controlProperties>
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="__group__" x="0" y="0" w="10" h="10" measuredW="10" measuredH="10" zOrder="0" locked="false" isInGroup="2">
           <groupChildrenDescriptors>
@@ -88,30 +92,10 @@
         <text>Discreption</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="125" y="483" w="114" h="26" measuredW="117" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>15658734</color>
-        <href>ShowRoutPreviousBuilding%26bm%3BShowRoutPreviousBuilding.bmml%26bm%3BShowRoutPreviousBuilding.bmml%26bm%3BShowRoutPreviousBuilding.bmml</href>
-        <icon>ImageIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2228%2C455%2C142%2C481%22%20href%3D%22ShowRoutPreviousBuilding.bmml%22%20alt%3D%22ShowRoutPreviousBuilding%22%20id%3D%229%22/%3E</map>
-        <menuIcon>false</menuIcon>
-        <size>12</size>
-        <text>Show%20Building</text>
-      </controlProperties>
-    </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="142" y="293" w="193" h="143" measuredW="275" measuredH="184" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="142" y="275" w="193" h="143" measuredW="275" measuredH="184" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <src>./Viterbi.jpg</src>
-      </controlProperties>
-    </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="149" y="411" w="-1" h="-1" measuredW="30" measuredH="17" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>16777215</color>
-        <href>ShowRRout1%26bm%3BShowRRout1.bmml%26bm%3BShowRRout1.bmml%26bm%3BShowRRout1.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2252%2C383%2C82%2C400%22%20href%3D%22ShowRRout1.bmml%22%20alt%3D%22ShowRRout1%22%20id%3D%2212%22/%3E</map>
-        <size>9</size>
-        <text>Privous</text>
       </controlProperties>
     </control>
   </controls>

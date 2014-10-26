@@ -6,10 +6,10 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="76" y="229" w="225" h="287" measuredW="1795" measuredH="968" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="76" y="229" w="225" h="287" measuredW="1795" measuredH="968" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>128%2C297%2C701%2C605</crop>
-        <src>./Screen%2520Shot%25202014-09-28%2520at%252010.19.11%2520AM.png</src>
+        <src>./USCMAP.png</src>
         <text/>
       </controlProperties>
     </control>
@@ -62,27 +62,17 @@
         <textOrientation>right</textOrientation>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::StickyNote" x="346" y="264" w="252" h="135" measuredW="109" measuredH="123" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>all%20buildings%20or%20places%20in%20usc%20automatically%20appear%20accourding%20to%20what%20will%20be%20typed%20%0Aor%20user%20can%20click%20on%20the%20map%20to%20choose%20start%20point%0Asame%20thing%20for%20destination%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Arrow" x="295" y="201" w="150" h="78" measuredW="150" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::SearchBox" x="104" y="173" w="168" h="-1" measuredW="251" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::SearchBox" x="104" y="173" w="168" h="-1" measuredW="251" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Choose%20start%20point%20or%20click%20on%20the%20map</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::SearchBox" x="104" y="199" w="168" h="-1" measuredW="254" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::SearchBox" x="104" y="199" w="168" h="-1" measuredW="254" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Choose%20destination%20or%20click%20on%20the%20map</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="__group__" x="272" y="175" w="33" h="50" measuredW="33" measuredH="50" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="__group__" x="270" y="175" w="33" h="50" measuredW="33" measuredH="50" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>130%2C158%2C775%2C719</crop>
       </controlProperties>
@@ -96,7 +86,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::Link" x="404" y="186" w="-1" h="-1" measuredW="247" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Link" x="404" y="186" w="-1" h="-1" measuredW="247" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Direction2%26bm%3BDirection2.bmml%26bm%3BDirection2.bmml%26bm%3BDirection2.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22355%2C155%2C602%2C174%22%20href%3D%22Direction2.bmml%22%20alt%3D%22Direction2%22%20id%3D%2241%22/%3E</map>

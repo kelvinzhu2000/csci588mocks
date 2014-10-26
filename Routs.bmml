@@ -50,20 +50,6 @@
         <text>USCBus</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::List" x="93" y="164" w="196" h="97" measuredW="100" measuredH="126" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <alternateRowColor>15594478</alternateRowColor>
-        <bold>false</bold>
-        <color>15594478</color>
-        <hasHeader>true</hasHeader>
-        <hrefs>RecentRouts%26bm%3BRecentRouts.bmml%26bm%3BRecentRouts.bmml%26bm%3BRecentRouts.bmml%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2243%2C148%2C239%2C169%22%20href%3D%22RecentRouts.bmml%22%20alt%3D%22RecentRouts%22%20id%3D%2217%22/%3E</map>
-        <rowHeight>19</rowHeight>
-        <size>12</size>
-        <text>Recent%20Routs%0ALVL%20to%20SAL%0Amy%20Cool%20Rout</text>
-        <verticalScrollbar>true</verticalScrollbar>
-      </controlProperties>
-    </control>
     <control controlID="18" controlTypeID="com.balsamiq.mockups::Image" x="77" y="155" w="227" h="353" measuredW="275" measuredH="184" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>

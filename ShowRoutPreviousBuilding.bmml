@@ -6,15 +6,19 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="125" y="223" w="225" h="260" measuredW="1795" measuredH="968" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="126" y="219" w="225" h="260" measuredW="1795" measuredH="968" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
-        <crop>128%2C297%2C701%2C605</crop>
+        <crop>131%2C180%2C701%2C605</crop>
         <src>./Screen%2520Shot%25202014-09-28%2520at%25209.41.53%2520PM.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="__group__" x="299" y="268" w="10" h="10" measuredW="10" measuredH="10" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="__group__" x="294" y="334" w="10" h="10" measuredW="10" measuredH="10" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ShowRoutPreviousBuilding%26bm%3BShowRoutPreviousBuilding.bmml%26bm%3BShowRoutPreviousBuilding.bmml%26bm%3BShowRoutPreviousBuilding.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22197%2C306%2C207%2C316%22%20href%3D%22ShowRoutPreviousBuilding.bmml%22%20alt%3D%22ShowRoutPreviousBuilding%22%20id%3D%222%22/%3E</map>
+      </controlProperties>
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="__group__" x="0" y="0" w="10" h="10" measuredW="10" measuredH="10" zOrder="0" locked="false" isInGroup="2">
           <groupChildrenDescriptors>
@@ -32,10 +36,12 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="159" y="341" w="10" h="10" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="158" y="390" w="10" h="10" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>10027008</borderColor>
         <color>10027008</color>
+        <href>ShowRoutNextBuilding%26bm%3BShowRoutNextBuilding.bmml%26bm%3BShowRoutNextBuilding.bmml%26bm%3BShowRoutNextBuilding.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2261%2C362%2C71%2C372%22%20href%3D%22ShowRoutNextBuilding.bmml%22%20alt%3D%22ShowRoutNextBuilding%22%20id%3D%223%22/%3E</map>
         <text/>
       </controlProperties>
     </control>
@@ -88,31 +94,10 @@
         <text>Discreption</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="125" y="483" w="114" h="26" measuredW="117" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>15658734</color>
-        <href>ShowRoutPreviousBuilding%26bm%3BShowRoutPreviousBuilding.bmml%26bm%3BShowRoutPreviousBuilding.bmml%26bm%3BShowRoutPreviousBuilding.bmml</href>
-        <icon>ImageIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2228%2C455%2C142%2C481%22%20href%3D%22ShowRoutPreviousBuilding.bmml%22%20alt%3D%22ShowRoutPreviousBuilding%22%20id%3D%229%22/%3E</map>
-        <menuIcon>false</menuIcon>
-        <size>12</size>
-        <state>selected</state>
-        <text>Show%20Building</text>
-      </controlProperties>
-    </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="142" y="293" w="193" h="143" measuredW="231" measuredH="218" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="132" y="224" w="193" h="135" measuredW="231" measuredH="218" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <src>./leavy.jpg</src>
-      </controlProperties>
-    </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="299" y="411" w="-1" h="-1" measuredW="20" measuredH="17" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>16777215</color>
-        <href>ShowRoutNextBuilding%26bm%3BShowRoutNextBuilding.bmml%26bm%3BShowRoutNextBuilding.bmml%26bm%3BShowRoutNextBuilding.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22202%2C383%2C222%2C400%22%20href%3D%22ShowRoutNextBuilding.bmml%22%20alt%3D%22ShowRoutNextBuilding%22%20id%3D%2215%22/%3E</map>
-        <size>9</size>
-        <text>Next</text>
       </controlProperties>
     </control>
   </controls>

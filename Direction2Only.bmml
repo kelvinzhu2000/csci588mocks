@@ -6,7 +6,7 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="122" y="220" w="225" h="294" measuredW="1795" measuredH="968" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="122" y="220" w="225" h="259" measuredW="1795" measuredH="968" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>128%2C297%2C701%2C605</crop>
         <src>./Screen%2520Shot%25202014-09-28%2520at%25209.41.34%2520PM.png</src>
@@ -51,7 +51,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="155" y="362" w="10" h="10" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="155" y="344" w="10" h="10" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>10027008</borderColor>
         <color>10027008</color>
@@ -60,8 +60,8 @@
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="199" y="264" w="-1" h="-1" measuredW="74" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>Direction2%26bm%3BDirection2.bmml%26bm%3BDirection2.bmml%26bm%3BDirection2.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22104%2C238%2C178%2C257%22%20href%3D%22Direction2.bmml%22%20alt%3D%22Direction2%22%20id%3D%226%22/%3E</map>
+        <href>Direction21Only%26bm%3BDirection21Only.bmml%26bm%3BDirection21Only.bmml%26bm%3BDirection21Only.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22104%2C238%2C178%2C257%22%20href%3D%22Direction21Only.bmml%22%20alt%3D%22Direction21Only%22%20id%3D%226%22/%3E</map>
         <text>10.0%20minutes</text>
       </controlProperties>
     </control>
@@ -119,6 +119,18 @@
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="225" y="486" w="114" h="26" measuredW="106" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <href>DirectionTwoRouts-dis%26bm%3BDirectionTwoRouts-dis.bmml%26bm%3BDirectionTwoRouts-dis.bmml%26bm%3BDirectionTwoRouts-dis.bmml</href>
+        <icon>SpinningIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22130%2C460%2C244%2C486%22%20href%3D%22DirectionTwoRouts-dis.bmml%22%20alt%3D%22DirectionTwoRouts-dis%22%20id%3D%2213%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <state>selected</state>
+        <text>Discreption</text>
+      </controlProperties>
     </control>
   </controls>
 </mockup>
