@@ -10,29 +10,29 @@
     <control controlID="35" controlTypeID="com.balsamiq.mockups::Canvas" x="56" y="170" w="104" h="122" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0</backgroundAlpha>
-        <href>WeekCalendarMock_CL%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C161%2C138%2C283%22%20href%3D%22WeekCalendarMock_CL.bmml%22%20alt%3D%22WeekCalendarMock_CL%22%20id%3D%2235%22/%3E</map>
+        <href>WeekCalendarMock_Added_CL%26bm%3BWeekCalendarMock_Added_CL.bmml%26bm%3BWeekCalendarMock_Added_CL.bmml%26bm%3BWeekCalendarMock_Added_CL.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C161%2C138%2C283%22%20href%3D%22WeekCalendarMock_Added_CL.bmml%22%20alt%3D%22WeekCalendarMock_Added_CL%22%20id%3D%2235%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="36" controlTypeID="com.balsamiq.mockups::Canvas" x="160" y="170" w="104" h="122" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0</backgroundAlpha>
-        <href>WeekCalendarMock_CL%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22138%2C161%2C242%2C283%22%20href%3D%22WeekCalendarMock_CL.bmml%22%20alt%3D%22WeekCalendarMock_CL%22%20id%3D%2236%22/%3E</map>
+        <href>WeekCalendarMock_Added_CL%26bm%3BWeekCalendarMock_Added_CL.bmml%26bm%3BWeekCalendarMock_Added_CL.bmml%26bm%3BWeekCalendarMock_Added_CL.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22138%2C161%2C242%2C283%22%20href%3D%22WeekCalendarMock_Added_CL.bmml%22%20alt%3D%22WeekCalendarMock_Added_CL%22%20id%3D%2236%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="57" y="285" w="104" h="123" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0</backgroundAlpha>
-        <href>WeekCalendarMock_CL%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C276%2C139%2C399%22%20href%3D%22WeekCalendarMock_CL.bmml%22%20alt%3D%22WeekCalendarMock_CL%22%20id%3D%2237%22/%3E</map>
+        <href>WeekCalendarMock_Added_CL%26bm%3BWeekCalendarMock_Added_CL.bmml%26bm%3BWeekCalendarMock_Added_CL.bmml%26bm%3BWeekCalendarMock_Added_CL.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2235%2C276%2C139%2C399%22%20href%3D%22WeekCalendarMock_Added_CL.bmml%22%20alt%3D%22WeekCalendarMock_Added_CL%22%20id%3D%2237%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="160" y="287" w="104" h="123" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0</backgroundAlpha>
-        <href>WeekCalendarMock_CL%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22138%2C278%2C242%2C401%22%20href%3D%22WeekCalendarMock_CL.bmml%22%20alt%3D%22WeekCalendarMock_CL%22%20id%3D%2238%22/%3E</map>
+        <href>WeekCalendarMock_Added_CL%26bm%3BWeekCalendarMock_Added_CL.bmml%26bm%3BWeekCalendarMock_Added_CL.bmml%26bm%3BWeekCalendarMock_Added_CL.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22138%2C278%2C242%2C401%22%20href%3D%22WeekCalendarMock_Added_CL.bmml%22%20alt%3D%22WeekCalendarMock_Added_CL%22%20id%3D%2238%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="56" y="455" w="104" h="103" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
@@ -110,108 +110,147 @@
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::RoundButton" x="100" y="272" w="20" h="20" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::RoundButton" x="100" y="261" w="20" h="20" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
+        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
         <icon>BookIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2278%2C252%2C98%2C272%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%2251%22/%3E</map>
+        <shape>roundRect</shape>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::RoundButton" x="139" y="232" w="20" h="20" measuredW="32" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::RoundButton" x="138" y="240" w="20" h="20" measuredW="32" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
+        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
         <icon>BookIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C231%2C136%2C251%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%2252%22/%3E</map>
+        <shape>roundRect</shape>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::RoundButton" x="80" y="212" w="20" h="20" measuredW="32" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::RoundButton" x="80" y="221" w="20" h="20" measuredW="32" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
+        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
         <icon>MusicIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2258%2C212%2C78%2C232%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%2253%22/%3E</map>
+        <shape>roundRect</shape>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::RoundButton" x="201" y="271" w="20" h="20" measuredW="32" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::RoundButton" x="201" y="261" w="20" h="20" measuredW="32" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
+        <icon>BookIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22179%2C252%2C199%2C272%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%2254%22/%3E</map>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::RoundButton" x="221" y="261" w="20" h="20" measuredW="32" measuredH="32" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
+        <icon>BookIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22199%2C252%2C219%2C272%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%2255%22/%3E</map>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::RoundButton" x="119" y="261" w="20" h="20" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
+        <icon>BookIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2297%2C252%2C117%2C272%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%2256%22/%3E</map>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::RoundButton" x="100" y="389" w="20" h="20" measuredW="32" measuredH="32" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
+        <icon>BookIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2278%2C380%2C98%2C400%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%2257%22/%3E</map>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::RoundButton" x="119" y="389" w="20" h="20" measuredW="32" measuredH="32" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
+        <icon>BookIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2297%2C380%2C117%2C400%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%2258%22/%3E</map>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::RoundButton" x="202" y="389" w="20" h="20" measuredW="32" measuredH="32" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <icon>BookIcon%7Cxsmall</icon>
+        <shape>roundRect</shape>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::RoundButton" x="221" y="271" w="20" h="20" measuredW="32" measuredH="32" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::RoundButton" x="221" y="389" w="20" h="20" measuredW="32" measuredH="32" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <icon>BookIcon%7Cxsmall</icon>
+        <shape>roundRect</shape>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="56" controlTypeID="com.balsamiq.mockups::RoundButton" x="119" y="272" w="20" h="20" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::RoundButton" x="241" y="221" w="20" h="20" measuredW="32" measuredH="32" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
+        <icon>BookIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22219%2C212%2C239%2C232%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%2261%22/%3E</map>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::RoundButton" x="139" y="358" w="20" h="20" measuredW="32" measuredH="32" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
+        <icon>BookIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22117%2C349%2C137%2C369%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%2262%22/%3E</map>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::RoundButton" x="241" y="360" w="20" h="20" measuredW="32" measuredH="32" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <icon>BookIcon%7Cxsmall</icon>
+        <shape>roundRect</shape>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::RoundButton" x="100" y="392" w="20" h="20" measuredW="32" measuredH="32" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::RoundButton" x="202" y="200" w="20" h="20" measuredW="32" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
-        <icon>BookIcon%7Cxsmall</icon>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="58" controlTypeID="com.balsamiq.mockups::RoundButton" x="119" y="392" w="20" h="20" measuredW="32" measuredH="32" zOrder="20" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>center</align>
-        <icon>BookIcon%7Cxsmall</icon>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="59" controlTypeID="com.balsamiq.mockups::RoundButton" x="202" y="392" w="20" h="20" measuredW="32" measuredH="32" zOrder="21" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>center</align>
-        <icon>BookIcon%7Cxsmall</icon>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="60" controlTypeID="com.balsamiq.mockups::RoundButton" x="221" y="392" w="20" h="20" measuredW="32" measuredH="32" zOrder="22" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>center</align>
-        <icon>BookIcon%7Cxsmall</icon>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="61" controlTypeID="com.balsamiq.mockups::RoundButton" x="241" y="232" w="20" h="20" measuredW="32" measuredH="32" zOrder="23" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>center</align>
-        <icon>BookIcon%7Cxsmall</icon>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::RoundButton" x="139" y="357" w="20" h="20" measuredW="32" measuredH="32" zOrder="24" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>center</align>
-        <icon>BookIcon%7Cxsmall</icon>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="63" controlTypeID="com.balsamiq.mockups::RoundButton" x="241" y="357" w="20" h="20" measuredW="32" measuredH="32" zOrder="25" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>center</align>
-        <icon>BookIcon%7Cxsmall</icon>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="64" controlTypeID="com.balsamiq.mockups::RoundButton" x="202" y="212" w="20" h="20" measuredW="32" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>center</align>
+        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
         <icon>CartIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22180%2C191%2C200%2C211%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%2264%22/%3E</map>
+        <shape>roundRect</shape>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="66" controlTypeID="com.balsamiq.mockups::RoundButton" x="80" y="350" w="20" h="20" measuredW="32" measuredH="32" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::RoundButton" x="80" y="338" w="20" h="20" measuredW="32" measuredH="32" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
+        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
         <icon>UsersIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2258%2C329%2C78%2C349%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%2266%22/%3E</map>
+        <shape>roundRect</shape>
         <text/>
       </controlProperties>
     </control>
@@ -252,6 +291,7 @@
     </control>
     <control controlID="72" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
+        <align>right</align>
         <color>10027008</color>
         <href>AnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml</href>
         <icon>LeftTriangleIcon%7Cxsmall</icon>

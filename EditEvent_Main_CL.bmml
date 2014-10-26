@@ -17,7 +17,7 @@
         <text>Cancel</text>
       </controlProperties>
     </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="170" y="136" w="53" h="-1" measuredW="23" measuredH="20" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="179" y="136" w="32" h="-1" measuredW="23" measuredH="20" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
