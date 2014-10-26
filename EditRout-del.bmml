@@ -80,11 +80,11 @@
     <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="227" y="483" w="114" h="26" measuredW="106" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>EditRout-Disc2%26bm%3BEditRout-Disc2.bmml%26bm%3BEditRout-Disc2.bmml%26bm%3BEditRout-Disc2.bmml</href>
         <icon>SpinningIcon%7Csmall</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22130%2C455%2C244%2C481%22%20href%3D%22EditRout-Disc2.bmml%22%20alt%3D%22EditRout-Disc2%22%20id%3D%228%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
+        <state>disabled</state>
         <text>Discreption</text>
       </controlProperties>
     </control>

@@ -6,7 +6,7 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="122" y="244" w="225" h="270" measuredW="1795" measuredH="968" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="122" y="244" w="225" h="235" measuredW="1795" measuredH="968" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>128%2C297%2C701%2C605</crop>
         <src>./Screen%2520Shot%25202014-09-28%2520at%25209.41.34%2520PM.png</src>
@@ -33,7 +33,7 @@
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="__group__" x="296" y="298" w="10" h="10" measuredW="10" measuredH="10" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="__group__" x="295" y="283" w="10" h="10" measuredW="10" measuredH="10" zOrder="4" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="__group__" x="0" y="0" w="10" h="10" measuredW="10" measuredH="10" zOrder="0" locked="false" isInGroup="4">
           <groupChildrenDescriptors>
@@ -51,17 +51,17 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="156" y="371" w="10" h="10" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="155" y="356" w="10" h="10" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>10027008</borderColor>
         <color>10027008</color>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="216" y="308" w="-1" h="-1" measuredW="74" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="197" y="293" w="-1" h="-1" measuredW="74" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Direction2%26bm%3BDirection2.bmml%26bm%3BDirection2.bmml%26bm%3BDirection2.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22121%2C282%2C195%2C301%22%20href%3D%22Direction2.bmml%22%20alt%3D%22Direction2%22%20id%3D%226%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22102%2C267%2C176%2C286%22%20href%3D%22Direction2.bmml%22%20alt%3D%22Direction2%22%20id%3D%226%22/%3E</map>
         <text>10.0%20minutes</text>
       </controlProperties>
     </control>
@@ -132,6 +132,8 @@
         <align>center</align>
         <bold>true</bold>
         <color>10027008</color>
+        <href>DirectionMoreRoutsWithOMap%26bm%3BDirectionMoreRoutsWithOMap.bmml%26bm%3BDirectionMoreRoutsWithOMap.bmml%26bm%3BDirectionMoreRoutsWithOMap.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C195%2C50%2C219%22%20href%3D%22DirectionMoreRoutsWithOMap.bmml%22%20alt%3D%22DirectionMoreRoutsWithOMap%22%20id%3D%2214%22/%3E</map>
         <size>16</size>
         <text>+</text>
       </controlProperties>
@@ -155,6 +157,18 @@
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22218%2C193%2C241%2C217%22%20href%3D%22Direction2Only.bmml%22%20alt%3D%22Direction2Only%22%20id%3D%2216%22/%3E</map>
         <size>16</size>
         <text>X</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="222" y="484" w="114" h="26" measuredW="106" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <href>DirectionTwoRouts-dis%26bm%3BDirectionTwoRouts-dis.bmml%26bm%3BDirectionTwoRouts-dis.bmml%26bm%3BDirectionTwoRouts-dis.bmml</href>
+        <icon>SpinningIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22127%2C458%2C241%2C484%22%20href%3D%22DirectionTwoRouts-dis.bmml%22%20alt%3D%22DirectionTwoRouts-dis%22%20id%3D%2217%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <state>selected</state>
+        <text>Discreption</text>
       </controlProperties>
     </control>
   </controls>
