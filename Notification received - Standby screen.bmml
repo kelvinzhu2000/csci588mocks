@@ -8,6 +8,8 @@
     <control controlID="1" controlTypeID="com.balsamiq.mockups::ProgressBar" x="113" y="447" w="-1" h="-1" measuredW="100" measuredH="20" zOrder="1" locked="false" isInGroup="-1"/>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="120" y="447" w="-1" h="-1" measuredW="86" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Notification%20Received%20-%20Home%20screen%26bm%3BNotification%20Received%20-%20Home%20screen.bmml%26bm%3BNotification%20Received%20-%20Home%20screen.bmml%26bm%3BNotification%20Received%20-%20Home%20screen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C438%2C184%2C459%22%20href%3D%22Notification%2520Received%2520-%2520Home%2520screen.bmml%22%20alt%3D%22Notification%20Received%20-%20Home%20screen%22%20id%3D%222%22/%3E</map>
         <text>Slide%20to%20unlock</text>
       </controlProperties>
     </control>
