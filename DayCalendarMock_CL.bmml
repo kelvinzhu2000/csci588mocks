@@ -97,15 +97,15 @@
         <text>Pinch%20Inside</text>
       </controlProperties>
     </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="64" h="28" measuredW="69" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>AnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml</href>
         <icon>LeftTriangleIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%2220%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C94%2C134%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%2220%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
-        <text>Back</text>
+        <text>Week</text>
       </controlProperties>
     </control>
     <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="128" y="117" w="-1" h="-1" measuredW="70" measuredH="24" zOrder="16" locked="false" isInGroup="-1">

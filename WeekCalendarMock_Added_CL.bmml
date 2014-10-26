@@ -170,9 +170,9 @@
     <control controlID="24" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>AnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml</href>
+        <href>ManagerMapMock%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml</href>
         <icon>LeftTriangleIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%2224%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22ManagerMapMock.bmml%22%20alt%3D%22ManagerMapMock%22%20id%3D%2224%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
