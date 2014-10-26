@@ -70,7 +70,9 @@
       <controlProperties>
         <bold>true</bold>
         <color>15843890</color>
+        <href>WeekCalendarMock_CL%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml</href>
         <italic>false</italic>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C161%2C138%2C182%22%20href%3D%22WeekCalendarMock_CL.bmml%22%20alt%3D%22WeekCalendarMock_CL%22%20id%3D%2244%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>8</size>
         <text>Week%206</text>
@@ -81,7 +83,9 @@
       <controlProperties>
         <bold>true</bold>
         <color>15843890</color>
+        <href>WeekCalendarMock_CL%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml</href>
         <italic>false</italic>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22138%2C161%2C242%2C182%22%20href%3D%22WeekCalendarMock_CL.bmml%22%20alt%3D%22WeekCalendarMock_CL%22%20id%3D%2245%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>8</size>
         <text>Week%207</text>
@@ -92,7 +96,9 @@
       <controlProperties>
         <bold>true</bold>
         <color>15843890</color>
+        <href>WeekCalendarMock_CL%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml</href>
         <italic>false</italic>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C281%2C138%2C302%22%20href%3D%22WeekCalendarMock_CL.bmml%22%20alt%3D%22WeekCalendarMock_CL%22%20id%3D%2246%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>8</size>
         <text>Week%208</text>
@@ -103,7 +109,9 @@
       <controlProperties>
         <bold>true</bold>
         <color>15843890</color>
+        <href>WeekCalendarMock_CL%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml</href>
         <italic>false</italic>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22138%2C283%2C242%2C304%22%20href%3D%22WeekCalendarMock_CL.bmml%22%20alt%3D%22WeekCalendarMock_CL%22%20id%3D%2247%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>8</size>
         <text>Week%209</text>
@@ -264,7 +272,9 @@
       <controlProperties>
         <bold>true</bold>
         <color>15843890</color>
+        <href>WeekCalendarMock_CL%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml</href>
         <italic>false</italic>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C446%2C138%2C467%22%20href%3D%22WeekCalendarMock_CL.bmml%22%20alt%3D%22WeekCalendarMock_CL%22%20id%3D%2267%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>8</size>
         <text>Week%2010</text>
@@ -275,7 +285,9 @@
       <controlProperties>
         <bold>true</bold>
         <color>15843890</color>
+        <href>WeekCalendarMock_CL%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml</href>
         <italic>false</italic>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22138%2C446%2C242%2C467%22%20href%3D%22WeekCalendarMock_CL.bmml%22%20alt%3D%22WeekCalendarMock_CL%22%20id%3D%2268%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>8</size>
         <text>Week%2011</text>
