@@ -138,8 +138,6 @@
     </control>
     <control controlID="26" controlTypeID="com.balsamiq.mockups::SearchBox" x="165" y="240" w="168" h="-1" measuredW="120" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>AddRout3Destinations%26bm%3BAddRout3Destinations.bmml%26bm%3BAddRout3Destinations.bmml%26bm%3BAddRout3Destinations.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2252%2C192%2C220%2C216%22%20href%3D%22AddRout3Destinations.bmml%22%20alt%3D%22AddRout3Destinations%22%20id%3D%2226%22/%3E</map>
         <text/>
       </controlProperties>
     </control>
@@ -148,6 +146,8 @@
         <align>center</align>
         <bold>true</bold>
         <color>10027008</color>
+        <href>AddMoreRoutsWOMap%26bm%3BAddMoreRoutsWOMap.bmml%26bm%3BAddMoreRoutsWOMap.bmml%26bm%3BAddMoreRoutsWOMap.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C194%2C52%2C218%22%20href%3D%22AddMoreRoutsWOMap.bmml%22%20alt%3D%22AddMoreRoutsWOMap%22%20id%3D%2227%22/%3E</map>
         <size>16</size>
         <text>+</text>
       </controlProperties>

@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="540" measuredH="596" mockupW="489" mockupH="573">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="333" measuredH="596" mockupW="282" mockupH="573">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="51" y="23" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -6,7 +6,7 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="80" y="253" w="224" h="257" measuredW="1743" measuredH="968" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="80" y="249" w="224" h="226" measuredW="1743" measuredH="968" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>179%2C297%2C681%2C605</crop>
         <src>./Rout3destinations.png</src>
@@ -25,15 +25,15 @@
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="80" y="130" w="73" h="26" measuredW="74" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>Routs%26bm%3BRouts.bmml%26bm%3BRouts.bmml%26bm%3BRouts.bmml</href>
+        <href>Direction%26bm%3BDirection.bmml%26bm%3BDirection.bmml%26bm%3BDirection.bmml</href>
         <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C107%2C102%2C133%22%20href%3D%22Routs.bmml%22%20alt%3D%22Routs%22%20id%3D%223%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C107%2C102%2C133%22%20href%3D%22Direction.bmml%22%20alt%3D%22Direction%22%20id%3D%223%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="__group__" x="264" y="316" w="10" h="10" measuredW="10" measuredH="10" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="__group__" x="266" y="305" w="10" h="10" measuredW="10" measuredH="10" zOrder="4" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="__group__" x="0" y="0" w="10" h="10" measuredW="10" measuredH="10" zOrder="0" locked="false" isInGroup="4">
           <groupChildrenDescriptors>
@@ -51,7 +51,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="112" y="374" w="10" h="10" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="115" y="365" w="10" h="10" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>10027008</borderColor>
         <color>10027008</color>
@@ -109,6 +109,8 @@
         <align>center</align>
         <bold>true</bold>
         <color>10027008</color>
+        <href>DirectionMoreRoutsWithOMap%26bm%3BDirectionMoreRoutsWithOMap.bmml%26bm%3BDirectionMoreRoutsWithOMap.bmml%26bm%3BDirectionMoreRoutsWithOMap.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C199%2C55%2C223%22%20href%3D%22DirectionMoreRoutsWithOMap.bmml%22%20alt%3D%22DirectionMoreRoutsWithOMap%22%20id%3D%2214%22/%3E</map>
         <size>16</size>
         <text>+</text>
       </controlProperties>
@@ -134,7 +136,7 @@
         <text>X</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="__group__" x="130" y="442" w="10" h="10" measuredW="10" measuredH="10" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="__group__" x="132" y="418" w="10" h="10" measuredW="10" measuredH="10" zOrder="15" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="__group__" x="0" y="0" w="10" h="10" measuredW="10" measuredH="10" zOrder="0" locked="false" isInGroup="17">
           <groupChildrenDescriptors>
@@ -152,14 +154,16 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::StickyNote" x="431" y="295" w="109" h="89" measuredW="109" measuredH="123" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="190" y="481" w="114" h="26" measuredW="106" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Here%20you%20can%20add%20more%20rout%20or%20delete%20it%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Arrow" x="304" y="238" w="167" h="72" measuredW="150" measuredH="100" zOrder="17" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text/>
+        <color>15658734</color>
+        <href>DirectionThreeRouts-Dis%26bm%3BDirectionThreeRouts-Dis.bmml%26bm%3BDirectionThreeRouts-Dis.bmml%26bm%3BDirectionThreeRouts-Dis.bmml</href>
+        <icon>SpinningIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22139%2C458%2C253%2C484%22%20href%3D%22DirectionThreeRouts-Dis.bmml%22%20alt%3D%22DirectionThreeRouts-Dis%22%20id%3D%2220%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <state>selected</state>
+        <text>Discreption</text>
       </controlProperties>
     </control>
   </controls>
