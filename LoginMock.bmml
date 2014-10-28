@@ -1,26 +1,6 @@
 <mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="451" measuredH="582" mockupW="429" mockupH="573">
   <controls>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="72" y="231" w="182" h="-1" measuredW="138" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>some_user@usc.edu</text>
-      </controlProperties>
-    </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="72" y="299" w="182" h="-1" measuredW="69" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>*********</text>
-      </controlProperties>
-    </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="72" y="210" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Email</text>
-      </controlProperties>
-    </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="72" y="278" w="68" h="-1" measuredW="59" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Password%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="136" y="341" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="136" y="341" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>LoginFailMock%26bm%3BLoginFailMock.bmml%26bm%3BLoginFailMock.bmml%26bm%3BLoginFailMock.bmml</href>
@@ -28,7 +8,7 @@
         <text>Login</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="145" y="452" w="-1" h="-1" measuredW="110" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="145" y="452" w="-1" h="-1" measuredW="110" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>ForgotPasswordMock%26bm%3BForgotPasswordMock.bmml%26bm%3BForgotPasswordMock.bmml%26bm%3BForgotPasswordMock.bmml</href>
@@ -37,7 +17,7 @@
         <text>Forgot%20Password%3F</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="72" y="452" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="72" y="452" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>SignupMock%26bm%3BSignupMock.bmml%26bm%3BSignupMock.bmml%26bm%3BSignupMock.bmml</href>
@@ -51,7 +31,7 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="341" y="51" w="-1" h="-1" measuredW="105" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="341" y="51" w="-1" h="-1" measuredW="105" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>StudentLoginSuccessfulMock%26bm%3BStudentLoginSuccessfulMock.bmml%26bm%3BStudentLoginSuccessfulMock.bmml%26bm%3BStudentLoginSuccessfulMock.bmml</href>
@@ -59,7 +39,7 @@
         <text>Student%20Login</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="341" y="103" w="-1" h="-1" measuredW="110" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="341" y="103" w="-1" h="-1" measuredW="110" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>ManagerLoginSuccessfulMock%26bm%3BManagerLoginSuccessfulMock.bmml%26bm%3BManagerLoginSuccessfulMock.bmml%26bm%3BManagerLoginSuccessfulMock.bmml</href>
@@ -67,7 +47,7 @@
         <text>Manager%20Login</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="341" y="154" w="-1" h="-1" measuredW="80" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="341" y="154" w="-1" h="-1" measuredW="80" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>LoginFailMock%26bm%3BLoginFailMock.bmml%26bm%3BLoginFailMock.bmml%26bm%3BLoginFailMock.bmml</href>
@@ -75,7 +55,7 @@
         <text>Bad%20Login</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>AnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml</href>
@@ -86,7 +66,7 @@
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="113" y="154" w="-1" h="-1" measuredW="101" measuredH="32" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="113" y="154" w="-1" h="-1" measuredW="101" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
@@ -95,13 +75,19 @@
         <underline>true</underline>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="46" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="46" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
         <text>Signin</text>
         <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="57" y="228" w="-1" h="-1" measuredW="215" measuredH="68" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C</hrefs>
+        <text>Email%3A%20some_user@usc.edu%0APassword%3A%20*********</text>
       </controlProperties>
     </control>
   </controls>
