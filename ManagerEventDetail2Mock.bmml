@@ -8,10 +8,11 @@
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <align>right</align>
         <color>10027008</color>
-        <href>ManagerEventsByPopularityMock%26bm%3BManagerEventsByPopularityMock.bmml%26bm%3BManagerEventsByPopularityMock.bmml%26bm%3BManagerEventsByPopularityMock.bmml</href>
+        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
         <icon>LeftTriangleIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22ManagerEventsByPopularityMock.bmml%22%20alt%3D%22ManagerEventsByPopularityMock%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%221%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
