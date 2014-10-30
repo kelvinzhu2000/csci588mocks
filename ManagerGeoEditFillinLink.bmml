@@ -6,12 +6,12 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="137" y="452" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="137" y="452" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>ManagerGeoCreatorDetails%26bm%3BManagerGeoCreatorDetails.bmml%26bm%3BManagerGeoCreatorDetails.bmml%26bm%3BManagerGeoCreatorDetails.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C443%2C179%2C470%22%20href%3D%22ManagerGeoCreatorDetails.bmml%22%20alt%3D%22ManagerGeoCreatorDetails%22%20id%3D%225%22/%3E</map>
-        <text>Submit</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C443%2C167%2C470%22%20href%3D%22ManagerGeoCreatorDetails.bmml%22%20alt%3D%22ManagerGeoCreatorDetails%22%20id%3D%225%22/%3E</map>
+        <text>Save</text>
       </controlProperties>
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="74" h="28" measuredW="66" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
@@ -38,8 +38,9 @@
       <controlProperties>
         <hrefs>ManagerGeoEditFillinTitle%26bm%3BManagerGeoEditFillinTitle.bmml%26bm%3BManagerGeoEditFillinTitle.bmml%26bm%3BManagerGeoEditFillinTitle.bmml%2CManagerGeoEditFillinSummary%26bm%3BManagerGeoEditFillinSummary.bmml%26bm%3BManagerGeoEditFillinSummary.bmml%26bm%3BManagerGeoEditFillinSummary.bmml%2CManagerGeoEditFillinLink%26bm%3BManagerGeoEditFillinLink.bmml%26bm%3BManagerGeoEditFillinLink.bmml%26bm%3BManagerGeoEditFillinLink.bmml%2CManagerGeoEditFillinLocation%26bm%3BManagerGeoEditFillinLocation.bmml%26bm%3BManagerGeoEditFillinLocation.bmml%26bm%3BManagerGeoEditFillinLocation.bmml%2CGeoCircleNormal%26bm%3BGeoCircleNormal.bmml%26bm%3BGeoCircleNormal.bmml%26bm%3BGeoCircleNormal.bmml</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C154%2C249%2C183%22%20href%3D%22ManagerGeoEditFillinTitle.bmml%22%20alt%3D%22ManagerGeoEditFillinTitle%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C183%2C249%2C212%22%20href%3D%22ManagerGeoEditFillinSummary.bmml%22%20alt%3D%22ManagerGeoEditFillinSummary%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C212%2C249%2C241%22%20href%3D%22ManagerGeoEditFillinLink.bmml%22%20alt%3D%22ManagerGeoEditFillinLink%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C241%2C249%2C270%22%20href%3D%22ManagerGeoEditFillinLocation.bmml%22%20alt%3D%22ManagerGeoEditFillinLocation%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C270%2C249%2C299%22%20href%3D%22GeoCircleNormal.bmml%22%20alt%3D%22GeoCircleNormal%22%20id%3D%228%22/%3E</map>
-        <text>Name%3A%20Engineering%20Squad%0ASummary%3A%20Commonly%20used%20for...%2C%20%3E%0ALink%3A%20http%3A//www.moreinfo.com%0ALocation%3A%20Engineering%20Squad%2C%20%3E%0ASize%3A%20small%2C%20%3E</text>
+        <text>Name%3A%20Engineering%20Squad%0ASummary%3A%20Commonly%20used%20for...%2C%20%3E%0Ahttp%3A//www.moreinfo.com_%0ALocation%2C%20%3E%0ASize%2C%20%3E</text>
       </controlProperties>
     </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="49" y="340" w="-1" h="-1" measuredW="226" measuredH="160" zOrder="5" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>

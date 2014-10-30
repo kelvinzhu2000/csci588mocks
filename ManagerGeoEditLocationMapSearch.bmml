@@ -17,26 +17,28 @@
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="102" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="66" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
-        <text>Event%20Publish</text>
+        <text>Location</text>
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::iPhonePicker" x="53" y="203" w="-1" h="-1" measuredW="214" measuredH="160" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="214" y="115" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>tailgate%0Aeducation%0Aseminar%0Acareeer%0Agame%0Afood%0Afestival</text>
+        <align>center</align>
+        <color>10027008</color>
+        <href>eventPublishlocationsuccess%26bm%3BeventPublishlocationsuccess.bmml%26bm%3BeventPublishlocationsuccess.bmml%26bm%3BeventPublishlocationsuccess.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C106%2C245%2C133%22%20href%3D%22eventPublishlocationsuccess.bmml%22%20alt%3D%22eventPublishlocationsuccess%22%20id%3D%2214%22/%3E</map>
+        <text>Done</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="131" y="433" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="49" y="148" w="225" h="350" measuredW="711" measuredH="1149" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>6710886</color>
-        <href>eventpublishafterfillin%26bm%3Beventpublishafterfillin.bmml%26bm%3Beventpublishafterfillin.bmml%26bm%3Beventpublishafterfillin.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C424%2C184%2C451%22%20href%3D%22eventpublishafterfillin.bmml%22%20alt%3D%22eventpublishafterfillin%22%20id%3D%2217%22/%3E</map>
-        <text>Continue</text>
+        <src>./assets/FullMap_Modified.jpg</src>
+        <text/>
       </controlProperties>
     </control>
   </controls>

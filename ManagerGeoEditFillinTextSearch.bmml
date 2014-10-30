@@ -9,15 +9,15 @@
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>eventPublish%26bm%3BeventPublish.bmml%26bm%3BeventPublish.bmml%26bm%3BeventPublish.bmml</href>
+        <href>ManagerGeoEdit%26bm%3BManagerGeoEdit.bmml%26bm%3BManagerGeoEdit.bmml%26bm%3BManagerGeoEdit.bmml</href>
         <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22eventPublish.bmml%22%20alt%3D%22eventPublish%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22ManagerGeoEdit.bmml%22%20alt%3D%22ManagerGeoEdit%22%20id%3D%221%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="43" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="66" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
@@ -26,11 +26,10 @@
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::SearchBox" x="52" y="152" w="219" h="-1" measuredW="120" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SearchBox" x="52" y="152" w="219" h="-1" measuredW="147" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>eventPublishfillinplacetextsearch%26bm%3BeventPublishfillinplacetextsearch.bmml%26bm%3BeventPublishfillinplacetextsearch.bmml%26bm%3BeventPublishfillinplacetextsearch.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C143%2C249%2C168%22%20href%3D%22eventPublishfillinplacetextsearch.bmml%22%20alt%3D%22eventPublishfillinplacetextsearch%22%20id%3D%229%22/%3E</map>
-        <text>search</text>
+        <text>Engineering%20Squad_</text>
       </controlProperties>
     </control>
     <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="63" y="202" w="200" h="58" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
@@ -59,10 +58,11 @@
     <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="214" y="115" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>eventPublishlocationsuccess%26bm%3BeventPublishlocationsuccess.bmml%26bm%3BeventPublishlocationsuccess.bmml%26bm%3BeventPublishlocationsuccess.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C106%2C245%2C133%22%20href%3D%22eventPublishlocationsuccess.bmml%22%20alt%3D%22eventPublishlocationsuccess%22%20id%3D%2214%22/%3E</map>
+        <href>ManagerGeoEdit%26bm%3BManagerGeoEdit.bmml%26bm%3BManagerGeoEdit.bmml%26bm%3BManagerGeoEdit.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C106%2C245%2C133%22%20href%3D%22ManagerGeoEdit.bmml%22%20alt%3D%22ManagerGeoEdit%22%20id%3D%2214%22/%3E</map>
         <text>Done</text>
       </controlProperties>
     </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="49" y="338" w="-1" h="-1" measuredW="226" measuredH="160" zOrder="9" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>
