@@ -1,12 +1,12 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="379" measuredH="601" mockupW="282" mockupH="573">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="304" measuredH="582" mockupW="282" mockupH="573">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="97" y="28" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <bgPattern>topBlueBottom</bgPattern>
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="125" y="223" w="225" h="260" measuredW="1795" measuredH="968" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="50" y="189" w="225" h="275" measuredW="1795" measuredH="968" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <crop>128%2C297%2C701%2C605</crop>
@@ -14,15 +14,15 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="__group__" x="299" y="268" w="10" h="10" measuredW="10" measuredH="10" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="__group__" x="224" y="237" w="10" h="11" measuredW="10" measuredH="11" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <href>ShowRoutPreviousBuilding%26bm%3BShowRoutPreviousBuilding.bmml%26bm%3BShowRoutPreviousBuilding.bmml%26bm%3BShowRoutPreviousBuilding.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22202%2C240%2C212%2C250%22%20href%3D%22ShowRoutPreviousBuilding.bmml%22%20alt%3D%22ShowRoutPreviousBuilding%22%20id%3D%222%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22202%2C228%2C212%2C239%22%20href%3D%22ShowRoutPreviousBuilding.bmml%22%20alt%3D%22ShowRoutPreviousBuilding%22%20id%3D%222%22/%3E</map>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="10" h="10" measuredW="10" measuredH="10" zOrder="0" locked="false" isInGroup="2">
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="10" h="11" measuredW="10" measuredH="11" zOrder="0" locked="false" isInGroup="2">
           <groupChildrenDescriptors>
-            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="10" h="10" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="10" h="11" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
               <controlProperties>
                 <backgroundAlpha>1</backgroundAlpha>
                 <borderColor>10027008</borderColor>
@@ -36,76 +36,77 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="159" y="341" w="10" h="10" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="84" y="314" w="10" h="11" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>10027008</borderColor>
         <color>10027008</color>
         <href>ShowRoutNextBuilding%26bm%3BShowRoutNextBuilding.bmml%26bm%3BShowRoutNextBuilding.bmml%26bm%3BShowRoutNextBuilding.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C313%2C72%2C323%22%20href%3D%22ShowRoutNextBuilding.bmml%22%20alt%3D%22ShowRoutNextBuilding%22%20id%3D%223%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2262%2C305%2C72%2C316%22%20href%3D%22ShowRoutNextBuilding.bmml%22%20alt%3D%22ShowRoutNextBuilding%22%20id%3D%223%22/%3E</map>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="131" y="172" w="65" h="-1" measuredW="61" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="104" y="156" w="125" h="-1" measuredW="121" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <bold>true</bold>
-        <color>10027008</color>
-        <size>13</size>
-        <text>My%20Routs%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="131" y="196" w="216" h="-1" measuredW="96" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>false</bold>
         <color>0</color>
-        <size>12</size>
-        <state>up</state>
-        <text>My%20cool%20way</text>
+        <size>20</size>
+        <text>My%20Cool%20Way</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="223" y="137" w="102" h="-1" measuredW="81" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="121" y="117" w="102" h="-1" measuredW="96" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
-        <text>Show%20Rout</text>
+        <text>Route%20Detail</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="131" y="135" w="73" h="26" measuredW="74" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>MyRouts%26bm%3BMyRouts.bmml%26bm%3BMyRouts.bmml%26bm%3BMyRouts.bmml</href>
-        <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C107%2C107%2C133%22%20href%3D%22MyRouts.bmml%22%20alt%3D%22MyRouts%22%20id%3D%227%22/%3E</map>
+        <href>ShowRout-1%26bm%3BShowRout-1.bmml%26bm%3BShowRout-1.bmml%26bm%3BShowRout-1.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22ShowRout-1.bmml%22%20alt%3D%22ShowRout-1%22%20id%3D%227%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="239" y="483" w="105" h="26" measuredW="106" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="172" y="468" w="95" h="26" measuredW="98" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>10027008</color>
+        <color>10470904</color>
         <href>ShowRout-Disc%26bm%3BShowRout-Disc.bmml%26bm%3BShowRout-Disc.bmml%26bm%3BShowRout-Disc.bmml</href>
-        <icon>SpinningIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22142%2C455%2C247%2C481%22%20href%3D%22ShowRout-Disc.bmml%22%20alt%3D%22ShowRout-Disc%22%20id%3D%228%22/%3E</map>
+        <icon>SpinningIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22150%2C459%2C245%2C485%22%20href%3D%22ShowRout-Disc.bmml%22%20alt%3D%22ShowRout-Disc%22%20id%3D%228%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
-        <text>Discreption</text>
+        <text>Description</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="299" y="411" w="-1" h="-1" measuredW="20" measuredH="17" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="224" y="388" w="20" h="-1" measuredW="20" measuredH="17" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
         <size>9</size>
         <text>Next</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="149" y="411" w="-1" h="-1" measuredW="30" measuredH="17" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="74" y="388" w="30" h="-1" measuredW="30" measuredH="17" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
         <size>9</size>
         <text>Privous</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="226" y="115" w="48" h="28" measuredW="42" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>EditRout%26bm%3BEditRout.bmml%26bm%3BEditRout.bmml%26bm%3BEditRout.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22204%2C106%2C252%2C134%22%20href%3D%22EditRout.bmml%22%20alt%3D%22EditRout%22%20id%3D%2217%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Edit</text>
       </controlProperties>
     </control>
   </controls>
