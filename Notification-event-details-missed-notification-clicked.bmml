@@ -1,0 +1,103 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="698" measuredH="582" mockupW="676" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>Notification-reviewed%26bm%3BNotification-reviewed.bmml%26bm%3BNotification-reviewed.bmml%26bm%3BNotification-reviewed.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22Notification-reviewed.bmml%22%20alt%3D%22Notification-reviewed%22%20id%3D%221%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="102" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Event%20Details</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="107" y="158" w="112" h="-1" measuredW="105" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Career%20Fair</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::List" x="65" y="186" w="196" h="131" measuredW="100" measuredH="126" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Summary%3A%20Bring%20your%20resume%0Ato%20this%20gathering%20of%20recruiters%0Afrom%20LA%20tech%20companies.%0ATime%3A%20Oct.%208%20%0ALocation%3A%20Engineering%20Quad</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="51" y="317" w="224" h="139" measuredW="1966" measuredH="1470" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>116%2C39%2C768%2C919</crop>
+        <href>ManagerMapWithUnsubscribedEventMock%26bm%3BManagerMapWithUnsubscribedEventMock.bmml%26bm%3BManagerMapWithUnsubscribedEventMock.bmml%26bm%3BManagerMapWithUnsubscribedEventMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C308%2C253%2C447%22%20href%3D%22ManagerMapWithUnsubscribedEventMock.bmml%22%20alt%3D%22ManagerMapWithUnsubscribedEventMock%22%20id%3D%2211%22/%3E</map>
+        <src>./assets/FullMap.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::IconLabel" x="141" y="374" w="-1" h="-1" measuredW="68" measuredH="47" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <href>ManagerMapWithUnsubscribedEventMock%26bm%3BManagerMapWithUnsubscribedEventMock.bmml%26bm%3BManagerMapWithUnsubscribedEventMock.bmml%26bm%3BManagerMapWithUnsubscribedEventMock.bmml</href>
+        <icon>DownFillTriangleIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22119%2C365%2C187%2C412%22%20href%3D%22ManagerMapWithUnsubscribedEventMock.bmml%22%20alt%3D%22ManagerMapWithUnsubscribedEventMock%22%20id%3D%2212%22/%3E</map>
+        <text>Career%20Fair</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="__group__" x="397" y="170" w="32" h="88" measuredW="32" measuredH="88" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ManagerEventDetail2Mock%26bm%3BManagerEventDetail2Mock.bmml%26bm%3BManagerEventDetail2Mock.bmml%26bm%3BManagerEventDetail2Mock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22375%2C161%2C407%2C249%22%20href%3D%22ManagerEventDetail2Mock.bmml%22%20alt%3D%22ManagerEventDetail2Mock%22%20id%3D%2218%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Arrow" x="11" y="0" w="10" h="47" measuredW="150" measuredH="100" zOrder="0" locked="false" isInGroup="18">
+          <controlProperties>
+            <color>7317724</color>
+            <curvature>0</curvature>
+            <direction>bottom</direction>
+            <leftArrow>false</leftArrow>
+            <rightArrow>true</rightArrow>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="56" w="32" h="32" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="18">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10470904</borderColor>
+            <color>2848996</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Link" x="75" y="292" w="-1" h="-1" measuredW="65" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Read%20More</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Canvas" x="59" y="456" w="208" h="43" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="252" y="456" w="-1" h="43" measuredW="16" measuredH="100" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Webcam" x="65" y="461" w="50" h="38" measuredW="177" measuredH="146" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Webcam" x="202" y="461" w="50" h="38" measuredW="177" measuredH="146" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Webcam" x="137" y="461" w="50" h="38" measuredW="177" measuredH="146" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Button" x="485" y="165" w="-1" h="-1" measuredW="213" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <href>Notification%20number%20at%20Icon-decreased-Home%20screen%26bm%3BNotification%20number%20at%20Icon-decreased-Home%20screen.bmml%26bm%3BNotification%20number%20at%20Icon-decreased-Home%20screen.bmml%26bm%3BNotification%20number%20at%20Icon-decreased-Home%20screen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22463%2C156%2C676%2C183%22%20href%3D%22Notification%2520number%2520at%2520Icon-decreased-Home%2520screen.bmml%22%20alt%3D%22Notification%20number%20at%20Icon-decreased-Home%20screen%22%20id%3D%2225%22/%3E</map>
+        <text>Number%20at%20the%20Icon%20decreases</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

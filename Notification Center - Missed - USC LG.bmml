@@ -21,8 +21,8 @@
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="73" y="227" w="-1" h="-1" measuredW="159" measuredH="37" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13576743</color>
-        <href>ManagerEventDetailWithSubscriptionMock%26bm%3BManagerEventDetailWithSubscriptionMock.bmml%26bm%3BManagerEventDetailWithSubscriptionMock.bmml%26bm%3BManagerEventDetailWithSubscriptionMock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2251%2C218%2C210%2C255%22%20href%3D%22ManagerEventDetailWithSubscriptionMock.bmml%22%20alt%3D%22ManagerEventDetailWithSubscriptionMock%22%20id%3D%226%22/%3E</map>
+        <href>Notification-event-details-missed-notification-clicked%26bm%3BNotification-event-details-missed-notification-clicked.bmml%26bm%3BNotification-event-details-missed-notification-clicked.bmml%26bm%3BNotification-event-details-missed-notification-clicked.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2251%2C218%2C210%2C255%22%20href%3D%22Notification-event-details-missed-notification-clicked.bmml%22%20alt%3D%22Notification-event-details-missed-notification-clicked%22%20id%3D%226%22/%3E</map>
         <text>Trojan%20Football%20-%20tickets%20for%20%5CnUSC%20vs.%20UCLA%20start%20to%20sell</text>
       </controlProperties>
     </control>
