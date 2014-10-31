@@ -59,9 +59,9 @@
     <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="172" y="468" w="95" h="26" measuredW="98" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10470904</color>
-        <href>ShowRout-Disc%26bm%3BShowRout-Disc.bmml%26bm%3BShowRout-Disc.bmml%26bm%3BShowRout-Disc.bmml</href>
+        <href>AnonymousRouteDetailDescription%26bm%3BAnonymousRouteDetailDescription.bmml%26bm%3BAnonymousRouteDetailDescription.bmml%26bm%3BAnonymousRouteDetailDescription.bmml</href>
         <icon>SpinningIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22150%2C459%2C245%2C485%22%20href%3D%22ShowRout-Disc.bmml%22%20alt%3D%22ShowRout-Disc%22%20id%3D%228%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22150%2C459%2C245%2C485%22%20href%3D%22AnonymousRouteDetailDescription.bmml%22%20alt%3D%22AnonymousRouteDetailDescription%22%20id%3D%228%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Description</text>

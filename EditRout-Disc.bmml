@@ -91,9 +91,9 @@
     <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="131" y="483" w="88" h="26" measuredW="77" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <color>15658734</color>
-        <href>EditRout-del%26bm%3BEditRout-del.bmml%26bm%3BEditRout-del.bmml%26bm%3BEditRout-del.bmml</href>
+        <href>AnonymousRouteDelete%26bm%3BAnonymousRouteDelete.bmml%26bm%3BAnonymousRouteDelete.bmml%26bm%3BAnonymousRouteDelete.bmml</href>
         <icon>XIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C455%2C122%2C481%22%20href%3D%22EditRout-del.bmml%22%20alt%3D%22EditRout-del%22%20id%3D%229%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C455%2C122%2C481%22%20href%3D%22AnonymousRouteDelete.bmml%22%20alt%3D%22AnonymousRouteDelete%22%20id%3D%229%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>12</size>
         <text>Delete</text>

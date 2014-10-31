@@ -8,8 +8,8 @@
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Menu" x="48" y="146" w="120" h="-1" measuredW="150" measuredH="161" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>LogoutSuccessfulMapMock%26bm%3BLogoutSuccessfulMapMock.bmml%26bm%3BLogoutSuccessfulMapMock.bmml%26bm%3BLogoutSuccessfulMapMock.bmml%2C%2C%2C%2C%2C%2C%2C%2C%2C%2CRouts%26bm%3BRouts.bmml%26bm%3BRouts.bmml%26bm%3BRouts.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C142%2C146%2C163%22%20href%3D%22LogoutSuccessfulMapMock.bmml%22%20alt%3D%22LogoutSuccessfulMapMock%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C272%2C146%2C293%22%20href%3D%22Routs.bmml%22%20alt%3D%22Routs%22%20id%3D%223%22/%3E</map>
+        <hrefs>LogoutSuccessfulMapMock%26bm%3BLogoutSuccessfulMapMock.bmml%26bm%3BLogoutSuccessfulMapMock.bmml%26bm%3BLogoutSuccessfulMapMock.bmml%2C%2C%2C%2C%2C%2C%2C%2C%2C%2CAnonymousRoutesMain%26bm%3BAnonymousRoutesMain.bmml%26bm%3BAnonymousRoutesMain.bmml%26bm%3BAnonymousRoutesMain.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C142%2C146%2C163%22%20href%3D%22LogoutSuccessfulMapMock.bmml%22%20alt%3D%22LogoutSuccessfulMapMock%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C272%2C146%2C293%22%20href%3D%22AnonymousRoutesMain.bmml%22%20alt%3D%22AnonymousRoutesMain%22%20id%3D%223%22/%3E</map>
         <text>Sign%20Out%0A---%0ACalendar%0A---%0ABuildings%0A---%0ALocations%0A---%0AEvents%0A---%0ARoutes</text>
       </controlProperties>
     </control>
