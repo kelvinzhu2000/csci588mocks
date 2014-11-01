@@ -40,8 +40,8 @@
     <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="51" y="284" w="224" h="175" measuredW="1966" measuredH="1470" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>116%2C39%2C768%2C919</crop>
-        <href>ManagerMapWithUnsubscribedEventMock%26bm%3BManagerMapWithUnsubscribedEventMock.bmml%26bm%3BManagerMapWithUnsubscribedEventMock.bmml%26bm%3BManagerMapWithUnsubscribedEventMock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C275%2C253%2C450%22%20href%3D%22ManagerMapWithUnsubscribedEventMock.bmml%22%20alt%3D%22ManagerMapWithUnsubscribedEventMock%22%20id%3D%225%22/%3E</map>
+        <href>ManagerMapWithSubscribedGeo%26bm%3BManagerMapWithSubscribedGeo.bmml%26bm%3BManagerMapWithSubscribedGeo.bmml%26bm%3BManagerMapWithSubscribedGeo.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C275%2C253%2C450%22%20href%3D%22ManagerMapWithSubscribedGeo.bmml%22%20alt%3D%22ManagerMapWithSubscribedGeo%22%20id%3D%225%22/%3E</map>
         <src>./assets/FullMap.png</src>
         <text/>
       </controlProperties>

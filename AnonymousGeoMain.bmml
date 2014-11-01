@@ -1,0 +1,62 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="304" measuredH="582" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>AnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%221%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="126" y="117" w="-1" h="-1" measuredW="74" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Locations</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::SearchBox" x="52" y="152" w="219" h="-1" measuredW="120" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>AnonymousGeoSearch%26bm%3BAnonymousGeoSearch.bmml%26bm%3BAnonymousGeoSearch.bmml%26bm%3BAnonymousGeoSearch.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C143%2C249%2C168%22%20href%3D%22AnonymousGeoSearch.bmml%22%20alt%3D%22AnonymousGeoSearch%22%20id%3D%2213%22/%3E</map>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::List" x="52" y="192" w="219" h="304" measuredW="100" measuredH="126" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hrefs>AnonymousGeoByPopularity%26bm%3BAnonymousGeoByPopularity.bmml%26bm%3BAnonymousGeoByPopularity.bmml%26bm%3BAnonymousGeoByPopularity.bmml%2CAnonymousGeoByCategory%26bm%3BAnonymousGeoByCategory.bmml%26bm%3BAnonymousGeoByCategory.bmml%26bm%3BAnonymousGeoByCategory.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C186%2C249%2C235%22%20href%3D%22AnonymousGeoByPopularity.bmml%22%20alt%3D%22AnonymousGeoByPopularity%22%20id%3D%2215%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C235%2C249%2C284%22%20href%3D%22AnonymousGeoByCategory.bmml%22%20alt%3D%22AnonymousGeoByCategory%22%20id%3D%2215%22/%3E</map>
+        <rowHeight>49</rowHeight>
+        <text>%20%20%20%20%20%20%20%20%20%20%20%20Most%20Popular%0A%20%20%20%20%20%20%20%20%20%20%20%20Category</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Icon" x="52" y="192" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <href>AnonymousGeoByPopularity%26bm%3BAnonymousGeoByPopularity.bmml%26bm%3BAnonymousGeoByPopularity.bmml%26bm%3BAnonymousGeoByPopularity.bmml</href>
+        <icon>CheckMarkIcon%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C183%2C78%2C231%22%20href%3D%22AnonymousGeoByPopularity.bmml%22%20alt%3D%22AnonymousGeoByPopularity%22%20id%3D%2216%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Icon" x="52" y="242" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <href>AnonymousGeoByCategory%26bm%3BAnonymousGeoByCategory.bmml%26bm%3BAnonymousGeoByCategory.bmml%26bm%3BAnonymousGeoByCategory.bmml</href>
+        <icon>CopyIcon%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C233%2C78%2C281%22%20href%3D%22AnonymousGeoByCategory.bmml%22%20alt%3D%22AnonymousGeoByCategory%22%20id%3D%2219%22/%3E</map>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

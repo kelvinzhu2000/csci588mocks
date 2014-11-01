@@ -1,0 +1,65 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="304" measuredH="582" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="51" y="145" w="224" h="357" measuredW="1966" measuredH="1470" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>116%2C39%2C768%2C919</crop>
+        <src>./assets/FullMap.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="147" y="116" w="-1" h="-1" measuredW="32" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Map</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="59" y="115" w="33" h="-1" measuredW="44" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>10027008</color>
+        <direction>center</direction>
+        <href>AnonymousMapWithMenuMock%26bm%3BAnonymousMapWithMenuMock.bmml%26bm%3BAnonymousMapWithMenuMock.bmml%26bm%3BAnonymousMapWithMenuMock.bmml</href>
+        <icon>ListIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2237%2C106%2C70%2C133%22%20href%3D%22AnonymousMapWithMenuMock.bmml%22%20alt%3D%22AnonymousMapWithMenuMock%22%20id%3D%223%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="208" y="115" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>ManagerMapWithDisplayMock%26bm%3BManagerMapWithDisplayMock.bmml%26bm%3BManagerMapWithDisplayMock.bmml%26bm%3BManagerMapWithDisplayMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C106%2C251%2C133%22%20href%3D%22ManagerMapWithDisplayMock.bmml%22%20alt%3D%22ManagerMapWithDisplayMock%22%20id%3D%224%22/%3E</map>
+        <text>Display</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="208" y="115" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>AnonymousMapWithLocationsDisplayMock%26bm%3BAnonymousMapWithLocationsDisplayMock.bmml%26bm%3BAnonymousMapWithLocationsDisplayMock.bmml%26bm%3BAnonymousMapWithLocationsDisplayMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C106%2C251%2C133%22%20href%3D%22AnonymousMapWithLocationsDisplayMock.bmml%22%20alt%3D%22AnonymousMapWithLocationsDisplayMock%22%20id%3D%225%22/%3E</map>
+        <text>Display</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="89" y="373" w="71" h="71" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::ColorPicker" x="111" y="394" w="-1" h="-1" measuredW="26" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

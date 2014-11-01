@@ -18,9 +18,9 @@
         <borderStyle>square</borderStyle>
         <color>10027008</color>
         <direction>center</direction>
-        <href>AnonymousMapWithMenuMock%26bm%3BAnonymousMapWithMenuMock.bmml%26bm%3BAnonymousMapWithMenuMock.bmml%26bm%3BAnonymousMapWithMenuMock.bmml</href>
+        <href>ManagerMapWithMenuMock%26bm%3BManagerMapWithMenuMock.bmml%26bm%3BManagerMapWithMenuMock.bmml%26bm%3BManagerMapWithMenuMock.bmml</href>
         <icon>ListIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2237%2C106%2C70%2C133%22%20href%3D%22AnonymousMapWithMenuMock.bmml%22%20alt%3D%22AnonymousMapWithMenuMock%22%20id%3D%222%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2237%2C106%2C70%2C133%22%20href%3D%22ManagerMapWithMenuMock.bmml%22%20alt%3D%22ManagerMapWithMenuMock%22%20id%3D%222%22/%3E</map>
         <newLayout>true</newLayout>
         <text/>
       </controlProperties>
@@ -37,8 +37,8 @@
     <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="208" y="115" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>AnonymousMapWithBuildingsDisplayMock%26bm%3BAnonymousMapWithBuildingsDisplayMock.bmml%26bm%3BAnonymousMapWithBuildingsDisplayMock.bmml%26bm%3BAnonymousMapWithBuildingsDisplayMock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C106%2C251%2C133%22%20href%3D%22AnonymousMapWithBuildingsDisplayMock.bmml%22%20alt%3D%22AnonymousMapWithBuildingsDisplayMock%22%20id%3D%224%22/%3E</map>
+        <href>ManagerMapWithBuildingsDisplayMock%26bm%3BManagerMapWithBuildingsDisplayMock.bmml%26bm%3BManagerMapWithBuildingsDisplayMock.bmml%26bm%3BManagerMapWithBuildingsDisplayMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C106%2C251%2C133%22%20href%3D%22ManagerMapWithBuildingsDisplayMock.bmml%22%20alt%3D%22ManagerMapWithBuildingsDisplayMock%22%20id%3D%224%22/%3E</map>
         <text>Display</text>
       </controlProperties>
     </control>

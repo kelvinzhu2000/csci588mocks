@@ -11,9 +11,9 @@
         <borderStyle>square</borderStyle>
         <color>10027008</color>
         <direction>center</direction>
-        <href>AnonymousMapWithMenuMock%26bm%3BAnonymousMapWithMenuMock.bmml%26bm%3BAnonymousMapWithMenuMock.bmml%26bm%3BAnonymousMapWithMenuMock.bmml</href>
+        <href>ManagerMapWithMenuMock%26bm%3BManagerMapWithMenuMock.bmml%26bm%3BManagerMapWithMenuMock.bmml%26bm%3BManagerMapWithMenuMock.bmml</href>
         <icon>ListIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2237%2C106%2C70%2C133%22%20href%3D%22AnonymousMapWithMenuMock.bmml%22%20alt%3D%22AnonymousMapWithMenuMock%22%20id%3D%222%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2237%2C106%2C70%2C133%22%20href%3D%22ManagerMapWithMenuMock.bmml%22%20alt%3D%22ManagerMapWithMenuMock%22%20id%3D%222%22/%3E</map>
         <newLayout>true</newLayout>
         <text/>
       </controlProperties>
@@ -30,8 +30,8 @@
     <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="208" y="115" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>AnonymousMapWithRoutesMock%26bm%3BAnonymousMapWithRoutesMock.bmml%26bm%3BAnonymousMapWithRoutesMock.bmml%26bm%3BAnonymousMapWithRoutesMock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C106%2C251%2C133%22%20href%3D%22AnonymousMapWithRoutesMock.bmml%22%20alt%3D%22AnonymousMapWithRoutesMock%22%20id%3D%224%22/%3E</map>
+        <href>ManagerMapWithRoutesMock%26bm%3BManagerMapWithRoutesMock.bmml%26bm%3BManagerMapWithRoutesMock.bmml%26bm%3BManagerMapWithRoutesMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C106%2C251%2C133%22%20href%3D%22ManagerMapWithRoutesMock.bmml%22%20alt%3D%22ManagerMapWithRoutesMock%22%20id%3D%224%22/%3E</map>
         <text>Display</text>
       </controlProperties>
     </control>
@@ -45,8 +45,8 @@
     </control>
     <control controlID="23" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="138" y="145" w="137" h="-1" measuredW="215" measuredH="130" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>AnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%2CAnonymousMapWithBuildingsMock%26bm%3BAnonymousMapWithBuildingsMock.bmml%26bm%3BAnonymousMapWithBuildingsMock.bmml%26bm%3BAnonymousMapWithBuildingsMock.bmml%2CAnonymousMapWithEventsMock%26bm%3BAnonymousMapWithEventsMock.bmml%26bm%3BAnonymousMapWithEventsMock.bmml%26bm%3BAnonymousMapWithEventsMock.bmml%2CAnonymousMapWithLocationsMock%26bm%3BAnonymousMapWithLocationsMock.bmml%26bm%3BAnonymousMapWithLocationsMock.bmml%26bm%3BAnonymousMapWithLocationsMock.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C141%2C253%2C171%22%20href%3D%22AnonymousMapMock.bmml%22%20alt%3D%22AnonymousMapMock%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C171%2C253%2C201%22%20href%3D%22AnonymousMapWithBuildingsMock.bmml%22%20alt%3D%22AnonymousMapWithBuildingsMock%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C201%2C253%2C231%22%20href%3D%22AnonymousMapWithEventsMock.bmml%22%20alt%3D%22AnonymousMapWithEventsMock%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C231%2C253%2C261%22%20href%3D%22AnonymousMapWithLocationsMock.bmml%22%20alt%3D%22AnonymousMapWithLocationsMock%22%20id%3D%2223%22/%3E</map>
+        <hrefs>ManagerMapMock%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%2CManagerMapWithBuildingsMock%26bm%3BManagerMapWithBuildingsMock.bmml%26bm%3BManagerMapWithBuildingsMock.bmml%26bm%3BManagerMapWithBuildingsMock.bmml%2CManagerMapWithEventsMock%26bm%3BManagerMapWithEventsMock.bmml%26bm%3BManagerMapWithEventsMock.bmml%26bm%3BManagerMapWithEventsMock.bmml%2CManagerMapWithLocationsMock%26bm%3BManagerMapWithLocationsMock.bmml%26bm%3BManagerMapWithLocationsMock.bmml%26bm%3BManagerMapWithLocationsMock.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C141%2C253%2C171%22%20href%3D%22ManagerMapMock.bmml%22%20alt%3D%22ManagerMapMock%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C171%2C253%2C201%22%20href%3D%22ManagerMapWithBuildingsMock.bmml%22%20alt%3D%22ManagerMapWithBuildingsMock%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C201%2C253%2C231%22%20href%3D%22ManagerMapWithEventsMock.bmml%22%20alt%3D%22ManagerMapWithEventsMock%22%20id%3D%2223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C231%2C253%2C261%22%20href%3D%22ManagerMapWithLocationsMock.bmml%22%20alt%3D%22ManagerMapWithLocationsMock%22%20id%3D%2223%22/%3E</map>
         <text>Routes%2C%20ON%0ABuildings%2C%20OFF%0AEvents%2C%20OFF%0ALocations%2C%20OFF</text>
       </controlProperties>
     </control>

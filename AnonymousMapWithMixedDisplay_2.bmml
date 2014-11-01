@@ -11,9 +11,9 @@
         <borderStyle>square</borderStyle>
         <color>10027008</color>
         <direction>center</direction>
-        <href>AnonymousMapWithEventsMenuMock%26bm%3BAnonymousMapWithEventsMenuMock.bmml%26bm%3BAnonymousMapWithEventsMenuMock.bmml%26bm%3BAnonymousMapWithEventsMenuMock.bmml</href>
+        <href>AnonymousMapWithMenuMock%26bm%3BAnonymousMapWithMenuMock.bmml%26bm%3BAnonymousMapWithMenuMock.bmml%26bm%3BAnonymousMapWithMenuMock.bmml</href>
         <icon>ListIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2237%2C106%2C70%2C133%22%20href%3D%22AnonymousMapWithEventsMenuMock.bmml%22%20alt%3D%22AnonymousMapWithEventsMenuMock%22%20id%3D%222%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2237%2C106%2C70%2C133%22%20href%3D%22AnonymousMapWithMenuMock.bmml%22%20alt%3D%22AnonymousMapWithMenuMock%22%20id%3D%222%22/%3E</map>
         <newLayout>true</newLayout>
         <text/>
       </controlProperties>

@@ -18,8 +18,8 @@
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::SearchBox" x="63" y="151" w="201" h="-1" measuredW="120" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>ManagerGeoMain%26bm%3BManagerGeoMain.bmml%26bm%3BManagerGeoMain.bmml%26bm%3BManagerGeoMain.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C142%2C242%2C167%22%20href%3D%22ManagerGeoMain.bmml%22%20alt%3D%22ManagerGeoMain%22%20id%3D%224%22/%3E</map>
+        <href>AnonymousGeoByCategory%26bm%3BAnonymousGeoByCategory.bmml%26bm%3BAnonymousGeoByCategory.bmml%26bm%3BAnonymousGeoByCategory.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C142%2C242%2C167%22%20href%3D%22AnonymousGeoByCategory.bmml%22%20alt%3D%22AnonymousGeoByCategory%22%20id%3D%224%22/%3E</map>
         <text>Food</text>
       </controlProperties>
     </control>
@@ -30,31 +30,31 @@
         <text>Search%20Results</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Accordion" x="44" y="212" w="238" h="291" measuredW="166" measuredH="159" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Accordion" x="44" y="208" w="238" h="295" measuredW="177" measuredH="159" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>%2CManagerGeoDetails%26bm%3BManagerGeoDetails.bmml%26bm%3BManagerGeoDetails.bmml%26bm%3BManagerGeoDetails.bmml%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C233%2C260%2C257%22%20href%3D%22ManagerGeoDetails.bmml%22%20alt%3D%22ManagerGeoDetails%22%20id%3D%226%22/%3E</map>
-        <text>All%0A-%20Food%20Court%20%28Subscribed%29%0A-%20Food%20Exhibits</text>
+        <hrefs>%2C%2CAnonymousGeoDetails%26bm%3BAnonymousGeoDetails.bmml%26bm%3BAnonymousGeoDetails.bmml%26bm%3BAnonymousGeoDetails.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C199%2C22%2C199%22%20href%3D%22AnonymousGeoDetails.bmml%22%20alt%3D%22AnonymousGeoDetails%22%20id%3D%227%22/%3E</map>
+        <text>Educational%0ADining%0A-%20Food%20Court%20%3E%20%28subscribed%29%0AResidential</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10027008</color>
-        <href>ManagerMapMock%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml</href>
-        <icon>LeftTriangleIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22ManagerMapMock.bmml%22%20alt%3D%22ManagerMapMock%22%20id%3D%227%22/%3E</map>
-        <menuIcon>false</menuIcon>
-        <size>11</size>
-        <text>Back</text>
-      </controlProperties>
-    </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="132" y="117" w="-1" h="-1" measuredW="74" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="132" y="117" w="-1" h="-1" measuredW="74" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
         <text>Locations</text>
         <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>AnonymousGeoMain%26bm%3BAnonymousGeoMain.bmml%26bm%3BAnonymousGeoMain.bmml%26bm%3BAnonymousGeoMain.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22AnonymousGeoMain.bmml%22%20alt%3D%22AnonymousGeoMain%22%20id%3D%229%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Back</text>
       </controlProperties>
     </control>
   </controls>
