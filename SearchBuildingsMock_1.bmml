@@ -6,106 +6,14 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="__group__" x="49" y="180" w="228" h="287" measuredW="228" measuredH="287" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <controlName>ga-list</controlName>
-        <href>SearchBuildingsMock_3%26bm%3BSearchBuildingsMock_3.bmml%26bm%3BSearchBuildingsMock_3.bmml%26bm%3BSearchBuildingsMock_3.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C171%2C255%2C458%22%20href%3D%22SearchBuildingsMock_3.bmml%22%20alt%3D%22SearchBuildingsMock_3%22%20id%3D%221%22/%3E</map>
-      </controlProperties>
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="128" w="224" h="-1" measuredW="68" measuredH="21" zOrder="0" locked="false" isInGroup="1">
-          <controlProperties>
-            <bold>true</bold>
-            <color>6710886</color>
-            <text>Categories</text>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="151" w="224" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="1">
-          <controlProperties>
-            <color>3355443</color>
-          </controlProperties>
-        </control>
-        <control controlID="2" controlTypeID="__group__" x="0" y="155" w="224" h="46" measuredW="224" measuredH="46" zOrder="2" locked="false" isInGroup="1">
-          <groupChildrenDescriptors>
-            <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="36" w="224" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="2">
-              <controlProperties>
-                <color>10066329</color>
-              </controlProperties>
-            </control>
-            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="29" y="0" w="188" h="-1" measuredW="38" measuredH="21" zOrder="1" locked="false" isInGroup="2">
-              <controlProperties>
-                <bold>false</bold>
-                <color>0</color>
-                <text>Dining</text>
-              </controlProperties>
-            </control>
-          </groupChildrenDescriptors>
-        </control>
-        <control controlID="3" controlTypeID="__group__" x="0" y="195" w="224" h="52" measuredW="224" measuredH="52" zOrder="3" locked="false" isInGroup="1">
-          <groupChildrenDescriptors>
-            <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="42" w="224" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="3">
-              <controlProperties>
-                <color>10066329</color>
-              </controlProperties>
-            </control>
-            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="27" y="0" w="188" h="-1" measuredW="45" measuredH="21" zOrder="1" locked="false" isInGroup="3">
-              <controlProperties>
-                <bold>false</bold>
-                <color>0</color>
-                <text>Parking</text>
-              </controlProperties>
-            </control>
-          </groupChildrenDescriptors>
-        </control>
-        <control controlID="4" controlTypeID="__group__" x="0" y="241" w="224" h="46" measuredW="224" measuredH="46" zOrder="4" locked="false" isInGroup="1">
-          <controlProperties>
-            <href>SearchBuildingsMock_3%26bm%3BSearchBuildingsMock_3.bmml%26bm%3BSearchBuildingsMock_3.bmml%26bm%3BSearchBuildingsMock_3.bmml</href>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C412%2C251%2C458%22%20href%3D%22SearchBuildingsMock_3.bmml%22%20alt%3D%22SearchBuildingsMock_3%22%20id%3D%224%22/%3E</map>
-          </controlProperties>
-          <groupChildrenDescriptors>
-            <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="36" w="224" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="4">
-              <controlProperties>
-                <color>10066329</color>
-              </controlProperties>
-            </control>
-            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="25" y="0" w="188" h="-1" measuredW="37" measuredH="21" zOrder="1" locked="false" isInGroup="4">
-              <controlProperties>
-                <bold>false</bold>
-                <color>0</color>
-                <text>More...</text>
-              </controlProperties>
-            </control>
-          </groupChildrenDescriptors>
-        </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="4" y="0" w="224" h="-1" measuredW="107" measuredH="21" zOrder="5" locked="false" isInGroup="1">
-          <controlProperties>
-            <bold>true</bold>
-            <color>6710886</color>
-            <text>Recent%20Searches</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="2" controlTypeID="__group__" x="58" y="207" w="207" h="94" measuredW="207" measuredH="94" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <controlName>ga-menu</controlName>
-      </controlProperties>
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Menu" x="0" y="0" w="207" h="-1" measuredW="150" measuredH="94" zOrder="0" locked="false" isInGroup="2">
-          <controlProperties>
-            <text>SAL%0ARonald%0AParking%0AHall</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="56" y="153" w="209" h="-1" measuredW="120" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="56" y="153" w="209" h="-1" measuredW="120" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <href>SearchBuildingsMock_2%26bm%3BSearchBuildingsMock_2.bmml%26bm%3BSearchBuildingsMock_2.bmml%26bm%3BSearchBuildingsMock_2.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C144%2C243%2C169%22%20href%3D%22SearchBuildingsMock_2.bmml%22%20alt%3D%22SearchBuildingsMock_2%22%20id%3D%223%22/%3E</map>
         <text>search</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>AnonymousMapMock%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml%26bm%3BAnonymousMapMock.bmml</href>
@@ -116,13 +24,70 @@
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="69" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="69" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
         <text>Buildings</text>
         <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::List" x="54" y="187" w="219" h="304" measuredW="100" measuredH="300" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hrefs>SearchBuildingsMock_4%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%2CSearchBuildingsMock_4%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%2CSearchBuildingsMock_4%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%2CSearchBuildingsMock_4%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%2CSearchBuildingsMock_4%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%2CSearchBuildingsMock_4%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C181%2C251%2C230%22%20href%3D%22SearchBuildingsMock_4.bmml%22%20alt%3D%22SearchBuildingsMock_4%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C230%2C251%2C279%22%20href%3D%22SearchBuildingsMock_4.bmml%22%20alt%3D%22SearchBuildingsMock_4%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C279%2C251%2C328%22%20href%3D%22SearchBuildingsMock_4.bmml%22%20alt%3D%22SearchBuildingsMock_4%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C328%2C251%2C377%22%20href%3D%22SearchBuildingsMock_4.bmml%22%20alt%3D%22SearchBuildingsMock_4%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C377%2C251%2C426%22%20href%3D%22SearchBuildingsMock_4.bmml%22%20alt%3D%22SearchBuildingsMock_4%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C426%2C251%2C475%22%20href%3D%22SearchBuildingsMock_4.bmml%22%20alt%3D%22SearchBuildingsMock_4%22%20id%3D%227%22/%3E</map>
+        <rowHeight>49</rowHeight>
+        <text>%20%20%20%20%20%20%20%20%20%20%20%20Residential%0A%20%20%20%20%20%20%20%20%20%20%20%20Computing%20Centers%0A%20%20%20%20%20%20%20%20%20%20%20%20Libraries%0A%20%20%20%20%20%20%20%20%20%20%20%20History%20Stations%0A%20%20%20%20%20%20%20%20%20%20%20%20New%20Buildings%0A%20%20%20%20%20%20%20%20%20%20%20%20Parks%20and%20Plazas</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="56" y="189" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <href>SearchBuildingsMock_4%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml</href>
+        <icon>HomeIcon%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C180%2C82%2C228%22%20href%3D%22SearchBuildingsMock_4.bmml%22%20alt%3D%22SearchBuildingsMock_4%22%20id%3D%228%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="56" y="240" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <href>SearchBuildingsMock_4%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml</href>
+        <icon>ScreenIcon%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C231%2C82%2C279%22%20href%3D%22SearchBuildingsMock_4.bmml%22%20alt%3D%22SearchBuildingsMock_4%22%20id%3D%229%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="56" y="288" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <href>SearchBuildingsMock_4%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml</href>
+        <icon>BookIcon%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C279%2C82%2C327%22%20href%3D%22SearchBuildingsMock_4.bmml%22%20alt%3D%22SearchBuildingsMock_4%22%20id%3D%2210%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="56" y="336" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <href>SearchBuildingsMock_4%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml</href>
+        <icon>PortletHelpIcon%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C327%2C82%2C375%22%20href%3D%22SearchBuildingsMock_4.bmml%22%20alt%3D%22SearchBuildingsMock_4%22%20id%3D%2211%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Icon" x="56" y="384" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <href>SearchBuildingsMock_4%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml</href>
+        <icon>SpinningIcon%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C375%2C82%2C423%22%20href%3D%22SearchBuildingsMock_4.bmml%22%20alt%3D%22SearchBuildingsMock_4%22%20id%3D%2212%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Icon" x="56" y="432" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <href>SearchBuildingsMock_4%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml%26bm%3BSearchBuildingsMock_4.bmml</href>
+        <icon>ImageIcon%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C423%2C82%2C471%22%20href%3D%22SearchBuildingsMock_4.bmml%22%20alt%3D%22SearchBuildingsMock_4%22%20id%3D%2213%22/%3E</map>
       </controlProperties>
     </control>
   </controls>
