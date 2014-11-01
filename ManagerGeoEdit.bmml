@@ -6,12 +6,12 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="137" y="452" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="137" y="452" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>ManagerGeoCreatorDetails%26bm%3BManagerGeoCreatorDetails.bmml%26bm%3BManagerGeoCreatorDetails.bmml%26bm%3BManagerGeoCreatorDetails.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C443%2C167%2C470%22%20href%3D%22ManagerGeoCreatorDetails.bmml%22%20alt%3D%22ManagerGeoCreatorDetails%22%20id%3D%225%22/%3E</map>
-        <text>Save</text>
+        <href>ManagerGeoEditted%26bm%3BManagerGeoEditted.bmml%26bm%3BManagerGeoEditted.bmml%26bm%3BManagerGeoEditted.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C443%2C179%2C470%22%20href%3D%22ManagerGeoEditted.bmml%22%20alt%3D%22ManagerGeoEditted%22%20id%3D%225%22/%3E</map>
+        <text>Submit</text>
       </controlProperties>
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="74" h="28" measuredW="77" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
@@ -36,8 +36,8 @@
     </control>
     <control controlID="8" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="56" y="158" w="-1" h="-1" measuredW="215" measuredH="155" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>%2C%2C%2C%2CGeoCircleNormal%26bm%3BGeoCircleNormal.bmml%26bm%3BGeoCircleNormal.bmml%26bm%3BGeoCircleNormal.bmml%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C270%2C249%2C299%22%20href%3D%22GeoCircleNormal.bmml%22%20alt%3D%22GeoCircleNormal%22%20id%3D%228%22/%3E</map>
+        <hrefs>%2C%2C%2C%2CManagerGeoEditCircleNormal%26bm%3BManagerGeoEditCircleNormal.bmml%26bm%3BManagerGeoEditCircleNormal.bmml%26bm%3BManagerGeoEditCircleNormal.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C270%2C249%2C299%22%20href%3D%22ManagerGeoEditCircleNormal.bmml%22%20alt%3D%22ManagerGeoEditCircleNormal%22%20id%3D%228%22/%3E</map>
         <text>Name%3A%20Engineering%20Quad%2C%20%3E%0ASummary%3A%20Commonly%20used%20for...%2C%20%3E%0ALink%3A%20http%3A//www.moreinfo.com%2C%20%3E%0ALocation%2C%20%3E%0ASize%2C%20%3E</text>
       </controlProperties>
     </control>

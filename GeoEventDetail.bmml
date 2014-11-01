@@ -47,8 +47,8 @@
     </control>
     <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="76" y="280" w="-1" h="-1" measuredW="166" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>GeoCircleNormal%26bm%3BGeoCircleNormal.bmml%26bm%3BGeoCircleNormal.bmml%26bm%3BGeoCircleNormal.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2254%2C271%2C220%2C290%22%20href%3D%22GeoCircleNormal.bmml%22%20alt%3D%22GeoCircleNormal%22%20id%3D%227%22/%3E</map>
+        <href>ManagerGeoCircleNormal%26bm%3BManagerGeoCircleNormal.bmml%26bm%3BManagerGeoCircleNormal.bmml%26bm%3BManagerGeoCircleNormal.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2254%2C271%2C220%2C290%22%20href%3D%22ManagerGeoCircleNormal.bmml%22%20alt%3D%22ManagerGeoCircleNormal%22%20id%3D%227%22/%3E</map>
         <text>%28Click%20to%20Modify%20Notification%29</text>
       </controlProperties>
     </control>

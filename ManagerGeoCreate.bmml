@@ -1,0 +1,45 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="304" measuredH="582" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="131" y="452" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>ManagerGeoCreated%26bm%3BManagerGeoCreated.bmml%26bm%3BManagerGeoCreated.bmml%26bm%3BManagerGeoCreated.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C443%2C173%2C470%22%20href%3D%22ManagerGeoCreated.bmml%22%20alt%3D%22ManagerGeoCreated%22%20id%3D%221%22/%3E</map>
+        <text>Submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="74" h="28" measuredW="77" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>ManagerGeoMain%26bm%3BManagerGeoMain.bmml%26bm%3BManagerGeoMain.bmml%26bm%3BManagerGeoMain.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C104%2C134%22%20href%3D%22ManagerGeoMain.bmml%22%20alt%3D%22ManagerGeoMain%22%20id%3D%222%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="131" y="117" w="-1" h="-1" measuredW="123" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Create%20Location</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="56" y="158" w="-1" h="-1" measuredW="215" measuredH="155" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2C%2C%2CManagerGeoEditCircleNormal%26bm%3BManagerGeoEditCircleNormal.bmml%26bm%3BManagerGeoEditCircleNormal.bmml%26bm%3BManagerGeoEditCircleNormal.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C270%2C249%2C299%22%20href%3D%22ManagerGeoEditCircleNormal.bmml%22%20alt%3D%22ManagerGeoEditCircleNormal%22%20id%3D%224%22/%3E</map>
+        <text>Name%3A%20%2C%20%3E%0ASummary%3A%20%2C%20%3E%0ALink%3A%20%2C%20%3E%0ALocation%2C%20%3E%0ASize%2C%20%3E</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

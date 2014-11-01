@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="494" measuredH="582" mockupW="472" mockupH="573">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="465" measuredH="582" mockupW="443" mockupH="573">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -25,11 +25,11 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="__group__" x="366" y="319" w="128" h="91" measuredW="128" measuredH="91" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="__group__" x="337" y="319" w="128" h="91" measuredW="128" measuredH="91" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>ga-gesture-pinchclose</controlName>
-        <href>GeoCircleNormal%26bm%3BGeoCircleNormal.bmml%26bm%3BGeoCircleNormal.bmml%26bm%3BGeoCircleNormal.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22344%2C310%2C472%2C401%22%20href%3D%22GeoCircleNormal.bmml%22%20alt%3D%22GeoCircleNormal%22%20id%3D%229%22/%3E</map>
+        <href>ManagerGeoEditCircleNormal%26bm%3BManagerGeoEditCircleNormal.bmml%26bm%3BManagerGeoEditCircleNormal.bmml%26bm%3BManagerGeoEditCircleNormal.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22315%2C310%2C443%2C401%22%20href%3D%22ManagerGeoEditCircleNormal.bmml%22%20alt%3D%22ManagerGeoEditCircleNormal%22%20id%3D%229%22/%3E</map>
       </controlProperties>
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="59" w="32" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="9">
@@ -88,12 +88,12 @@
         <text>Cancel</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="137" y="452" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="131" y="456" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>ManagerGeoEdit%26bm%3BManagerGeoEdit.bmml%26bm%3BManagerGeoEdit.bmml%26bm%3BManagerGeoEdit.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22115%2C443%2C167%2C470%22%20href%3D%22ManagerGeoEdit.bmml%22%20alt%3D%22ManagerGeoEdit%22%20id%3D%2212%22/%3E</map>
-        <text>Save</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C447%2C173%2C474%22%20href%3D%22ManagerGeoEdit.bmml%22%20alt%3D%22ManagerGeoEdit%22%20id%3D%2212%22/%3E</map>
+        <text>Submit</text>
       </controlProperties>
     </control>
   </controls>
