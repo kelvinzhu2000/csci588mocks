@@ -7,7 +7,7 @@
       </controlProperties>
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="107" y="317" w="95" h="95" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="-1"/>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="50" y="149" w="224" h="292" measuredW="1966" measuredH="1470" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="50" y="149" w="224" h="351" measuredW="1966" measuredH="1470" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>116%2C39%2C768%2C919</crop>
         <src>./assets/FullMap.png</src>
@@ -68,12 +68,12 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="103" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="33" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
-        <text>Location%20Size</text>
+        <text>Size</text>
         <underline>false</underline>
       </controlProperties>
     </control>
@@ -88,12 +88,12 @@
         <text>Cancel</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="131" y="456" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="214" y="114" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>ManagerGeoCreate%26bm%3BManagerGeoCreate.bmml%26bm%3BManagerGeoCreate.bmml%26bm%3BManagerGeoCreate.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C447%2C173%2C474%22%20href%3D%22ManagerGeoCreate.bmml%22%20alt%3D%22ManagerGeoCreate%22%20id%3D%228%22/%3E</map>
-        <text>Submit</text>
+        <href>ManagerGeoCreate_fill_size_success%26bm%3BManagerGeoCreate_fill_size_success.bmml%26bm%3BManagerGeoCreate_fill_size_success.bmml%26bm%3BManagerGeoCreate_fill_size_success.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C105%2C245%2C132%22%20href%3D%22ManagerGeoCreate_fill_size_success.bmml%22%20alt%3D%22ManagerGeoCreate_fill_size_success%22%20id%3D%228%22/%3E</map>
+        <text>Done</text>
       </controlProperties>
     </control>
   </controls>
