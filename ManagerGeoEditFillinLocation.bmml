@@ -46,8 +46,8 @@
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="56" y="316" w="217" h="109" measuredW="2560" measuredH="1600" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>eventPublishfillinPlacemapsearch%26bm%3BeventPublishfillinPlacemapsearch.bmml%26bm%3BeventPublishfillinPlacemapsearch.bmml%26bm%3BeventPublishfillinPlacemapsearch.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C307%2C251%2C416%22%20href%3D%22eventPublishfillinPlacemapsearch.bmml%22%20alt%3D%22eventPublishfillinPlacemapsearch%22%20id%3D%2212%22/%3E</map>
+        <href>ManagerGeoEditfillinMapSearch%26bm%3BManagerGeoEditfillinMapSearch.bmml%26bm%3BManagerGeoEditfillinMapSearch.bmml%26bm%3BManagerGeoEditfillinMapSearch.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C307%2C251%2C416%22%20href%3D%22ManagerGeoEditfillinMapSearch.bmml%22%20alt%3D%22ManagerGeoEditfillinMapSearch%22%20id%3D%2212%22/%3E</map>
         <src>./assets/ss3.png</src>
       </controlProperties>
     </control>
