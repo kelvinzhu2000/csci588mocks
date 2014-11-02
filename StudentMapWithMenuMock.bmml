@@ -6,21 +6,22 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Menu" x="48" y="146" w="120" h="-1" measuredW="150" measuredH="161" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Menu" x="48" y="146" w="120" h="-1" measuredW="150" measuredH="187" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>LogoutSuccessfulMapMock%26bm%3BLogoutSuccessfulMapMock.bmml%26bm%3BLogoutSuccessfulMapMock.bmml%26bm%3BLogoutSuccessfulMapMock.bmml%2C%2C%2C%2C%2C%2C%2C%2C%2C%2CAnonymousRoutesMain%26bm%3BAnonymousRoutesMain.bmml%26bm%3BAnonymousRoutesMain.bmml%26bm%3BAnonymousRoutesMain.bmml%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C142%2C146%2C163%22%20href%3D%22LogoutSuccessfulMapMock.bmml%22%20alt%3D%22LogoutSuccessfulMapMock%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C272%2C146%2C293%22%20href%3D%22AnonymousRoutesMain.bmml%22%20alt%3D%22AnonymousRoutesMain%22%20id%3D%223%22/%3E</map>
-        <text>Sign%20Out%0A---%0ACalendar%0A---%0ABuildings%0A---%0ALocations%0A---%0AEvents%0A---%0ARoutes</text>
+        <hrefs>LogoutSuccessfulMapMock%26bm%3BLogoutSuccessfulMapMock.bmml%26bm%3BLogoutSuccessfulMapMock.bmml%26bm%3BLogoutSuccessfulMapMock.bmml%2C%2CStudentMonthCalendarMock_CL%26bm%3BStudentMonthCalendarMock_CL.bmml%26bm%3BStudentMonthCalendarMock_CL.bmml%26bm%3BStudentMonthCalendarMock_CL.bmml%2C%2CStudentBuildingMain%26bm%3BStudentBuildingMain.bmml%26bm%3BStudentBuildingMain.bmml%26bm%3BStudentBuildingMain.bmml%2C%2CStudentGeoMain%26bm%3BStudentGeoMain.bmml%26bm%3BStudentGeoMain.bmml%26bm%3BStudentGeoMain.bmml%2C%2CStudentEventMainPageMock%26bm%3BStudentEventMainPageMock.bmml%26bm%3BStudentEventMainPageMock.bmml%26bm%3BStudentEventMainPageMock.bmml%2C%2CStudentRoutesMain%26bm%3BStudentRoutesMain.bmml%26bm%3BStudentRoutesMain.bmml%26bm%3BStudentRoutesMain.bmml%2C%2CStudentNotificationCenter-All-USC-LG%26bm%3BStudentNotificationCenter-All-USC-LG.bmml%26bm%3BStudentNotificationCenter-All-USC-LG.bmml%26bm%3BStudentNotificationCenter-All-USC-LG.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C142%2C146%2C163%22%20href%3D%22LogoutSuccessfulMapMock.bmml%22%20alt%3D%22LogoutSuccessfulMapMock%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C168%2C146%2C189%22%20href%3D%22StudentMonthCalendarMock_CL.bmml%22%20alt%3D%22StudentMonthCalendarMock_CL%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C194%2C146%2C215%22%20href%3D%22StudentBuildingMain.bmml%22%20alt%3D%22StudentBuildingMain%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C220%2C146%2C241%22%20href%3D%22StudentGeoMain.bmml%22%20alt%3D%22StudentGeoMain%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C246%2C146%2C267%22%20href%3D%22StudentEventMainPageMock.bmml%22%20alt%3D%22StudentEventMainPageMock%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C272%2C146%2C293%22%20href%3D%22StudentRoutesMain.bmml%22%20alt%3D%22StudentRoutesMain%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C298%2C146%2C319%22%20href%3D%22StudentNotificationCenter-All-USC-LG.bmml%22%20alt%3D%22StudentNotificationCenter-All-USC-LG%22%20id%3D%223%22/%3E</map>
+        <text>Sign%20Out%0A---%0ACalendar%0A---%0ABuildings%0A---%0ALocations%0A---%0AEvents%0A---%0ARoutes%0A---%0ANotifications</text>
       </controlProperties>
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="51" y="145" w="224" h="357" measuredW="1966" measuredH="1470" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
+        <borderStyle>none</borderStyle>
         <crop>116%2C39%2C768%2C919</crop>
         <src>./assets/FullMap.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="147" y="116" w="-1" h="-1" measuredW="32" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="147" y="116" w="-1" h="-1" measuredW="32" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
@@ -29,7 +30,7 @@
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::SearchBox" x="48" y="116" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SearchBox" x="48" y="116" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>search</text>
       </controlProperties>
@@ -46,7 +47,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="208" y="115" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="208" y="115" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>StudentMapWithDisplayMock%26bm%3BStudentMapWithDisplayMock.bmml%26bm%3BStudentMapWithDisplayMock.bmml%26bm%3BStudentMapWithDisplayMock.bmml</href>

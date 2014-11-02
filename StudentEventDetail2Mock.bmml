@@ -1,0 +1,99 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="429" measuredH="582" mockupW="407" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <color>10027008</color>
+        <href>StudentDayCalendarMock_CL%26bm%3BStudentDayCalendarMock_CL.bmml%26bm%3BStudentDayCalendarMock_CL.bmml%26bm%3BStudentDayCalendarMock_CL.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22StudentDayCalendarMock_CL.bmml%22%20alt%3D%22StudentDayCalendarMock_CL%22%20id%3D%221%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="102" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Event%20Details</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::List" x="65" y="143" w="196" h="60" measuredW="100" measuredH="126" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Time%3A%20Oct.%208%20%0ALocation%3A%20Engineering%20Quad</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="52" y="205" w="224" h="139" measuredW="1966" measuredH="1470" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>116%2C39%2C768%2C919</crop>
+        <href>StudentMapWithUnsubscribedEventMock%26bm%3BStudentMapWithUnsubscribedEventMock.bmml%26bm%3BStudentMapWithUnsubscribedEventMock.bmml%26bm%3BStudentMapWithUnsubscribedEventMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C196%2C254%2C335%22%20href%3D%22StudentMapWithUnsubscribedEventMock.bmml%22%20alt%3D%22StudentMapWithUnsubscribedEventMock%22%20id%3D%225%22/%3E</map>
+        <src>./assets/FullMap.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="142" y="262" w="-1" h="-1" measuredW="68" measuredH="47" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <href>StudentMapWithUnsubscribedEventMock%26bm%3BStudentMapWithUnsubscribedEventMock.bmml%26bm%3BStudentMapWithUnsubscribedEventMock.bmml%26bm%3BStudentMapWithUnsubscribedEventMock.bmml</href>
+        <icon>DownFillTriangleIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C253%2C188%2C300%22%20href%3D%22StudentMapWithUnsubscribedEventMock.bmml%22%20alt%3D%22StudentMapWithUnsubscribedEventMock%22%20id%3D%226%22/%3E</map>
+        <text>Career%20Fair</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="122" y="463" w="-1" h="-1" measuredW="82" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>StudentEventSubscribedMock%26bm%3BStudentEventSubscribedMock.bmml%26bm%3BStudentEventSubscribedMock.bmml%26bm%3BStudentEventSubscribedMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22100%2C454%2C182%2C481%22%20href%3D%22StudentEventSubscribedMock.bmml%22%20alt%3D%22StudentEventSubscribedMock%22%20id%3D%227%22/%3E</map>
+        <text>Subscribe</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="__group__" x="397" y="168" w="32" h="92" measuredW="32" measuredH="92" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>StudentEventDetailMock%26bm%3BStudentEventDetailMock.bmml%26bm%3BStudentEventDetailMock.bmml%26bm%3BStudentEventDetailMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22375%2C159%2C407%2C251%22%20href%3D%22StudentEventDetailMock.bmml%22%20alt%3D%22StudentEventDetailMock%22%20id%3D%2211%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="32" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="11">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10470904</borderColor>
+            <color>2848996</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Arrow" x="11" y="47" w="10" h="45" measuredW="150" measuredH="100" zOrder="1" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>7317724</color>
+            <curvature>0</curvature>
+            <direction>bottom</direction>
+            <rightArrow>false</rightArrow>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="75" y="186" w="-1" h="-1" measuredW="65" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Read%20More</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Canvas" x="59" y="344" w="208" h="111" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="252" y="344" w="-1" h="111" measuredW="16" measuredH="100" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Webcam" x="65" y="349" w="50" h="38" measuredW="177" measuredH="146" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Webcam" x="202" y="349" w="50" h="38" measuredW="177" measuredH="146" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Webcam" x="137" y="349" w="50" h="38" measuredW="177" measuredH="146" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Webcam" x="65" y="411" w="50" h="38" measuredW="177" measuredH="146" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Webcam" x="137" y="411" w="50" h="38" measuredW="177" measuredH="146" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Webcam" x="202" y="411" w="50" h="38" measuredW="177" measuredH="146" zOrder="16" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

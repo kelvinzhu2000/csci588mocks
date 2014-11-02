@@ -42,5 +42,13 @@
         <text>Display</text>
       </controlProperties>
     </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="208" y="115" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>StudentMapWithDisplayMock%26bm%3BStudentMapWithDisplayMock.bmml%26bm%3BStudentMapWithDisplayMock.bmml%26bm%3BStudentMapWithDisplayMock.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22186%2C106%2C251%2C133%22%20href%3D%22StudentMapWithDisplayMock.bmml%22%20alt%3D%22StudentMapWithDisplayMock%22%20id%3D%229%22/%3E</map>
+        <text>Display</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

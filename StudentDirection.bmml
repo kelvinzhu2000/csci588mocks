@@ -1,0 +1,94 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="304" measuredH="582" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="49" y="207" w="225" h="287" measuredW="1795" measuredH="968" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>128%2C297%2C701%2C605</crop>
+        <src>./USCMAP.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="78" h="-1" measuredW="78" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Directions</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>StudentRoutesMain%26bm%3BStudentRoutesMain.bmml%26bm%3BStudentRoutesMain.bmml%26bm%3BStudentRoutesMain.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22StudentRoutesMain.bmml%22%20alt%3D%22StudentRoutesMain%22%20id%3D%223%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="54" y="153" w="23" h="-1" measuredW="10" measuredH="20" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>12</size>
+        <text>0</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="55" y="179" w="23" h="-1" measuredW="10" measuredH="20" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>12</size>
+        <text>V</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="55" y="164" w="23" h="-1" measuredW="10" measuredH="20" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>12</size>
+        <text>%3A</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::SearchBox" x="77" y="151" w="168" h="-1" measuredW="251" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>StudentDirection21Only%26bm%3BStudentDirection21Only.bmml%26bm%3BStudentDirection21Only.bmml%26bm%3BStudentDirection21Only.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2255%2C142%2C223%2C167%22%20href%3D%22StudentDirection21Only.bmml%22%20alt%3D%22StudentDirection21Only%22%20id%3D%2214%22/%3E</map>
+        <text>Choose%20start%20point%20or%20click%20on%20the%20map</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::SearchBox" x="77" y="177" w="168" h="-1" measuredW="254" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>StudentDirection21Only%26bm%3BStudentDirection21Only.bmml%26bm%3BStudentDirection21Only.bmml%26bm%3BStudentDirection21Only.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2255%2C168%2C223%2C193%22%20href%3D%22StudentDirection21Only.bmml%22%20alt%3D%22StudentDirection21Only%22%20id%3D%2215%22/%3E</map>
+        <text>Choose%20destination%20or%20click%20on%20the%20map</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="__group__" x="243" y="153" w="33" h="50" measuredW="33" measuredH="50" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>130%2C158%2C775%2C719</crop>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="43" h="70" measuredW="46" measuredH="27" zOrder="0" locked="false" isInGroup="32">
+          <controlProperties>
+            <icon>RepeatIcon%7Csmall</icon>
+            <menuIcon>false</menuIcon>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

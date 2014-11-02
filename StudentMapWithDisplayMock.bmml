@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="304" measuredH="582" mockupW="282" mockupH="573">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="477" measuredH="582" mockupW="455" mockupH="573">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -44,9 +44,17 @@
     </control>
     <control controlID="5" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="138" y="145" w="137" h="-1" measuredW="215" measuredH="130" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>StudentMapMock%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%2CStudentMapMock%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%2CStudentMapMock%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%2CStudentMapMock%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml%26bm%3BStudentMapMock.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C141%2C253%2C171%22%20href%3D%22StudentMapMock.bmml%22%20alt%3D%22StudentMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C171%2C253%2C201%22%20href%3D%22StudentMapMock.bmml%22%20alt%3D%22StudentMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C201%2C253%2C231%22%20href%3D%22StudentMapMock.bmml%22%20alt%3D%22StudentMapMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C231%2C253%2C261%22%20href%3D%22StudentMapMock.bmml%22%20alt%3D%22StudentMapMock%22%20id%3D%225%22/%3E</map>
+        <hrefs>StudentMapWithRoutesMock%26bm%3BStudentMapWithRoutesMock.bmml%26bm%3BStudentMapWithRoutesMock.bmml%26bm%3BStudentMapWithRoutesMock.bmml%2CStudentMapWithBuildingsMock%26bm%3BStudentMapWithBuildingsMock.bmml%26bm%3BStudentMapWithBuildingsMock.bmml%26bm%3BStudentMapWithBuildingsMock.bmml%2CStudentMapWithEventsMock%26bm%3BStudentMapWithEventsMock.bmml%26bm%3BStudentMapWithEventsMock.bmml%26bm%3BStudentMapWithEventsMock.bmml%2CStudentMapWithLocationsMock%26bm%3BStudentMapWithLocationsMock.bmml%26bm%3BStudentMapWithLocationsMock.bmml%26bm%3BStudentMapWithLocationsMock.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C141%2C253%2C171%22%20href%3D%22StudentMapWithRoutesMock.bmml%22%20alt%3D%22StudentMapWithRoutesMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C171%2C253%2C201%22%20href%3D%22StudentMapWithBuildingsMock.bmml%22%20alt%3D%22StudentMapWithBuildingsMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C201%2C253%2C231%22%20href%3D%22StudentMapWithEventsMock.bmml%22%20alt%3D%22StudentMapWithEventsMock%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22116%2C231%2C253%2C261%22%20href%3D%22StudentMapWithLocationsMock.bmml%22%20alt%3D%22StudentMapWithLocationsMock%22%20id%3D%225%22/%3E</map>
         <text>Routes%2C%20OFF%0ABuildings%2C%20OFF%0AEvents%2C%20OFF%0ALocations%2C%20OFF</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="361" y="130" w="116" h="26" measuredW="113" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>StudentMapWithMixedDisplay_1%26bm%3BStudentMapWithMixedDisplay_1.bmml%26bm%3BStudentMapWithMixedDisplay_1.bmml%26bm%3BStudentMapWithMixedDisplay_1.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22339%2C121%2C455%2C147%22%20href%3D%22StudentMapWithMixedDisplay_1.bmml%22%20alt%3D%22StudentMapWithMixedDisplay_1%22%20id%3D%226%22/%3E</map>
+        <text>Mixed%20Overlays</text>
       </controlProperties>
     </control>
   </controls>

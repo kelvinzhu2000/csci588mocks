@@ -1,0 +1,44 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="304" measuredH="582" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>StudentGeoMain%26bm%3BStudentGeoMain.bmml%26bm%3BStudentGeoMain.bmml%26bm%3BStudentGeoMain.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22StudentGeoMain.bmml%22%20alt%3D%22StudentGeoMain%22%20id%3D%221%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Accordion" x="44" y="191" w="238" h="312" measuredW="177" measuredH="186" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CStudentGeoDetails%26bm%3BStudentGeoDetails.bmml%26bm%3BStudentGeoDetails.bmml%26bm%3BStudentGeoDetails.bmml%2CStudentGeoDetailsWithSubscription%26bm%3BStudentGeoDetailsWithSubscription.bmml%26bm%3BStudentGeoDetailsWithSubscription.bmml%26bm%3BStudentGeoDetailsWithSubscription.bmml%2CStudentGeoDetails%26bm%3BStudentGeoDetails.bmml%26bm%3BStudentGeoDetails.bmml%26bm%3BStudentGeoDetails.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C212%2C260%2C236%22%20href%3D%22StudentGeoDetails.bmml%22%20alt%3D%22StudentGeoDetails%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C239%2C260%2C263%22%20href%3D%22StudentGeoDetailsWithSubscription.bmml%22%20alt%3D%22StudentGeoDetailsWithSubscription%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2232%2C266%2C260%2C290%22%20href%3D%22StudentGeoDetails.bmml%22%20alt%3D%22StudentGeoDetails%22%20id%3D%222%22/%3E</map>
+        <text>Most%20Popular%0A-%20Engineering%20Quad%20%3E%0A-%20Food%20Court%20%3E%20%28subscribed%29%0A-%20Trojan%20Grounds%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="63" y="151" w="201" h="-1" measuredW="120" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>StudentGeoSearchByPopularity%26bm%3BStudentGeoSearchByPopularity.bmml%26bm%3BStudentGeoSearchByPopularity.bmml%26bm%3BStudentGeoSearchByPopularity.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C142%2C242%2C166%22%20href%3D%22StudentGeoSearchByPopularity.bmml%22%20alt%3D%22StudentGeoSearchByPopularity%22%20id%3D%223%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="132" y="117" w="-1" h="-1" measuredW="74" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Locations</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
