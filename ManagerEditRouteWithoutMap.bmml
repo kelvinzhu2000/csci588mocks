@@ -87,8 +87,8 @@
     <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="132" y="470" w="62" h="26" measuredW="48" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>AnonymousEditRoute3Destinations%26bm%3BAnonymousEditRoute3Destinations.bmml%26bm%3BAnonymousEditRoute3Destinations.bmml%26bm%3BAnonymousEditRoute3Destinations.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22110%2C461%2C172%2C487%22%20href%3D%22AnonymousEditRoute3Destinations.bmml%22%20alt%3D%22AnonymousEditRoute3Destinations%22%20id%3D%2211%22/%3E</map>
+        <href>ManagerEditRoute3Destinations%26bm%3BManagerEditRoute3Destinations.bmml%26bm%3BManagerEditRoute3Destinations.bmml%26bm%3BManagerEditRoute3Destinations.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22110%2C461%2C172%2C487%22%20href%3D%22ManagerEditRoute3Destinations.bmml%22%20alt%3D%22ManagerEditRoute3Destinations%22%20id%3D%2211%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Done</text>
@@ -169,9 +169,9 @@
     <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="75" h="28" measuredW="77" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>AnonymousEditRoute%26bm%3BAnonymousEditRoute.bmml%26bm%3BAnonymousEditRoute.bmml%26bm%3BAnonymousEditRoute.bmml</href>
+        <href>ManagerEditRoute%26bm%3BManagerEditRoute.bmml%26bm%3BManagerEditRoute.bmml%26bm%3BManagerEditRoute.bmml</href>
         <icon>LeftTriangleIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C105%2C134%22%20href%3D%22AnonymousEditRoute.bmml%22%20alt%3D%22AnonymousEditRoute%22%20id%3D%2222%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C105%2C134%22%20href%3D%22ManagerEditRoute.bmml%22%20alt%3D%22ManagerEditRoute%22%20id%3D%2222%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Cancel</text>

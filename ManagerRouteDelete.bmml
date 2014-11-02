@@ -8,8 +8,8 @@
     </control>
     <control controlID="11" controlTypeID="com.balsamiq.mockups::Alert" x="63" y="269" w="-1" h="-1" measuredW="200" measuredH="117" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>AnonymousEditRoute%26bm%3BAnonymousEditRoute.bmml%26bm%3BAnonymousEditRoute.bmml%26bm%3BAnonymousEditRoute.bmml%2CAnonymousRouteDeleted%26bm%3BAnonymousRouteDeleted.bmml%26bm%3BAnonymousRouteDeleted.bmml%26bm%3BAnonymousRouteDeleted.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C339%2C140%2C376%22%20href%3D%22AnonymousEditRoute.bmml%22%20alt%3D%22AnonymousEditRoute%22%20id%3D%2211%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22142%2C339%2C240%2C376%22%20href%3D%22AnonymousRouteDeleted.bmml%22%20alt%3D%22AnonymousRouteDeleted%22%20id%3D%2211%22/%3E</map>
+        <hrefs>ManagerEditRoute%26bm%3BManagerEditRoute.bmml%26bm%3BManagerEditRoute.bmml%26bm%3BManagerEditRoute.bmml%2CManagerRouteDeleted%26bm%3BManagerRouteDeleted.bmml%26bm%3BManagerRouteDeleted.bmml%26bm%3BManagerRouteDeleted.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C339%2C140%2C376%22%20href%3D%22ManagerEditRoute.bmml%22%20alt%3D%22ManagerEditRoute%22%20id%3D%2211%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22142%2C339%2C240%2C376%22%20href%3D%22ManagerRouteDeleted.bmml%22%20alt%3D%22ManagerRouteDeleted%22%20id%3D%2211%22/%3E</map>
         <text>Are%20you%20sure%20%3F%0ADelete%20this%20route%0ANo%2C%20Yes</text>
       </controlProperties>
     </control>
@@ -150,9 +150,9 @@
     <control controlID="48" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="75" h="28" measuredW="77" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>AnonymousRouteDetail%26bm%3BAnonymousRouteDetail.bmml%26bm%3BAnonymousRouteDetail.bmml%26bm%3BAnonymousRouteDetail.bmml</href>
+        <href>ManagerRouteDetail%26bm%3BManagerRouteDetail.bmml%26bm%3BManagerRouteDetail.bmml%26bm%3BManagerRouteDetail.bmml</href>
         <icon>LeftTriangleIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C105%2C134%22%20href%3D%22AnonymousRouteDetail.bmml%22%20alt%3D%22AnonymousRouteDetail%22%20id%3D%2248%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C105%2C134%22%20href%3D%22ManagerRouteDetail.bmml%22%20alt%3D%22ManagerRouteDetail%22%20id%3D%2248%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Cancel</text>
@@ -161,9 +161,9 @@
     <control controlID="49" controlTypeID="com.balsamiq.mockups::Button" x="67" y="468" w="75" h="26" measuredW="77" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <color>15658734</color>
-        <href>AnonymousRouteDelete%26bm%3BAnonymousRouteDelete.bmml%26bm%3BAnonymousRouteDelete.bmml%26bm%3BAnonymousRouteDelete.bmml</href>
+        <href>ManagerRouteDelete%26bm%3BManagerRouteDelete.bmml%26bm%3BManagerRouteDelete.bmml%26bm%3BManagerRouteDelete.bmml</href>
         <icon>XIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C459%2C120%2C485%22%20href%3D%22AnonymousRouteDelete.bmml%22%20alt%3D%22AnonymousRouteDelete%22%20id%3D%2249%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C459%2C120%2C485%22%20href%3D%22ManagerRouteDelete.bmml%22%20alt%3D%22ManagerRouteDelete%22%20id%3D%2249%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>12</size>
         <text>Delete</text>
@@ -172,8 +172,8 @@
     <control controlID="50" controlTypeID="com.balsamiq.mockups::Button" x="202" y="468" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>AnonymousRouteEditted%26bm%3BAnonymousRouteEditted.bmml%26bm%3BAnonymousRouteEditted.bmml%26bm%3BAnonymousRouteEditted.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22180%2C459%2C244%2C486%22%20href%3D%22AnonymousRouteEditted.bmml%22%20alt%3D%22AnonymousRouteEditted%22%20id%3D%2250%22/%3E</map>
+        <href>ManagerRouteEditted%26bm%3BManagerRouteEditted.bmml%26bm%3BManagerRouteEditted.bmml%26bm%3BManagerRouteEditted.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22180%2C459%2C244%2C486%22%20href%3D%22ManagerRouteEditted.bmml%22%20alt%3D%22ManagerRouteEditted%22%20id%3D%2250%22/%3E</map>
         <text>Submit</text>
       </controlProperties>
     </control>
