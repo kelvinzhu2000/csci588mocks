@@ -6,12 +6,12 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>ManagerEventMainPageMock%26bm%3BManagerEventMainPageMock.bmml%26bm%3BManagerEventMainPageMock.bmml%26bm%3BManagerEventMainPageMock.bmml</href>
-        <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22ManagerEventMainPageMock.bmml%22%20alt%3D%22ManagerEventMainPageMock%22%20id%3D%221%22/%3E</map>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22ManagerEventMainPageMock.bmml%22%20alt%3D%22ManagerEventMainPageMock%22%20id%3D%221%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
@@ -28,16 +28,16 @@
     </control>
     <control controlID="15" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="56" y="158" w="-1" h="-1" measuredW="215" measuredH="213" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>eventpublishfillintitle%26bm%3Beventpublishfillintitle.bmml%26bm%3Beventpublishfillintitle.bmml%26bm%3Beventpublishfillintitle.bmml%2C%2C%2C%2C%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C154%2C249%2C183%22%20href%3D%22eventpublishfillintitle.bmml%22%20alt%3D%22eventpublishfillintitle%22%20id%3D%2215%22/%3E</map>
+        <hrefs>ManagerEventpublishfillintitle%26bm%3BManagerEventpublishfillintitle.bmml%26bm%3BManagerEventpublishfillintitle.bmml%26bm%3BManagerEventpublishfillintitle.bmml%2C%2C%2C%2C%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C154%2C249%2C183%22%20href%3D%22ManagerEventpublishfillintitle.bmml%22%20alt%3D%22ManagerEventpublishfillintitle%22%20id%3D%2215%22/%3E</map>
         <text>Title%0A+%20Location%2C%20%3E%0ADate%0ATime%0A+%20Category%2C%20%3E%0A+%20Photo%2C%20%3E%0A+%20Summary%2C%20%3E</text>
       </controlProperties>
     </control>
     <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="131" y="433" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>eventpublishsuccess%26bm%3Beventpublishsuccess.bmml%26bm%3Beventpublishsuccess.bmml%26bm%3Beventpublishsuccess.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C424%2C173%2C451%22%20href%3D%22eventpublishsuccess.bmml%22%20alt%3D%22eventpublishsuccess%22%20id%3D%2216%22/%3E</map>
+        <href>ManagerEventpublishsuccess%26bm%3BManagerEventpublishsuccess.bmml%26bm%3BManagerEventpublishsuccess.bmml%26bm%3BManagerEventpublishsuccess.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C424%2C173%2C451%22%20href%3D%22ManagerEventpublishsuccess.bmml%22%20alt%3D%22ManagerEventpublishsuccess%22%20id%3D%2216%22/%3E</map>
         <text>Submit</text>
       </controlProperties>
     </control>

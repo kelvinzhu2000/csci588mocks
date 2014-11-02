@@ -6,12 +6,12 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>eventPublishcategorysuccess%26bm%3BeventPublishcategorysuccess.bmml%26bm%3BeventPublishcategorysuccess.bmml%26bm%3BeventPublishcategorysuccess.bmml</href>
-        <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22eventPublishcategorysuccess.bmml%22%20alt%3D%22eventPublishcategorysuccess%22%20id%3D%2228%22/%3E</map>
+        <href>ManagerEventPublishcategorysuccess%26bm%3BManagerEventPublishcategorysuccess.bmml%26bm%3BManagerEventPublishcategorysuccess.bmml%26bm%3BManagerEventPublishcategorysuccess.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22ManagerEventPublishcategorysuccess.bmml%22%20alt%3D%22ManagerEventPublishcategorysuccess%22%20id%3D%2228%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
@@ -29,8 +29,8 @@
     <control controlID="30" controlTypeID="com.balsamiq.mockups::Button" x="214" y="116" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>eventpublishphotosuccess%26bm%3Beventpublishphotosuccess.bmml%26bm%3Beventpublishphotosuccess.bmml%26bm%3Beventpublishphotosuccess.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C107%2C245%2C134%22%20href%3D%22eventpublishphotosuccess.bmml%22%20alt%3D%22eventpublishphotosuccess%22%20id%3D%2230%22/%3E</map>
+        <href>ManagerEventpublishphotosuccess%26bm%3BManagerEventpublishphotosuccess.bmml%26bm%3BManagerEventpublishphotosuccess.bmml%26bm%3BManagerEventpublishphotosuccess.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C107%2C245%2C134%22%20href%3D%22ManagerEventpublishphotosuccess.bmml%22%20alt%3D%22ManagerEventpublishphotosuccess%22%20id%3D%2230%22/%3E</map>
         <text>Done</text>
       </controlProperties>
     </control>

@@ -27,9 +27,9 @@
         <borderStyle>square</borderStyle>
         <color>10027008</color>
         <direction>center</direction>
-        <href>ManagerMapWithEventsMenuMock%26bm%3BManagerMapWithEventsMenuMock.bmml%26bm%3BManagerMapWithEventsMenuMock.bmml%26bm%3BManagerMapWithEventsMenuMock.bmml</href>
+        <href>ManagerMapWithMenuMock%26bm%3BManagerMapWithMenuMock.bmml%26bm%3BManagerMapWithMenuMock.bmml%26bm%3BManagerMapWithMenuMock.bmml</href>
         <icon>ListIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2237%2C106%2C70%2C133%22%20href%3D%22ManagerMapWithEventsMenuMock.bmml%22%20alt%3D%22ManagerMapWithEventsMenuMock%22%20id%3D%228%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2237%2C106%2C70%2C133%22%20href%3D%22ManagerMapWithMenuMock.bmml%22%20alt%3D%22ManagerMapWithMenuMock%22%20id%3D%228%22/%3E</map>
         <newLayout>true</newLayout>
         <text/>
       </controlProperties>
@@ -52,8 +52,8 @@
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::IconLabel" x="85" y="179" w="-1" h="-1" measuredW="56" measuredH="47" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <borderStyle>square</borderStyle>
-        <color>10027008</color>
+        <borderStyle>none</borderStyle>
+        <color>0</color>
         <href>ManagerEventCreatorDetailMock%26bm%3BManagerEventCreatorDetailMock.bmml%26bm%3BManagerEventCreatorDetailMock.bmml%26bm%3BManagerEventCreatorDetailMock.bmml</href>
         <icon>DownFillTriangleIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C170%2C119%2C217%22%20href%3D%22ManagerEventCreatorDetailMock.bmml%22%20alt%3D%22ManagerEventCreatorDetailMock%22%20id%3D%2212%22/%3E</map>

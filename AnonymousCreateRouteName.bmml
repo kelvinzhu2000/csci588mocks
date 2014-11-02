@@ -69,8 +69,8 @@
     <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="202" y="468" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>eventpublishsuccess%26bm%3Beventpublishsuccess.bmml%26bm%3Beventpublishsuccess.bmml%26bm%3Beventpublishsuccess.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22180%2C459%2C244%2C486%22%20href%3D%22eventpublishsuccess.bmml%22%20alt%3D%22eventpublishsuccess%22%20id%3D%2210%22/%3E</map>
+        <href>ManagerEventpublishsuccess%26bm%3BManagerEventpublishsuccess.bmml%26bm%3BManagerEventpublishsuccess.bmml%26bm%3BManagerEventpublishsuccess.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22180%2C459%2C244%2C486%22%20href%3D%22ManagerEventpublishsuccess.bmml%22%20alt%3D%22ManagerEventpublishsuccess%22%20id%3D%2210%22/%3E</map>
         <text>Submit</text>
       </controlProperties>
     </control>

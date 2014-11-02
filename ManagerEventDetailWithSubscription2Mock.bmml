@@ -42,7 +42,8 @@
     </control>
     <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="142" y="262" w="-1" h="-1" measuredW="68" measuredH="47" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>10027008</color>
+        <borderStyle>none</borderStyle>
+        <color>0</color>
         <href>ManagerMapWithSubscribedEventMock%26bm%3BManagerMapWithSubscribedEventMock.bmml%26bm%3BManagerMapWithSubscribedEventMock.bmml%26bm%3BManagerMapWithSubscribedEventMock.bmml</href>
         <icon>DownFillTriangleIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C253%2C188%2C300%22%20href%3D%22ManagerMapWithSubscribedEventMock.bmml%22%20alt%3D%22ManagerMapWithSubscribedEventMock%22%20id%3D%225%22/%3E</map>
