@@ -36,9 +36,9 @@
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="56" y="158" w="-1" h="-1" measuredW="215" measuredH="155" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>ManagerGeoCreatefill_in_title%26bm%3BManagerGeoCreatefill_in_title.bmml%26bm%3BManagerGeoCreatefill_in_title.bmml%26bm%3BManagerGeoCreatefill_in_title.bmml%2C%2C%2C%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C154%2C249%2C183%22%20href%3D%22ManagerGeoCreatefill_in_title.bmml%22%20alt%3D%22ManagerGeoCreatefill_in_title%22%20id%3D%224%22/%3E</map>
-        <text>Name%20%2C%20%0ASummary%20%2C%20%0ALink%20%2C%20%0ALocation%2C%20%3E%0ASize%2C%20%3E</text>
+        <hrefs>%2CManagerGeoCreate_fill_summary%26bm%3BManagerGeoCreate_fill_summary.bmml%26bm%3BManagerGeoCreate_fill_summary.bmml%26bm%3BManagerGeoCreate_fill_summary.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C183%2C249%2C212%22%20href%3D%22ManagerGeoCreate_fill_summary.bmml%22%20alt%3D%22ManagerGeoCreate_fill_summary%22%20id%3D%224%22/%3E</map>
+        <text>Name%20%20%20%20%20%20%20%20%20%20%20%20%20%20%28the%20Quad%29%2C%20%0ASummary%20%2C%20%0ALink%20%2C%20%0ALocation%2C%20%3E%0ASize%2C%20%3E</text>
       </controlProperties>
     </control>
   </controls>
