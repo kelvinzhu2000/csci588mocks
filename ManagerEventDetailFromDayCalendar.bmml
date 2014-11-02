@@ -1,0 +1,65 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="304" measuredH="582" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topOnly</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>ManagerDayCalendarMock_CL%26bm%3BManagerDayCalendarMock_CL.bmml%26bm%3BManagerDayCalendarMock_CL.bmml%26bm%3BManagerDayCalendarMock_CL.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C90%2C134%22%20href%3D%22ManagerDayCalendarMock_CL.bmml%22%20alt%3D%22ManagerDayCalendarMock_CL%22%20id%3D%221%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>11</size>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="102" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>Event%20Details</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="107" y="158" w="112" h="-1" measuredW="105" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Career%20Fair</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::List" x="65" y="186" w="196" h="131" measuredW="100" measuredH="126" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Summary%3A%20Bring%20your%20resume%0Ato%20this%20gathering%20of%20recruiters%0Afrom%20LA%20tech%20companies.%0ATime%3A%20Oct.%208%2C%201-5%20PM%0ALocation%3A%20Engineering%20Quad</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="51" y="317" w="224" h="139" measuredW="1966" measuredH="1470" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>116%2C39%2C768%2C919</crop>
+        <src>./assets/FullMap.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="141" y="374" w="-1" h="-1" measuredW="68" measuredH="47" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DownFillTriangleIcon%7Cmedium</icon>
+        <text>Career%20Fair</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="75" y="292" w="-1" h="-1" measuredW="65" measuredH="19" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Read%20More</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="59" y="456" w="208" h="43" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="252" y="456" w="-1" h="43" measuredW="16" measuredH="100" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Webcam" x="65" y="461" w="50" h="38" measuredW="177" measuredH="146" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Webcam" x="202" y="461" w="50" h="38" measuredW="177" measuredH="146" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Webcam" x="137" y="461" w="50" h="38" measuredW="177" measuredH="146" zOrder="12" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

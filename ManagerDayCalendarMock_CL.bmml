@@ -66,8 +66,8 @@
     <control controlID="12" controlTypeID="com.balsamiq.mockups::TextArea" x="102" y="423" w="164" h="58" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <color>15843890</color>
-        <href>ManagerEventDetail2Mock%26bm%3BManagerEventDetail2Mock.bmml%26bm%3BManagerEventDetail2Mock.bmml%26bm%3BManagerEventDetail2Mock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2280%2C414%2C244%2C472%22%20href%3D%22ManagerEventDetail2Mock.bmml%22%20alt%3D%22ManagerEventDetail2Mock%22%20id%3D%2212%22/%3E</map>
+        <href>ManagerEventDetailFromDayCalendar%26bm%3BManagerEventDetailFromDayCalendar.bmml%26bm%3BManagerEventDetailFromDayCalendar.bmml%26bm%3BManagerEventDetailFromDayCalendar.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2280%2C414%2C244%2C472%22%20href%3D%22ManagerEventDetailFromDayCalendar.bmml%22%20alt%3D%22ManagerEventDetailFromDayCalendar%22%20id%3D%2212%22/%3E</map>
         <size>10</size>
         <text>586%20User%20Interface%0AContent%3A%20Chapter%202%20-%20Chapter%203%20%0ALocation%20%3A%20SGM%20234</text>
       </controlProperties>
@@ -75,8 +75,8 @@
     <control controlID="13" controlTypeID="com.balsamiq.mockups::TextArea" x="102" y="219" w="164" h="80" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <color>15843890</color>
-        <href>ManagerEventDetail2Mock%26bm%3BManagerEventDetail2Mock.bmml%26bm%3BManagerEventDetail2Mock.bmml%26bm%3BManagerEventDetail2Mock.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2280%2C210%2C244%2C290%22%20href%3D%22ManagerEventDetail2Mock.bmml%22%20alt%3D%22ManagerEventDetail2Mock%22%20id%3D%2213%22/%3E</map>
+        <href>ManagerEventDetailFromDayCalendar%26bm%3BManagerEventDetailFromDayCalendar.bmml%26bm%3BManagerEventDetailFromDayCalendar.bmml%26bm%3BManagerEventDetailFromDayCalendar.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2280%2C210%2C244%2C290%22%20href%3D%22ManagerEventDetailFromDayCalendar.bmml%22%20alt%3D%22ManagerEventDetailFromDayCalendar%22%20id%3D%2213%22/%3E</map>
         <size>10</size>
         <text>Go%20Rapha%20Shopping%0ABuying%20list%3A%0Atissue%20x%203%0Awine%20shtter%20home%20%0Aurl%3A%20goo.gl/zVg2rw</text>
       </controlProperties>
@@ -101,9 +101,9 @@
       <controlProperties>
         <align>right</align>
         <color>10027008</color>
-        <href>WeekCalendarMock_CL%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml%26bm%3BWeekCalendarMock_CL.bmml</href>
+        <href>ManagerWeekCalendarMock_CL%26bm%3BManagerWeekCalendarMock_CL.bmml%26bm%3BManagerWeekCalendarMock_CL.bmml%26bm%3BManagerWeekCalendarMock_CL.bmml</href>
         <icon>LeftTriangleIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C94%2C134%22%20href%3D%22WeekCalendarMock_CL.bmml%22%20alt%3D%22WeekCalendarMock_CL%22%20id%3D%2220%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C94%2C134%22%20href%3D%22ManagerWeekCalendarMock_CL.bmml%22%20alt%3D%22ManagerWeekCalendarMock_CL%22%20id%3D%2220%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Week</text>
@@ -128,6 +128,14 @@
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Button" x="216" y="272" w="50" h="27" measuredW="50" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <href>Manager_map_for_calendar_CL%26bm%3BManager_map_for_calendar_CL.bmml%26bm%3BManager_map_for_calendar_CL.bmml%26bm%3BManager_map_for_calendar_CL.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22194%2C263%2C244%2C290%22%20href%3D%22Manager_map_for_calendar_CL.bmml%22%20alt%3D%22Manager_map_for_calendar_CL%22%20id%3D%2223%22/%3E</map>
+        <text>MAP</text>
       </controlProperties>
     </control>
   </controls>

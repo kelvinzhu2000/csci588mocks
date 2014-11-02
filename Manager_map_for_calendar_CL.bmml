@@ -36,9 +36,9 @@
       <controlProperties>
         <align>right</align>
         <color>10027008</color>
-        <href>DayCalendarMock_CL%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml%26bm%3BDayCalendarMock_CL.bmml</href>
+        <href>ManagerDayCalendarMock_CL%26bm%3BManagerDayCalendarMock_CL.bmml%26bm%3BManagerDayCalendarMock_CL.bmml%26bm%3BManagerDayCalendarMock_CL.bmml</href>
         <icon>LeftTriangleIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C94%2C134%22%20href%3D%22DayCalendarMock_CL.bmml%22%20alt%3D%22DayCalendarMock_CL%22%20id%3D%227%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C94%2C134%22%20href%3D%22ManagerDayCalendarMock_CL.bmml%22%20alt%3D%22ManagerDayCalendarMock_CL%22%20id%3D%227%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Back</text>
