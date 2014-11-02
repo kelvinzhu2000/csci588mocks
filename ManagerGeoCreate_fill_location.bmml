@@ -6,15 +6,15 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="74" h="28" measuredW="77" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>ManagerEventPublish%26bm%3BManagerEventPublish.bmml%26bm%3BManagerEventPublish.bmml%26bm%3BManagerEventPublish.bmml</href>
-        <icon>LeftTriangleIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22ManagerEventPublish.bmml%22%20alt%3D%22ManagerEventPublish%22%20id%3D%221%22/%3E</map>
+        <href>ManagerGeoCreate%26bm%3BManagerGeoCreate.bmml%26bm%3BManagerGeoCreate.bmml%26bm%3BManagerGeoCreate.bmml</href>
+        <icon>LeftTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C104%2C134%22%20href%3D%22ManagerGeoCreate.bmml%22%20alt%3D%22ManagerGeoCreate%22%20id%3D%221%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
-        <text>Back</text>
+        <text>Cancel</text>
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="66" measuredH="24" zOrder="2" locked="false" isInGroup="-1">

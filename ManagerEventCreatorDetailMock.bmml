@@ -29,8 +29,8 @@
     <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="226" y="115" w="48" h="28" measuredW="42" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>EditEvent_Main_CL%26bm%3BEditEvent_Main_CL.bmml%26bm%3BEditEvent_Main_CL.bmml%26bm%3BEditEvent_Main_CL.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22204%2C106%2C252%2C134%22%20href%3D%22EditEvent_Main_CL.bmml%22%20alt%3D%22EditEvent_Main_CL%22%20id%3D%228%22/%3E</map>
+        <href>ManagerEventEdit%26bm%3BManagerEventEdit.bmml%26bm%3BManagerEventEdit.bmml%26bm%3BManagerEventEdit.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22204%2C106%2C252%2C134%22%20href%3D%22ManagerEventEdit.bmml%22%20alt%3D%22ManagerEventEdit%22%20id%3D%228%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
         <text>Edit</text>

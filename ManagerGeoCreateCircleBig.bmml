@@ -88,11 +88,11 @@
         <text>Cancel</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="214" y="114" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="214" y="116" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>ManagerGeoCreate_fill_size_success%26bm%3BManagerGeoCreate_fill_size_success.bmml%26bm%3BManagerGeoCreate_fill_size_success.bmml%26bm%3BManagerGeoCreate_fill_size_success.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C105%2C245%2C132%22%20href%3D%22ManagerGeoCreate_fill_size_success.bmml%22%20alt%3D%22ManagerGeoCreate_fill_size_success%22%20id%3D%228%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C107%2C245%2C134%22%20href%3D%22ManagerGeoCreate_fill_size_success.bmml%22%20alt%3D%22ManagerGeoCreate_fill_size_success%22%20id%3D%228%22/%3E</map>
         <text>Done</text>
       </controlProperties>
     </control>
