@@ -45,8 +45,8 @@
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="116" y="199" w="158" h="265" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>USCBus-BRoutStop%26bm%3BUSCBus-BRoutStop.bmml%26bm%3BUSCBus-BRoutStop.bmml%26bm%3BUSCBus-BRoutStop.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2294%2C190%2C252%2C455%22%20href%3D%22USCBus-BRoutStop.bmml%22%20alt%3D%22USCBus-BRoutStop%22%20id%3D%226%22/%3E</map>
+        <href>ManagerUSCBus-BRoutStop%26bm%3BManagerUSCBus-BRoutStop.bmml%26bm%3BManagerUSCBus-BRoutStop.bmml%26bm%3BManagerUSCBus-BRoutStop.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2294%2C190%2C252%2C455%22%20href%3D%22ManagerUSCBus-BRoutStop.bmml%22%20alt%3D%22ManagerUSCBus-BRoutStop%22%20id%3D%226%22/%3E</map>
         <state>focused</state>
         <text>Leavey%20Library%0AJEP%20House%20%0ADental%20School%0A34th%20and%20McClintock%0ACardinal%20Gardens%0ACity%20Park%20Apartments%0A2726%20Menlo%0A2658%20Menlo%0AAdams%20and%20Menlo%0A2632%20Ellendale%0A2700%20Ellendale%0ATerrace%20Apts%0A28th%20%26%20Orchard%0AUniversity%20Regents%20Apartments%0A27th%20and%20Monmoth%0ASierra%20Apartments%0AFounders%20Apartments%0AHillview%20Apartments%0APacific%20Apartments%0A28th%20%26%20University%0AAnnenberg%20House%0AStardust%20Apartments%0A32nd%20and%20Figueroa%20%28Gateway%29</text>
         <value>4</value>

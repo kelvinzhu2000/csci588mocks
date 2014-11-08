@@ -48,8 +48,8 @@
     </control>
     <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="49" y="199" w="124" h="265" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>USCBus-ARoutStop%26bm%3BUSCBus-ARoutStop.bmml%26bm%3BUSCBus-ARoutStop.bmml%26bm%3BUSCBus-ARoutStop.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C190%2C151%2C455%22%20href%3D%22USCBus-ARoutStop.bmml%22%20alt%3D%22USCBus-ARoutStop%22%20id%3D%225%22/%3E</map>
+        <href>ManagerUSCBus-ARoutStop%26bm%3BManagerUSCBus-ARoutStop.bmml%26bm%3BManagerUSCBus-ARoutStop.bmml%26bm%3BManagerUSCBus-ARoutStop.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C190%2C151%2C455%22%20href%3D%22ManagerUSCBus-ARoutStop.bmml%22%20alt%3D%22ManagerUSCBus-ARoutStop%22%20id%3D%225%22/%3E</map>
         <size>12</size>
         <state>focused</state>
         <text>Service%20from%207%3A35%20AM%20to%2011%3A05%20PM%2C%20Monday-Friday.%0AShuttles%20leave%20Leavey%20Library%20every%2030%20minutes.%0A7%3A35%20AM%0A8%3A05%20AM%0A8%3A35%20AM%0A9%3A05%20AM%0A9%3A35%20AM%0A10%3A05%20AM%0A10%3A35%20AM%0A11%3A05%20AM%0A11%3A35%20AM%0A12%3A05%20PM%0A12%3A35%20PM%0A1%3A05%20PM%0A1%3A35%20PM%0A2%3A05%20PM%0A2%3A35%20PM%0A3%3A05%20PM%0A3%3A35%20PM%0A4%3A05%20PM%0A4%3A35%20PM%0A5%3A05%20PM%0A5%3A35%20PM%0A6%3A05%20PM%0A6%3A35%20PM%0A7%3A05%20PM%0A7%3A35%20PM%0A8%3A05%20PM%0A8%3A35%20PM%0A9%3A05%20PM%0A9%3A35%20PM%0A10%3A05%20PM%0A10%3A35%20PM%0A11%3A05%20PM</text>

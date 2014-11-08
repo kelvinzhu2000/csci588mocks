@@ -6,10 +6,10 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="49" y="202" w="225" h="259" measuredW="1180" measuredH="938" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="50" y="193" w="221" h="268" measuredW="1160" measuredH="886" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <crop>403%2C384%2C461%2C586</crop>
-        <src>./Parcking.png</src>
+        <crop>406%2C363%2C453%2C554</crop>
+        <src>./ParckingRout-Stop.png</src>
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
@@ -32,7 +32,7 @@
         <text>USCBus</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Tree" x="49" y="148" w="225" h="51" measuredW="300" measuredH="225" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Tree" x="49" y="148" w="225" h="54" measuredW="300" measuredH="225" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <borderStyle>square</borderStyle>
@@ -43,31 +43,20 @@
         <text>v%20Choose%20one%20USC%20BUS%20Route%0A..%5Bx%5D%20Parking%20Center</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="173" y="464" w="101" h="34" measuredW="93" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="173" y="464" w="101" h="34" measuredW="99" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>ManagerUSCBus-PRoutStops%26bm%3BManagerUSCBus-PRoutStops.bmml%26bm%3BManagerUSCBus-PRoutStops.bmml%26bm%3BManagerUSCBus-PRoutStops.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22151%2C455%2C252%2C489%22%20href%3D%22ManagerUSCBus-PRoutStops.bmml%22%20alt%3D%22ManagerUSCBus-PRoutStops%22%20id%3D%225%22/%3E</map>
-        <size>11</size>
-        <state>selected</state>
+        <size>12</size>
         <text>Parking%20Stops</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="90" y="199" w="184" h="265" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <href>ManagerUSCBus-PRoutStop%26bm%3BManagerUSCBus-PRoutStop.bmml%26bm%3BManagerUSCBus-PRoutStop.bmml%26bm%3BManagerUSCBus-PRoutStop.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2268%2C190%2C252%2C455%22%20href%3D%22ManagerUSCBus-PRoutStop.bmml%22%20alt%3D%22ManagerUSCBus-PRoutStop%22%20id%3D%226%22/%3E</map>
-        <state>focused</state>
-        <text>Parking%20Center%0ACAL%20%28Carol%20Little%20Bldg%29-North%0ALeavey%20Library%0AJEP%20%28Joint%20Educational%20Project%29%20House%0ADental%20School%0A34th%20and%20McClintock%0ADowney%20Way%20and%20McClintock%0AVivian%20Hall%0AGate%202%20%286AM-8PM%20ONLY%29%0ATransit%20Center%20%286AM-7PM%20ONLY%29%0AResearch%20Annex%20%287AM-7PM%20ONLY%29%0ACAL-South%20%287AM-7PM%20ONLY%29</text>
-        <value>4</value>
-        <verticalScrollbar>true</verticalScrollbar>
-      </controlProperties>
-    </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="49" y="464" w="117" h="34" measuredW="109" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="49" y="464" w="116" h="34" measuredW="109" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>ManagerUSCBus-PRoutSchedule%26bm%3BManagerUSCBus-PRoutSchedule.bmml%26bm%3BManagerUSCBus-PRoutSchedule.bmml%26bm%3BManagerUSCBus-PRoutSchedule.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C455%2C144%2C489%22%20href%3D%22ManagerUSCBus-PRoutSchedule.bmml%22%20alt%3D%22ManagerUSCBus-PRoutSchedule%22%20id%3D%227%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C455%2C143%2C489%22%20href%3D%22ManagerUSCBus-PRoutSchedule.bmml%22%20alt%3D%22ManagerUSCBus-PRoutSchedule%22%20id%3D%226%22/%3E</map>
         <size>11</size>
         <state>up</state>
         <text>Parking%20Schedule</text>
