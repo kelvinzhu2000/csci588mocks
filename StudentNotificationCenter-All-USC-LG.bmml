@@ -45,9 +45,10 @@
     <control controlID="9" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="261" y="147" w="-1" h="354" measuredW="16" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="44" y="147" w="111" h="27" measuredW="37" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>6684672</color>
+        <color>10027008</color>
         <href>StudentNotificationCenter-All-USC-LG%26bm%3BStudentNotificationCenter-All-USC-LG.bmml%26bm%3BStudentNotificationCenter-All-USC-LG.bmml%26bm%3BStudentNotificationCenter-All-USC-LG.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C138%2C133%2C165%22%20href%3D%22StudentNotificationCenter-All-USC-LG.bmml%22%20alt%3D%22StudentNotificationCenter-All-USC-LG%22%20id%3D%2212%22/%3E</map>
+        <state>selected</state>
         <text>All</text>
       </controlProperties>
     </control>

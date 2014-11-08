@@ -37,9 +37,10 @@
     </control>
     <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="155" y="147" w="108" h="27" measuredW="64" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>6684672</color>
+        <color>10027008</color>
         <href>StudentNotificationCenter-Missed-USC-LG%26bm%3BStudentNotificationCenter-Missed-USC-LG.bmml%26bm%3BStudentNotificationCenter-Missed-USC-LG.bmml%26bm%3BStudentNotificationCenter-Missed-USC-LG.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22133%2C138%2C241%2C165%22%20href%3D%22StudentNotificationCenter-Missed-USC-LG.bmml%22%20alt%3D%22StudentNotificationCenter-Missed-USC-LG%22%20id%3D%2213%22/%3E</map>
+        <state>selected</state>
         <text>Missed</text>
       </controlProperties>
     </control>
