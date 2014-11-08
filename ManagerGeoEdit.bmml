@@ -38,7 +38,7 @@
       <controlProperties>
         <hrefs>%2C%2C%2C%2CManagerGeoEditCircleNormal%26bm%3BManagerGeoEditCircleNormal.bmml%26bm%3BManagerGeoEditCircleNormal.bmml%26bm%3BManagerGeoEditCircleNormal.bmml</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C270%2C249%2C299%22%20href%3D%22ManagerGeoEditCircleNormal.bmml%22%20alt%3D%22ManagerGeoEditCircleNormal%22%20id%3D%228%22/%3E</map>
-        <text>Name%3A%20Engineering%20Quad%2C%20%3E%0ASummary%3A%20Commonly%20used%20for...%2C%20%3E%0ALink%3A%20http%3A//www.moreinfo.com%2C%20%3E%0ALocation%2C%20%3E%0ASize%2C%20%3E</text>
+        <text>Name%3A%20Engineering%20Quad%2C%20%3E%0ASummary%3A%20Commonly%20used%20for...%2C%20%3E%0ALink%3A%20http%3A//www.moreinfo.com%2C%20%3E%0A+%20Location%2C%20%3E%0A+%20Size%2C%20%3E</text>
       </controlProperties>
     </control>
   </controls>
