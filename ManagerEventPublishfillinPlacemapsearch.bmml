@@ -26,18 +26,19 @@
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="46" y="149" w="229" h="349" measuredW="2560" measuredH="1600" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/ss3.png</src>
-      </controlProperties>
-    </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="214" y="115" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="214" y="115" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <color>6710886</color>
         <href>ManagerEventPublishlocationsuccess%26bm%3BManagerEventPublishlocationsuccess.bmml%26bm%3BManagerEventPublishlocationsuccess.bmml%26bm%3BManagerEventPublishlocationsuccess.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C106%2C245%2C133%22%20href%3D%22ManagerEventPublishlocationsuccess.bmml%22%20alt%3D%22ManagerEventPublishlocationsuccess%22%20id%3D%2214%22/%3E</map>
         <text>Done</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="49" y="148" w="225" h="350" measuredW="711" measuredH="1149" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/FullMap_Modified.jpg</src>
+        <text/>
       </controlProperties>
     </control>
   </controls>

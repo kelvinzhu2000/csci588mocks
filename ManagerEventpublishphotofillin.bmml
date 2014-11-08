@@ -1,157 +1,45 @@
 <mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="304" measuredH="582" mockupW="282" mockupH="573">
   <controls>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="22" y="9" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <bgPattern>topOnly</bgPattern>
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="74" h="28" measuredW="77" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="73" h="28" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>ManagerEventPublishcategorysuccess%26bm%3BManagerEventPublishcategorysuccess.bmml%26bm%3BManagerEventPublishcategorysuccess.bmml%26bm%3BManagerEventPublishcategorysuccess.bmml</href>
-        <icon>LeftTriangleIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C104%2C134%22%20href%3D%22ManagerEventPublishcategorysuccess.bmml%22%20alt%3D%22ManagerEventPublishcategorysuccess%22%20id%3D%2228%22/%3E</map>
+        <href>ManagerEventMainPageMock%26bm%3BManagerEventMainPageMock.bmml%26bm%3BManagerEventMainPageMock.bmml%26bm%3BManagerEventMainPageMock.bmml</href>
+        <icon>LeftTriangleIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C106%2C103%2C134%22%20href%3D%22ManagerEventMainPageMock.bmml%22%20alt%3D%22ManagerEventMainPageMock%22%20id%3D%221%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>11</size>
-        <text>Cancel</text>
+        <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="136" y="117" w="-1" h="-1" measuredW="60" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="101" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
         <size>16</size>
-        <text>Camera</text>
+        <text>Create%20Event</text>
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::Button" x="214" y="116" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="131" y="433" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
-        <href>ManagerEventpublishphotosuccess%26bm%3BManagerEventpublishphotosuccess.bmml%26bm%3BManagerEventpublishphotosuccess.bmml%26bm%3BManagerEventpublishphotosuccess.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C107%2C245%2C134%22%20href%3D%22ManagerEventpublishphotosuccess.bmml%22%20alt%3D%22ManagerEventpublishphotosuccess%22%20id%3D%2230%22/%3E</map>
-        <text>Done</text>
+        <href>eventpublishsuccess%26bm%3Beventpublishsuccess.bmml%26bm%3Beventpublishsuccess.bmml%26bm%3Beventpublishsuccess.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C424%2C173%2C451%22%20href%3D%22eventpublishsuccess.bmml%22%20alt%3D%22eventpublishsuccess%22%20id%3D%224%22/%3E</map>
+        <text>Submit</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::IconLabel" x="54" y="154" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="49" y="338" w="-1" h="-1" measuredW="226" measuredH="160" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="56" y="158" w="-1" h="-1" measuredW="215" measuredH="213" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::IconLabel" x="111" y="154" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::IconLabel" x="166" y="154" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::IconLabel" x="221" y="154" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::IconLabel" x="54" y="209" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="37" controlTypeID="com.balsamiq.mockups::IconLabel" x="111" y="209" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::IconLabel" x="166" y="209" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::IconLabel" x="221" y="209" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="40" controlTypeID="com.balsamiq.mockups::IconLabel" x="54" y="262" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="12" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::IconLabel" x="111" y="262" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="13" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::IconLabel" x="166" y="262" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="14" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::IconLabel" x="221" y="262" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="15" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="44" controlTypeID="com.balsamiq.mockups::IconLabel" x="54" y="317" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="16" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::IconLabel" x="111" y="317" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="17" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::IconLabel" x="166" y="317" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="18" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="47" controlTypeID="com.balsamiq.mockups::IconLabel" x="221" y="317" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="19" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::IconLabel" x="52" y="370" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="20" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::IconLabel" x="109" y="370" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="21" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::IconLabel" x="164" y="370" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="22" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::IconLabel" x="219" y="370" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="23" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::IconLabel" x="52" y="425" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="24" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::IconLabel" x="109" y="425" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="25" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::IconLabel" x="164" y="425" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="26" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::IconLabel" x="219" y="425" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="27" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%20</text>
+        <hrefs>ManagerEventpublishfillintitle%26bm%3BManagerEventpublishfillintitle.bmml%26bm%3BManagerEventpublishfillintitle.bmml%26bm%3BManagerEventpublishfillintitle.bmml%2CManagerEventPublishfillinDate%26bm%3BManagerEventPublishfillinDate.bmml%26bm%3BManagerEventPublishfillinDate.bmml%26bm%3BManagerEventPublishfillinDate.bmml%2CManagerEventPublishfillinTime%26bm%3BManagerEventPublishfillinTime.bmml%26bm%3BManagerEventPublishfillinTime.bmml%26bm%3BManagerEventPublishfillinTime.bmml%2CManagerEventPublishfillincategory%26bm%3BManagerEventPublishfillincategory.bmml%26bm%3BManagerEventPublishfillincategory.bmml%26bm%3BManagerEventPublishfillincategory.bmml%2CManagerEventpublishphotofillin%26bm%3BManagerEventpublishphotofillin.bmml%26bm%3BManagerEventpublishphotofillin.bmml%26bm%3BManagerEventpublishphotofillin.bmml%2CManagerEventpublishfillinplace%26bm%3BManagerEventpublishfillinplace.bmml%26bm%3BManagerEventpublishfillinplace.bmml%26bm%3BManagerEventpublishfillinplace.bmml%2CManagerEventPublishfillinsummary%26bm%3BManagerEventPublishfillinsummary.bmml%26bm%3BManagerEventPublishfillinsummary.bmml%26bm%3BManagerEventPublishfillinsummary.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C154%2C249%2C183%22%20href%3D%22ManagerEventpublishfillintitle.bmml%22%20alt%3D%22ManagerEventpublishfillintitle%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C183%2C249%2C212%22%20href%3D%22ManagerEventPublishfillinDate.bmml%22%20alt%3D%22ManagerEventPublishfillinDate%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C212%2C249%2C241%22%20href%3D%22ManagerEventPublishfillinTime.bmml%22%20alt%3D%22ManagerEventPublishfillinTime%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C241%2C249%2C270%22%20href%3D%22ManagerEventPublishfillincategory.bmml%22%20alt%3D%22ManagerEventPublishfillincategory%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C270%2C249%2C299%22%20href%3D%22ManagerEventpublishphotofillin.bmml%22%20alt%3D%22ManagerEventpublishphotofillin%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C299%2C249%2C328%22%20href%3D%22ManagerEventpublishfillinplace.bmml%22%20alt%3D%22ManagerEventpublishfillinplace%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C328%2C249%2C357%22%20href%3D%22ManagerEventPublishfillinsummary.bmml%22%20alt%3D%22ManagerEventPublishfillinsummary%22%20id%3D%226%22/%3E</map>
+        <text>Title%09%09%28Career%20Fair%29%0ADate%09%09%28Nov%204%202015%29%0ATime%09%09%2810%3A00%20AM%29%0ACategory%09%28career%29%0ALink%09%20%20%20%20%20%20%09www.moreinfo.edu%0A+%20Location%2C%20%3E%0A+%20Summary%2C%20%3E</text>
       </controlProperties>
     </control>
   </controls>
