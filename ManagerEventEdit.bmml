@@ -29,7 +29,7 @@
     <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="56" y="158" w="-1" h="-1" measuredW="215" measuredH="213" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs/>
-        <text>Title%09%09%28Career%20Fair%29%0A+%20Location%20%20%20%20%20%20%28Engineering%20Squad%29%2C%20%3E%0ADate%09%09%28Nov%204%202015%29%0ATime%09%09%2810%3A00%20AM%29%0ACategory%09%28career%29%0A+%20Photo%09%20%20%20%20%20%20%20%28Engineering%29%2C%3E%0A+%20Summary%20%20%20%20%20%28This%20event...%20%2C%20%3E</text>
+        <text>Title%09%09%28Career%20Fair%29%0ADate%09%09%28Nov%204%202015%29%0ATime%09%09%2810%3A00%20AM%29%0ACategory%09%28career%29%0ALink%09%20%20%20%20%20%20%20%09www.moreinfo.edu%0A+%20Location%20%20%20%20%20%20%28Engineering%20Squad%29%2C%20%3E%0A+%20Summary%20%20%20%20%20%28This%20event...%20%2C%20%3E</text>
       </controlProperties>
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="131" y="433" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
