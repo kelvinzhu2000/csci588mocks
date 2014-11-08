@@ -6,10 +6,10 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Menu" x="48" y="146" w="120" h="-1" measuredW="150" measuredH="187" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Menu" x="48" y="176" w="120" h="-1" measuredW="150" measuredH="187" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>LogoutSuccessfulMapMock%26bm%3BLogoutSuccessfulMapMock.bmml%26bm%3BLogoutSuccessfulMapMock.bmml%26bm%3BLogoutSuccessfulMapMock.bmml%2C%2CManagerMonthCalendarMock_CL%26bm%3BManagerMonthCalendarMock_CL.bmml%26bm%3BManagerMonthCalendarMock_CL.bmml%26bm%3BManagerMonthCalendarMock_CL.bmml%2C%2CManagerBuildingMain%26bm%3BManagerBuildingMain.bmml%26bm%3BManagerBuildingMain.bmml%26bm%3BManagerBuildingMain.bmml%2C%2CManagerGeoMain%26bm%3BManagerGeoMain.bmml%26bm%3BManagerGeoMain.bmml%26bm%3BManagerGeoMain.bmml%2C%2CManagerEventMainPageMock%26bm%3BManagerEventMainPageMock.bmml%26bm%3BManagerEventMainPageMock.bmml%26bm%3BManagerEventMainPageMock.bmml%2C%2CManagerRoutesMain%26bm%3BManagerRoutesMain.bmml%26bm%3BManagerRoutesMain.bmml%26bm%3BManagerRoutesMain.bmml%2C%2CManagerNotificationCenter-All-USC-LG%26bm%3BManagerNotificationCenter-All-USC-LG.bmml%26bm%3BManagerNotificationCenter-All-USC-LG.bmml%26bm%3BManagerNotificationCenter-All-USC-LG.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C142%2C146%2C163%22%20href%3D%22LogoutSuccessfulMapMock.bmml%22%20alt%3D%22LogoutSuccessfulMapMock%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C168%2C146%2C189%22%20href%3D%22ManagerMonthCalendarMock_CL.bmml%22%20alt%3D%22ManagerMonthCalendarMock_CL%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C194%2C146%2C215%22%20href%3D%22ManagerBuildingMain.bmml%22%20alt%3D%22ManagerBuildingMain%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C220%2C146%2C241%22%20href%3D%22ManagerGeoMain.bmml%22%20alt%3D%22ManagerGeoMain%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C246%2C146%2C267%22%20href%3D%22ManagerEventMainPageMock.bmml%22%20alt%3D%22ManagerEventMainPageMock%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C272%2C146%2C293%22%20href%3D%22ManagerRoutesMain.bmml%22%20alt%3D%22ManagerRoutesMain%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C298%2C146%2C319%22%20href%3D%22ManagerNotificationCenter-All-USC-LG.bmml%22%20alt%3D%22ManagerNotificationCenter-All-USC-LG%22%20id%3D%223%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C172%2C146%2C193%22%20href%3D%22LogoutSuccessfulMapMock.bmml%22%20alt%3D%22LogoutSuccessfulMapMock%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C198%2C146%2C219%22%20href%3D%22ManagerMonthCalendarMock_CL.bmml%22%20alt%3D%22ManagerMonthCalendarMock_CL%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C224%2C146%2C245%22%20href%3D%22ManagerBuildingMain.bmml%22%20alt%3D%22ManagerBuildingMain%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C250%2C146%2C271%22%20href%3D%22ManagerGeoMain.bmml%22%20alt%3D%22ManagerGeoMain%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C276%2C146%2C297%22%20href%3D%22ManagerEventMainPageMock.bmml%22%20alt%3D%22ManagerEventMainPageMock%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C302%2C146%2C323%22%20href%3D%22ManagerRoutesMain.bmml%22%20alt%3D%22ManagerRoutesMain%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C328%2C146%2C349%22%20href%3D%22ManagerNotificationCenter-All-USC-LG.bmml%22%20alt%3D%22ManagerNotificationCenter-All-USC-LG%22%20id%3D%223%22/%3E</map>
         <text>Sign%20Out%0A---%0ACalendar%0A---%0ABuildings%0A---%0ALocations%0A---%0AEvents%0A---%0ARoutes%0A---%0ANotifications</text>
       </controlProperties>
     </control>
@@ -30,24 +30,24 @@
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::SearchBox" x="48" y="116" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SearchBox" x="48" y="146" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>search</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="179" y="114" w="33" h="-1" measuredW="44" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="59" y="114" w="33" h="-1" measuredW="44" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <color>10027008</color>
         <direction>center</direction>
         <href>ManagerMapMock%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml%26bm%3BManagerMapMock.bmml</href>
         <icon>ListIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22157%2C105%2C190%2C132%22%20href%3D%22ManagerMapMock.bmml%22%20alt%3D%22ManagerMapMock%22%20id%3D%2210%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2237%2C105%2C70%2C132%22%20href%3D%22ManagerMapMock.bmml%22%20alt%3D%22ManagerMapMock%22%20id%3D%2210%22/%3E</map>
         <newLayout>true</newLayout>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="208" y="115" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="208" y="115" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>ManagerMapWithDisplayMock%26bm%3BManagerMapWithDisplayMock.bmml%26bm%3BManagerMapWithDisplayMock.bmml%26bm%3BManagerMapWithDisplayMock.bmml</href>
@@ -55,5 +55,6 @@
         <text>Display</text>
       </controlProperties>
     </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="48" y="146" w="120" h="165" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>
