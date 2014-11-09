@@ -6,7 +6,7 @@
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="94" y="401" w="139" h="27" measuredW="64" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="94" y="401" w="139" h="27" measuredW="64" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>SignupFailMock%26bm%3BSignupFailMock.bmml%26bm%3BSignupFailMock.bmml%26bm%3BSignupFailMock.bmml</href>
@@ -14,7 +14,7 @@
         <text>Signup</text>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="52" y="115" w="60" h="28" measuredW="66" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10027008</color>
         <href>LoginMock%26bm%3BLoginMock.bmml%26bm%3BLoginMock.bmml%26bm%3BLoginMock.bmml</href>
@@ -25,7 +25,7 @@
         <text>Back</text>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="51" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="140" y="117" w="-1" h="-1" measuredW="51" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <color>10027008</color>
@@ -34,13 +34,13 @@
         <underline>false</underline>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="55" y="171" w="-1" h="-1" measuredW="215" measuredH="155" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="55" y="171" w="-1" h="-1" measuredW="215" measuredH="155" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs/>
         <text>Email%3A%20some_user@usc.edu%0APassword%3A%20*******%0ARetype%20Password%3A%20*******%0ADate%20of%20Birth%0AUser%20Type</text>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::iPhonePicker" x="56" y="326" w="-1" h="-1" measuredW="214" measuredH="160" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::iPhonePicker" x="56" y="283" w="-1" h="-1" measuredW="214" measuredH="160" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%20%0A%20%0AManager%0AStudent</text>
       </controlProperties>
