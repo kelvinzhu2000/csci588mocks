@@ -36,7 +36,8 @@
     </control>
     <control controlID="22" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="55" y="171" w="-1" h="-1" measuredW="215" measuredH="155" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs/>
+        <hrefs>%2C%2C%2C%2CSignupType%26bm%3BSignupType.bmml%26bm%3BSignupType.bmml%26bm%3BSignupType.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C283%2C248%2C312%22%20href%3D%22SignupType.bmml%22%20alt%3D%22SignupType%22%20id%3D%2222%22/%3E</map>
         <text>Email%3A%20%0APassword%3A%0ARetype%20Password%3A%0ADate%20of%20Birth%0AUser%20Type%2C%20%3E</text>
       </controlProperties>
     </control>
